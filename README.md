@@ -1,6 +1,6 @@
 # OrNetStats
 
-OrNetStats uses [onionoo.torproject.org](https://oniooo.torproject.org) data to generate statistics.
+OrNetStats uses [onionoo.torproject.org](https://onioo.torproject.org) data to generate statistics.
 Statistics are generated on a daily basis.
 For autonomous system and country stats you can use [compass.torproject.org](https://compass.torproject.org)
 
