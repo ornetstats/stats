@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-03-25 01:00:00 |
+| 2016-03-26 01:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
 | contact or fingerprint                             | middle_prob | cw-fraction | exit_prob | guard_prob | ASes | countries | /16 netblocks | relaycount |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
-| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.3 |        1.31 |       0.0 |        1.9 |    1 |         1 |             1 |          3 |
-| GTor <contact _AT_ gtor _DOT_ org>                 |         1.1 |        1.06 |       0.0 |        1.6 |    5 |         3 |             5 |         14 |
-| lux_aeterna <root AT eddai dot su> 16JSb5QoZ2LUACx |         0.9 |        0.37 |       0.0 |        0.0 |    3 |         3 |             3 |          3 |
-| whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ |         0.8 |        0.32 |       0.0 |        0.0 |    5 |         4 |             5 |          5 |
-| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.7 |        0.69 |       0.0 |        1.0 |    1 |         1 |             2 |          6 |
-| monitor0penmailbox0rg                              |         0.6 |        0.57 |       0.0 |        0.8 |    5 |         4 |             6 |         25 |
-| Boris Nagaev 1MZH41vEeaRaJo2WnifnGswBwM4YXoeNDb <b |         0.6 |        0.63 |       0.0 |        0.9 |    2 |         2 |             2 |          3 |
-| admin[at]veilednet[dot]com                         |         0.6 |        0.57 |       0.0 |        0.8 |    1 |         2 |             2 |         10 |
-| F409A7A1                                           |         0.6 |        0.23 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |         0.5 |        0.56 |       0.0 |        0.8 |    1 |         1 |             1 |          1 |
-| 1DE193C8                                           |         0.5 |        0.20 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.4 |        0.30 |       0.0 |        0.3 |    2 |         2 |             3 |          4 |
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.4 |        0.38 |       0.0 |        0.5 |    4 |         2 |             5 |          6 |
+| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.4 |        1.39 |       0.0 |        2.0 |    1 |         1 |             1 |          3 |
+| GTor <contact _AT_ gtor _DOT_ org>                 |         1.0 |        1.03 |       0.0 |        1.5 |    5 |         3 |             5 |         14 |
+| lux_aeterna <root AT eddai dot su> 16JSb5QoZ2LUACx |         0.9 |        0.38 |       0.0 |        0.0 |    2 |         2 |             2 |          2 |
+| whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ |         0.8 |        0.33 |       0.0 |        0.0 |    5 |         4 |             5 |          5 |
+| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.7 |        0.75 |       0.0 |        1.1 |    1 |         1 |             2 |          6 |
+| monitor0penmailbox0rg                              |         0.6 |        0.57 |       0.0 |        0.8 |    6 |         4 |             7 |         25 |
+| Boris Nagaev 19pZzECKDDMbSpaWEy8vGvELEfXM8GrkHS <b |         0.6 |        0.65 |       0.0 |        0.9 |    2 |         2 |             2 |          3 |
+| admin[at]veilednet[dot]com                         |         0.6 |        0.61 |       0.0 |        0.9 |    1 |         2 |             2 |         10 |
+| F409A7A1                                           |         0.6 |        0.26 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |         0.5 |        0.55 |       0.0 |        0.8 |    1 |         1 |             1 |          1 |
+| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.4 |        0.31 |       0.0 |        0.3 |    2 |         2 |             3 |          4 |
+| 3C3A6134                                           |         0.4 |        0.39 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
 | 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |         0.4 |        0.26 |       0.0 |        0.2 |    3 |         3 |             3 |          4 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.3 |        0.38 |       0.0 |        0.5 |    7 |         6 |             9 |          9 |
-| Hello, I am a Tor node! My nickname: https://youtu |         0.3 |        0.27 |       0.0 |        0.3 |    2 |         1 |             2 |         10 |
-| Linus Nordberg 4096R/23291265 <linus+tor@nordu.net |         0.3 |        0.23 |       0.0 |        0.2 |    3 |         1 |             3 |          3 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.3 |        0.34 |       0.0 |        0.5 |    7 |         6 |             9 |          9 |
+| Hello, I am a Tor node! My nickname: https://youtu |         0.3 |        0.28 |       0.0 |        0.3 |    2 |         1 |             2 |         10 |
+| tor@anondroid.com                                  |         0.3 |        0.33 |       0.0 |        0.4 |    2 |         2 |             2 |          2 |
+| A170D279                                           |         0.3 |        0.18 |       0.0 |        0.0 |    1 |         1 |             2 |          2 |
 | JoSch <tor4711 AT cell dot de>                     |         0.3 |        0.34 |       0.0 |        0.5 |    1 |         1 |             1 |          4 |
-| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |         0.3 |        0.30 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| tormaster at kkb-clan dot de                       |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| 3C3A6134                                           |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| tormaster at kkb-clan dot de                       |         0.3 |        0.30 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.3 |        0.36 |       0.0 |        0.5 |    4 |         2 |             5 |          6 |
+| bitfoo@bitfoo.org - 1GzYNBcKBi8pxcMfjkXMBv6FgJiyvK |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
 | 1FSLSZVXrKxiTyNxuWvGGDbMLyV5APtfG6                 |         0.3 |        0.21 |       0.0 |        0.2 |    1 |         1 |             1 |          2 |
-| 8C00FA73                                           |         0.3 |        0.36 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
-| None                                               |         0.3 |        0.36 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
-| No Email Contact - Thanks for your support : 1GKju |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| aTorRelay@gmail.com                                |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| Francois Deppierraz <francois@ctrlaltdel.ch>       |         0.2 |        0.20 |       0.0 |        0.3 |    1 |         1 |             1 |          1 |
-| Random Person <tor0102.10.swsnyder AT spamgourmet  |         0.2 |        0.31 |       1.0 |        0.0 |    8 |         7 |            10 |         11 |
-| random.sh <root@random.sh>                         |         0.2 |        0.27 |       0.0 |        0.4 |    3 |         1 |             3 |          3 |
-| 0EFB5858                                           |         0.2 |        0.27 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| 8C00FA73                                           |         0.3 |        0.37 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
+| None                                               |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| <tor AT quadhead.de>                               |         0.3 |        0.32 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| Francois Deppierraz <francois@ctrlaltdel.ch>       |         0.2 |        0.21 |       0.0 |        0.3 |    1 |         1 |             1 |          1 |
+| random.sh <root@random.sh>                         |         0.2 |        0.25 |       0.0 |        0.3 |    3 |         1 |             3 |          3 |
+| 0xD9E2501E1584232D Stephen R Guglielmo <guglielmo. |         0.2 |        0.21 |       0.0 |        0.3 |    2 |         2 |             2 |          2 |
+| 0EFB5858                                           |         0.2 |        0.28 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
