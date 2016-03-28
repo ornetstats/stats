@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-03-27 00:00:00 |
+| 2016-03-28 04:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
 | contact or fingerprint                             | middle_prob | cw-fraction | exit_prob | guard_prob | ASes | countries | /16 netblocks | relaycount |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
-| GTor <contact _AT_ gtor _DOT_ org>                 |         1.2 |        1.13 |       0.0 |        1.7 |    5 |         3 |             5 |         14 |
-| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.1 |        1.04 |       0.0 |        1.6 |    1 |         1 |             1 |          3 |
-| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.8 |        0.78 |       0.0 |        1.2 |    1 |         1 |             2 |          6 |
-| monitor0penmailbox0rg                              |         0.7 |        0.66 |       0.0 |        0.9 |    6 |         4 |             7 |         25 |
-| admin[at]veilednet[dot]com                         |         0.6 |        0.64 |       0.0 |        0.9 |    1 |         2 |             2 |         10 |
-| lux_aeterna <root AT eddai dot su> 16JSb5QoZ2LUACx |         0.6 |        0.26 |       0.0 |        0.0 |    3 |         3 |             3 |          3 |
-| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |         0.5 |        0.55 |       0.0 |        0.8 |    1 |         1 |             1 |          1 |
-| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.5 |        0.31 |       0.0 |        0.3 |    2 |         2 |             3 |          4 |
-| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |         0.5 |        0.31 |       0.0 |        0.2 |    3 |         3 |             3 |          4 |
-| Hello, I am a Tor node! My nickname: https://youtu |         0.4 |        0.31 |       0.0 |        0.4 |    2 |         1 |             2 |         10 |
-| JoSch <tor4711 AT cell dot de>                     |         0.4 |        0.39 |       0.0 |        0.6 |    1 |         1 |             1 |          4 |
-| 4096R/280A01F9 reverse(dserrano5.es at tor) 1NBVTT |         0.4 |        0.16 |       0.0 |        0.0 |    1 |         1 |             1 |          2 |
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.4 |        0.40 |       0.0 |        0.6 |    4 |         2 |             5 |          6 |
-| 43179DD3                                           |         0.4 |        0.18 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| bitfoo@bitfoo.org - 1GzYNBcKBi8pxcMfjkXMBv6FgJiyvK |         0.4 |        0.39 |       0.0 |        0.6 |    1 |         1 |             1 |          1 |
-| E29BAE27                                           |         0.4 |        0.18 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.3 |        0.32 |       0.0 |        0.4 |    7 |         6 |             8 |          8 |
-| 3C3A6134                                           |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| 1FSLSZVXrKxiTyNxuWvGGDbMLyV5APtfG6                 |         0.3 |        0.24 |       0.0 |        0.2 |    1 |         1 |             1 |          2 |
-| unser_heim%at%gmx.ch                               |         0.3 |        0.13 |       0.0 |        0.0 |    1 |         1 |             1 |          2 |
-| None                                               |         0.3 |        0.37 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
-| No Email Contact - Thanks for your support : 1GKju |         0.3 |        0.32 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
-| 1CsfihQGy5kg3nnTJLzfmNDiPGqiQgdeMz <bnagaev@gmail. |         0.2 |        0.21 |       0.0 |        0.3 |    2 |         2 |             2 |          3 |
-| Francois Deppierraz <francois@ctrlaltdel.ch>       |         0.2 |        0.22 |       0.0 |        0.3 |    1 |         1 |             1 |          1 |
-| Random Person <tor0102.10.swsnyder AT spamgourmet  |         0.2 |        0.32 |       1.0 |        0.0 |    8 |         7 |            10 |         11 |
-| Felix <zwiebel ta quantentunnel tod de>            |         0.2 |        0.20 |       0.0 |        0.3 |    3 |         2 |             3 |          9 |
-| 0EFB5858                                           |         0.2 |        0.22 |       0.0 |        0.3 |    1 |         1 |             1 |          1 |
-| Markus <markus AT mdfnet dot se>                   |         0.2 |        0.24 |       0.0 |        0.3 |    1 |         1 |             1 |          4 |
+| GTor <contact _AT_ gtor _DOT_ org>                 |         1.1 |        1.07 |       0.0 |        1.6 |    5 |         3 |             5 |         14 |
+| whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ |         0.9 |        0.37 |       0.0 |        0.0 |    5 |         4 |             5 |          5 |
+| Gijs Rijnders (tor AT ip-eend DOT nl)              |         0.9 |        0.92 |       0.0 |        1.4 |    1 |         1 |             1 |          3 |
+| lux_aeterna <root AT eddai dot su> 16JSb5QoZ2LUACx |         0.8 |        0.34 |       0.0 |        0.0 |    3 |         3 |             3 |          3 |
+| monitor0penmailbox0rg                              |         0.6 |        0.58 |       0.0 |        0.8 |    5 |         4 |             6 |         23 |
+| admin[at]veilednet[dot]com                         |         0.6 |        0.59 |       0.0 |        0.8 |    1 |         2 |             2 |         10 |
+| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |         0.6 |        0.58 |       0.0 |        0.8 |    1 |         1 |             1 |          1 |
+| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.6 |        0.63 |       0.0 |        0.9 |    1 |         1 |             2 |          6 |
+| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.6 |        0.39 |       0.0 |        0.3 |    2 |         2 |             3 |          4 |
+| Boris Nagaev 19pZzECKDDMbSpaWEy8vGvELEfXM8GrkHS <b |         0.5 |        0.55 |       0.0 |        0.8 |    2 |         2 |             2 |          3 |
+| Hello, I am a Tor node! My nickname: https://youtu |         0.4 |        0.31 |       0.0 |        0.3 |    2 |         1 |             2 |         10 |
+| 3C3A6134                                           |         0.4 |        0.41 |       0.0 |        0.6 |    1 |         1 |             1 |          1 |
+| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |         0.4 |        0.29 |       0.0 |        0.2 |    3 |         3 |             3 |          4 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.3 |        0.31 |       0.0 |        0.4 |    7 |         6 |             8 |          8 |
+| 4096R/23291265 Linus Nordberg <linus@nordberg.se>  |         0.3 |        0.30 |       0.0 |        0.4 |    3 |         1 |             3 |          3 |
+| 0xDE731050 Gareth Llewellyn <gareth@networksaremad |         0.3 |        0.40 |       0.4 |        0.4 |    9 |         7 |            12 |         15 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.3 |        0.36 |       0.0 |        0.5 |    4 |         2 |             5 |          6 |
+| 43179DD3                                           |         0.3 |        0.15 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| Knight <knight AT germancraft DOT net> - 1FtUVig2Y |         0.3 |        0.28 |       0.0 |        0.3 |    1 |         1 |             2 |          2 |
+| IDontKnow <whathappened@idk.com>                   |         0.3 |        0.30 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| bitfoo@bitfoo.org - 1GzYNBcKBi8pxcMfjkXMBv6FgJiyvK |         0.3 |        0.33 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
+| 8C00FA73                                           |         0.3 |        0.37 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
+| unser_heim%at%gmx.ch                               |         0.3 |        0.14 |       0.0 |        0.0 |    1 |         1 |             1 |          2 |
+| <tor AT quadhead.de>                               |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| Felix <zwiebel ta quantentunnel tod de>            |         0.2 |        0.18 |       0.0 |        0.2 |    3 |         2 |             3 |          9 |
+| 0EFB5858                                           |         0.2 |        0.26 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| Markus <markus AT mdfnet dot se>                   |         0.2 |        0.22 |       0.0 |        0.3 |    1 |         1 |             1 |          4 |
 | tor@anondroid.com                                  |         0.2 |        0.27 |       0.0 |        0.4 |    2 |         2 |             2 |          2 |
-| 4096R/23291265 Linus Nordberg <linus@nordberg.se>  |         0.2 |        0.26 |       0.0 |        0.4 |    3 |         1 |             3 |          3 |
+| tor terjan net                                     |         0.2 |        0.27 |       0.0 |        0.4 |    4 |         4 |             4 |          4 |
+| noc@cymru.com                                      |         0.2 |        0.21 |       0.0 |        0.3 |    2 |         1 |             2 |         11 |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
