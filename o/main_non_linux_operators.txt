@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-04-29 19:00:00 |
+| 2016-04-30 01:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
 | contact or fingerprint                             | cw-fraction | guard_p | exit_p | ASes | countries | /16blocks | relays |
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |        0.49 |   0.750 |  0.000 |    4 |         2 |         5 |      6 |
-| 2268d7d75f178828051d random.sh <root@random.sh>    |        0.37 |   0.566 |  0.000 |    3 |         1 |         3 |      3 |
-| DFRI <tor AT dfri dot se> - 1Muz37TfXVBiJKRJkAqTNo |        0.37 |   0.000 |  1.613 |    1 |         1 |         1 |      6 |
-| monitor0penmailbox0rg                              |        0.35 |   0.537 |  0.000 |    5 |         4 |         4 |     17 |
-| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |        0.26 |   0.393 |  0.000 |    2 |         2 |         2 |      4 |
-| 9CD77810                                           |        0.26 |   0.403 |  0.000 |    1 |         1 |         1 |      1 |
-| C804BE8F                                           |        0.24 |   0.379 |  0.000 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.23 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.22 |   0.348 |  0.000 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.20 |   0.311 |  0.000 |    1 |         1 |         1 |      1 |
-| starfleet --at-- trash ..dot.. net                 |        0.17 |   0.259 |  0.000 |    2 |         2 |         2 |      4 |
-| Felix <zwiebel ta quantentunnel tod de>            |        0.15 |   0.238 |  0.000 |    2 |         2 |         2 |      7 |
-| E506CE4D                                           |        0.13 |   0.211 |  0.000 |    1 |         1 |         1 |      1 |
-| IT <tor AT informatik dot uni-bremen dot de>       |        0.13 |   0.199 |  0.000 |    1 |         1 |         1 |      1 |
-| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |        0.11 |   0.172 |  0.000 |    1 |         1 |         1 |      3 |
-| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |        0.11 |   0.173 |  0.000 |    1 |         1 |         1 |      1 |
-| 5158B6A3                                           |        0.09 |   0.152 |  0.000 |    2 |         2 |         2 |      2 |
-| tor@arkel.fr                                       |        0.09 |   0.146 |  0.000 |    1 |         1 |         1 |      1 |
-| argenla <failure .AT. openmailbox .DOT. org>       |        0.09 |   0.000 |  0.394 |    1 |         1 |         1 |      2 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |        0.09 |   0.000 |  0.387 |    1 |         1 |         1 |      2 |
-| 23698ACD                                           |        0.08 |   0.134 |  0.000 |    1 |         1 |         1 |      1 |
-| 6B88E20F                                           |        0.07 |   0.120 |  0.000 |    1 |         1 |         1 |      1 |
-| grok-nospam@csc.warwick.ac.uk                      |        0.07 |   0.111 |  0.000 |    1 |         1 |         1 |      1 |
-| FF75CBC0                                           |        0.07 |   0.118 |  0.000 |    1 |         1 |         1 |      1 |
-| cubox at irc.freenode.org                          |        0.06 |   0.103 |  0.000 |    1 |         1 |         1 |      1 |
-| 0xCD483B330F8A5F4F - support [AT] sigaint [DOT] or |        0.06 |   0.106 |  0.000 |    1 |         1 |         2 |      4 |
-| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNv |        0.06 |   0.032 |  0.169 |    4 |         2 |         4 |      4 |
-| 0x2d9459941c96eb56 <info AT breyer dot eu>         |        0.06 |   0.000 |  0.280 |    1 |         1 |         1 |      1 |
-| DD4EF27F                                           |        0.05 |   0.088 |  0.000 |    1 |         1 |         1 |      1 |
-| 0x96881D83 <julian at amity dot be>                |        0.04 |   0.066 |  0.000 |    2 |         2 |         2 |      3 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |        0.47 |   0.731 |  0.000 |    4 |         2 |         5 |      6 |
+| DFRI <tor AT dfri dot se> - 1Muz37TfXVBiJKRJkAqTNo |        0.38 |   0.000 |  1.637 |    1 |         1 |         1 |      6 |
+| monitor0penmailbox0rg                              |        0.36 |   0.520 |  0.000 |    5 |         4 |         4 |     17 |
+| 2268d7d75f178828051d random.sh <root@random.sh>    |        0.35 |   0.544 |  0.000 |    3 |         1 |         3 |      3 |
+| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |        0.26 |   0.404 |  0.000 |    2 |         2 |         2 |      4 |
+| 9CD77810                                           |        0.26 |   0.413 |  0.000 |    1 |         1 |         1 |      1 |
+| C804BE8F                                           |        0.25 |   0.388 |  0.000 |    1 |         1 |         1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.24 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.23 |   0.359 |  0.000 |    1 |         1 |         1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.20 |   0.320 |  0.000 |    1 |         1 |         1 |      1 |
+| starfleet --at-- trash ..dot.. net                 |        0.17 |   0.266 |  0.000 |    2 |         2 |         2 |      4 |
+| Felix <zwiebel ta quantentunnel tod de>            |        0.15 |   0.225 |  0.000 |    2 |         2 |         2 |      7 |
+| IT <tor AT informatik dot uni-bremen dot de>       |        0.13 |   0.205 |  0.000 |    1 |         1 |         1 |      1 |
+| argenla <failure .AT. openmailbox .DOT. org>       |        0.11 |   0.000 |  0.482 |    1 |         1 |         1 |      2 |
+| 0CDCFB0B                                           |        0.10 |   0.156 |  0.000 |    2 |         2 |         2 |      2 |
+| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |        0.10 |   0.168 |  0.000 |    1 |         1 |         1 |      3 |
+| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |        0.10 |   0.157 |  0.000 |    1 |         1 |         1 |      1 |
+| E506CE4D                                           |        0.09 |   0.143 |  0.000 |    1 |         1 |         1 |      1 |
+| tor@arkel.fr                                       |        0.08 |   0.134 |  0.000 |    1 |         1 |         1 |      1 |
+| 23698ACD                                           |        0.08 |   0.137 |  0.000 |    1 |         1 |         1 |      1 |
+| 6B88E20F                                           |        0.08 |   0.123 |  0.000 |    1 |         1 |         1 |      1 |
+| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |        0.08 |   0.000 |  0.349 |    1 |         1 |         1 |      2 |
+| 0xCD483B330F8A5F4F - support [AT] sigaint [DOT] or |        0.07 |   0.108 |  0.000 |    1 |         1 |         2 |      4 |
+| grok-nospam@csc.warwick.ac.uk                      |        0.07 |   0.114 |  0.000 |    1 |         1 |         1 |      1 |
+| FF75CBC0                                           |        0.07 |   0.121 |  0.000 |    1 |         1 |         1 |      1 |
+| cubox at irc.freenode.org                          |        0.06 |   0.105 |  0.000 |    1 |         1 |         1 |      1 |
+| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNv |        0.06 |   0.033 |  0.171 |    4 |         2 |         4 |      4 |
+| DD4EF27F                                           |        0.05 |   0.090 |  0.000 |    1 |         1 |         1 |      1 |
+| 0x96881D83 <julian at amity dot be>                |        0.04 |   0.074 |  0.000 |    2 |         2 |         2 |      3 |
+| Nicholas Merrill <nick at calyx dot com> BTC - 14w |        0.04 |   0.000 |  0.178 |    1 |         1 |         1 |      3 |
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
