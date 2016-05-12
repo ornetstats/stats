@@ -1,7 +1,7 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-05-11 01:00:00 |
+| 2016-05-11 23:00:00 |
 +---------------------+
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
 | contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
@@ -10,189 +10,105 @@
 | Jump Donkey <nobody AT monkey dot com>             | Ben Ryall-Mack                                | 2016-01-23 19:47:02 | 2016-04-18 18:00:00 |
 | 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                       | 2016-03-13 01:55:17 | 2014-09-09 08:00:00 |
 | 0C6634D2                                           | myLoc managed IT AG                           | 2016-03-25 14:03:18 | 2016-04-18 22:00:00 |
+| DF6AA7C6                                           | Hurricane Electric, Inc.                      | 2016-03-30 12:03:45 | 2016-03-30 13:00:00 |
+| BB5D8D2C                                           | Hetzner Online GmbH                           | 2016-04-03 09:56:15 | 2016-05-11 17:00:00 |
 | 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-04-03 18:59:29 | 2014-06-20 07:00:00 |
 | earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-04-09 19:00:24 | 2014-02-15 10:00:00 |
 | B5EF81AA                                           | OVH SAS                                       | 2016-04-15 15:48:27 | 2016-04-15 16:00:00 |
 | C0D1990A                                           | OVH SAS                                       | 2016-04-15 15:48:28 | 2016-04-15 16:00:00 |
 | tor * greysector.net                               | SUPERMEDIA Sp.z.o.o.                          | 2016-04-15 22:30:00 | 2015-03-15 01:00:00 |
+| TOR148 <tor148 AT alien-stargate DOT com>          | Liberty Global Operations B.V.                | 2016-04-18 23:10:05 | 2014-10-28 20:00:00 |
 | E88F77BB                                           | Rakuten Communications Corp.                  | 2016-04-30 10:25:50 | 2015-06-23 05:00:00 |
-| EFC80BFD                                           | IT7 Networks Inc                              | 2016-05-04 01:49:12 | 2016-05-04 03:00:00 |
-| 4DBBBF64                                           | IT7 Networks Inc                              | 2016-05-04 01:49:12 | 2016-05-04 03:00:00 |
-| B0EF3057                                           | QuadraNet, Inc                                | 2016-05-04 01:49:14 | 2016-05-04 03:00:00 |
-| F80BDF73                                           | QuadraNet, Inc                                | 2016-05-04 01:49:14 | 2016-05-04 03:00:00 |
-| 54C0A9B9                                           | IT7 Networks Inc                              | 2016-05-04 01:50:14 | 2016-05-04 03:00:00 |
-| FE134220                                           | IT7 Networks Inc                              | 2016-05-04 01:50:14 | 2016-05-04 03:00:00 |
-| D2C733ED                                           | IT7 Networks Inc                              | 2016-05-04 01:51:54 | 2016-05-04 03:00:00 |
-| 727EC711                                           | IT7 Networks Inc                              | 2016-05-04 01:51:54 | 2016-05-04 03:00:00 |
-| 15959F43                                           | Nodes Direct                                  | 2016-05-04 01:56:33 | 2016-05-04 03:00:00 |
-| 272FE6B8                                           | Nodes Direct                                  | 2016-05-04 01:56:33 | 2016-05-04 03:00:00 |
-| 49B7E161                                           | Nodes Direct                                  | 2016-05-04 01:57:35 | 2016-05-04 03:00:00 |
-| 80EE882F                                           | Nodes Direct                                  | 2016-05-04 01:57:35 | 2016-05-04 03:00:00 |
-| B386124F                                           | IT7 Networks Inc                              | 2016-05-04 01:59:15 | 2016-05-04 03:00:00 |
-| 2B23EE67                                           | IT7 Networks Inc                              | 2016-05-04 01:59:15 | 2016-05-04 03:00:00 |
-| 691A5E94                                           | IT7 Networks Inc                              | 2016-05-04 02:02:12 | 2016-05-04 03:00:00 |
-| 0BF9BB0E                                           | IT7 Networks Inc                              | 2016-05-04 02:02:12 | 2016-05-04 03:00:00 |
-| 8C01FFD6                                           | Digital Ocean, Inc.                           | 2016-05-05 02:27:17 | 2016-05-05 03:00:00 |
-| 44C1A525                                           | Digital Ocean, Inc.                           | 2016-05-05 02:27:17 | 2016-05-05 03:00:00 |
-| F5894C02                                           | Digital Ocean, Inc.                           | 2016-05-05 02:27:56 | 2016-05-05 03:00:00 |
-| 50FFFEB0                                           | Digital Ocean, Inc.                           | 2016-05-05 02:27:56 | 2016-05-05 03:00:00 |
-| 433C8513                                           | Digital Ocean, Inc.                           | 2016-05-05 02:30:57 | 2016-05-05 03:00:00 |
-| 192C3B44                                           | Digital Ocean, Inc.                           | 2016-05-05 02:30:57 | 2016-05-05 03:00:00 |
-| A1A3C8EF                                           | Digital Ocean, Inc.                           | 2016-05-05 02:32:30 | 2016-05-05 03:00:00 |
-| 2A7E248D                                           | Digital Ocean, Inc.                           | 2016-05-05 02:32:30 | 2016-05-05 03:00:00 |
-| 038F93AB                                           | Digital Ocean, Inc.                           | 2016-05-05 02:33:14 | 2016-05-05 03:00:00 |
-| F256ACA2                                           | Digital Ocean, Inc.                           | 2016-05-05 02:33:14 | 2016-05-05 03:00:00 |
-| 32F3F62C                                           | Digital Ocean, Inc.                           | 2016-05-05 02:33:18 | 2016-05-05 03:00:00 |
-| F62C51D9                                           | Digital Ocean, Inc.                           | 2016-05-05 02:33:18 | 2016-05-05 03:00:00 |
-| B9AF4CFC                                           | Digital Ocean, Inc.                           | 2016-05-05 02:33:53 | 2016-05-05 03:00:00 |
-| CD02DF51                                           | Digital Ocean, Inc.                           | 2016-05-05 02:33:53 | 2016-05-05 03:00:00 |
-| A7FB60AB                                           | Digital Ocean, Inc.                           | 2016-05-05 02:37:38 | 2016-05-05 03:00:00 |
-| FFF2D2E8                                           | Digital Ocean, Inc.                           | 2016-05-05 02:37:38 | 2016-05-05 03:00:00 |
-| 67F74109                                           | Digital Ocean, Inc.                           | 2016-05-05 02:38:00 | 2016-05-05 03:00:00 |
-| 96A3DCAA                                           | Digital Ocean, Inc.                           | 2016-05-05 02:38:00 | 2016-05-05 03:00:00 |
-| DEEE5570                                           | Liberty Global Operations B.V.                | 2016-05-05 08:02:19 | 2014-11-06 18:00:00 |
-| 8E3F769E                                           | Digital Ocean, Inc.                           | 2016-05-06 07:14:09 | 2016-05-06 08:00:00 |
-| B5403960                                           | Digital Ocean, Inc.                           | 2016-05-06 07:14:09 | 2016-05-06 08:00:00 |
-| 339EB682                                           | Digital Ocean, Inc.                           | 2016-05-06 07:15:04 | 2016-05-06 08:00:00 |
-| CEB38FC7                                           | Digital Ocean, Inc.                           | 2016-05-06 07:15:04 | 2016-05-06 08:00:00 |
-| C5D085C1                                           | Digital Ocean, Inc.                           | 2016-05-06 07:15:12 | 2016-05-06 08:00:00 |
-| 5253ED01                                           | Digital Ocean, Inc.                           | 2016-05-06 07:15:12 | 2016-05-06 08:00:00 |
-| 7F1E2C41                                           | Choopa, LLC                                   | 2016-05-06 07:22:49 | 2016-05-06 08:00:00 |
-| 8714185B                                           | Choopa, LLC                                   | 2016-05-06 07:22:50 | 2016-05-06 08:00:00 |
-| 56500CB4                                           | Choopa, LLC                                   | 2016-05-06 07:22:54 | 2016-05-06 08:00:00 |
-| 26E5B5E9                                           | Choopa, LLC                                   | 2016-05-06 07:22:54 | 2016-05-06 08:00:00 |
-| 1D524AEF                                           | Choopa, LLC                                   | 2016-05-06 07:34:01 | 2016-05-06 08:00:00 |
-| 3C004BDF                                           | Choopa, LLC                                   | 2016-05-06 07:34:01 | 2016-05-06 08:00:00 |
-| DCE4B1E1                                           | Choopa, LLC                                   | 2016-05-06 07:36:06 | 2016-05-06 08:00:00 |
-| 0BBF60B8                                           | Choopa, LLC                                   | 2016-05-06 07:36:06 | 2016-05-06 08:00:00 |
-| 45364D73                                           | Choopa, LLC                                   | 2016-05-06 07:47:59 | 2016-05-06 08:00:00 |
-| 202D7B61                                           | Choopa, LLC                                   | 2016-05-06 07:47:59 | 2016-05-06 08:00:00 |
 | Person torinbrazil                                 | Maxihost Hospedagem de Sites Ltda             | 2016-05-07 22:10:13 | 2016-05-07 23:00:00 |
-| 75E021E7                                           | MAN net Ltd.                                  | 2016-05-08 07:59:32 | 2016-05-09 07:00:00 |
-| FEE98AB9                                           | OVH SAS                                       | 2016-05-08 08:49:44 | 2016-05-08 10:00:00 |
-| Xermon <me@xermon.me>                              | Hetzner Online GmbH                           | 2016-05-08 09:37:22 | 2016-05-08 10:00:00 |
-| <tor[ad]tuta[punkt]io>                             | ITL Company                                   | 2016-05-08 16:00:38 | 2016-05-08 17:00:00 |
-| c.groitl AT mail DOT de                            | M-net Telekommunikations GmbH                 | 2016-05-08 16:41:59 | 2016-05-08 18:00:00 |
-| C7E1BB1B                                           | Contabo GmbH                                  | 2016-05-08 17:28:38 | 2015-02-11 21:00:00 |
-| Relay Maintainer <relay@dgnp.io>                   | SoftCom America Inc.                          | 2016-05-08 17:29:06 | 2016-05-08 16:00:00 |
-| 3C14F7D4                                           | vanoppen.biz LLC                              | 2016-05-08 19:36:09 | 2016-05-08 20:00:00 |
-| 1DACA29E                                           | TeliaSonera Finland Oyj                       | 2016-05-08 20:24:34 | 2015-01-07 03:00:00 |
-| Random Person <nobody AT example dot com>          | Hetzner Online GmbH                           | 2016-05-08 21:25:47 | 2016-05-08 22:00:00 |
-| DC3A259F                                           | Quasi Networks LTD.                           | 2016-05-08 21:43:11 | 2016-05-09 16:00:00 |
-| FE99E6F9                                           | Net By Net Holding LLC                        | 2016-05-08 23:02:23 | 2016-05-09 00:00:00 |
-| 5ACCD8A9                                           | TekSavvy Solutions, Inc.                      | 2016-05-09 01:11:48 | 2016-05-06 21:00:00 |
-| Maybe Someone <junkuser@bloomsburg.name>           | Pocketinet Communications, Inc                | 2016-05-09 01:51:51 | 2014-05-13 03:00:00 |
-| <tor@kevinmehall.net>                              | Portlane AB                                   | 2016-05-09 03:22:20 | 2016-05-09 04:00:00 |
-| DJERFY <djerfy@gmail.com>                          | ONLINE S.A.S.                                 | 2016-05-09 12:52:21 | 2016-05-08 22:00:00 |
-| 44517C72                                           | Sternforth Ltd                                | 2016-05-09 12:55:11 | 2016-05-09 14:00:00 |
-| FF0FA65B                                           | Lucky Net Ltd                                 | 2016-05-09 14:11:48 | 2016-05-09 15:00:00 |
-| tor terjan net                                     | Techcrea Solutions Sarl                       | 2016-05-09 14:53:24 | 2016-05-09 16:00:00 |
-| contact[at]tor-relay[dot]xyz                       | ONLINE S.A.S.                                 | 2016-05-09 16:27:16 | 2016-05-08 22:00:00 |
-| contact[at]tor-relay[dot]xyz                       | OVH SAS                                       | 2016-05-09 16:31:07 | 2016-05-08 23:00:00 |
-| contact[at]tor-relay[dot]xyz                       | OVH SAS                                       | 2016-05-09 16:31:09 | 2016-05-08 23:00:00 |
-| 0xDD7831FC Matthias Kretschmann <m AT kretschmann  | OVH SAS                                       | 2016-05-09 19:32:16 | 2016-05-09 20:00:00 |
-| tor@semjonov.de                                    | Vodafone Kabel Deutschland GmbH               | 2016-05-09 21:01:44 | 2016-02-29 01:00:00 |
 | DexterAdmin <dexter@prj.hu>                        | Magyar Telekom Plc.                           | 2016-05-09 21:27:49 | 2012-11-18 14:00:00 |
-| Alive Person <switchboardmachine AT hushmail dot c | Digital Ocean, Inc.                           | 2016-05-09 21:59:40 | 2016-05-09 23:00:00 |
-| Alive Person <switchboardmachine AT hushmail dot c | Digital Ocean, Inc.                           | 2016-05-09 21:59:42 | 2016-05-09 23:00:00 |
-| Alive Person <switchboardmachine AT hushmail dot c | Digital Ocean, Inc.                           | 2016-05-09 21:59:42 | 2016-05-09 23:00:00 |
-| Alive Person <switchboardmachine AT hushmail dot c | Digital Ocean, Inc.                           | 2016-05-09 21:59:43 | 2016-05-09 23:00:00 |
-| Alive Person <switchboardmachine AT hushmail dot c | Digital Ocean, Inc.                           | 2016-05-09 21:59:47 | 2016-05-09 23:00:00 |
-| Alive Person <switchboardmachine AT hushmail dot c | Digital Ocean, Inc.                           | 2016-05-09 21:59:48 | 2016-05-09 23:00:00 |
-| info@paulbsd.com                                   | OVH SAS                                       | 2016-05-09 23:09:08 | 2016-05-10 00:00:00 |
-| antitree@gmail                                     | Linode, LLC                                   | 2016-05-09 23:40:25 | 2016-05-09 18:00:00 |
-| BEA0BDE8                                           | Vodafone GmbH                                 | 2016-05-09 23:42:11 | 2016-05-10 00:00:00 |
-| 305F7F95                                           | Proximus NV                                   | 2016-05-10 00:02:58 | 2016-02-13 16:00:00 |
-| DFDC5A52                                           | Telstra Pty Ltd                               | 2016-05-10 00:11:39 | 2016-05-10 01:00:00 |
-| shane dot cooney AT bigpond dot com <nobody AT exa | Telstra Pty Ltd                               | 2016-05-10 00:11:49 | 2016-05-09 01:00:00 |
-| Jon Mooney <jon.mooney35 AT cox dot net>           | Cox Communications Inc.                       | 2016-05-10 00:37:40 | 2014-06-12 16:00:00 |
-| 6E79923F                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-05-10 00:39:35 | 2016-05-10 01:00:00 |
-| T Randall theoco AT geemail dot com                | Comcast Cable Communications, Inc.            | 2016-05-10 01:14:21 | 2016-05-06 05:00:00 |
-| 0x8A7414ECE823D04E71EE839480E98E46367F94A5 James K | Qwest Communications Company, LLC             | 2016-05-10 01:34:36 | 2016-05-08 23:00:00 |
-| DC352584                                           | Global Frag Networks                          | 2016-05-10 01:43:07 | 2016-05-10 02:00:00 |
-| A81C121F                                           | Global Frag Networks                          | 2016-05-10 01:43:07 | 2016-05-10 02:00:00 |
-| AFBE71DA                                           | Global Frag Networks                          | 2016-05-10 01:46:19 | 2016-05-10 02:00:00 |
-| EDD54F7B                                           | Global Frag Networks                          | 2016-05-10 01:46:19 | 2016-05-10 02:00:00 |
-| 871012E7                                           | Global Frag Networks                          | 2016-05-10 01:48:10 | 2016-05-10 02:00:00 |
-| 9A6D433B                                           | Global Frag Networks                          | 2016-05-10 01:48:11 | 2016-05-10 02:00:00 |
-| 700CEA79                                           | Global Frag Networks                          | 2016-05-10 01:49:32 | 2016-05-10 03:00:00 |
-| 5A70CA8A                                           | Global Frag Networks                          | 2016-05-10 01:49:32 | 2016-05-10 03:00:00 |
-| F6EE3F47                                           | Global Frag Networks                          | 2016-05-10 01:54:20 | 2016-05-10 03:00:00 |
-| 63E4AC14                                           | Global Frag Networks                          | 2016-05-10 01:54:20 | 2016-05-10 03:00:00 |
-| 0B76C477                                           | Cox Communications Inc.                       | 2016-05-10 01:56:36 | 2015-06-24 06:00:00 |
-| FF7B8804                                           | Global Frag Networks                          | 2016-05-10 02:00:42 | 2016-05-10 03:00:00 |
-| 7C09C4FB                                           | Global Frag Networks                          | 2016-05-10 02:00:43 | 2016-05-10 03:00:00 |
-| 6A0038E0                                           | Global Frag Networks                          | 2016-05-10 02:01:46 | 2016-05-10 03:00:00 |
-| 5653AE11                                           | Global Frag Networks                          | 2016-05-10 02:01:46 | 2016-05-10 03:00:00 |
-| A85AD197                                           | GMO INTERNET PTE LTD                          | 2016-05-10 02:07:41 | 2016-05-10 03:00:00 |
-| A9B66906                                           | GMO INTERNET PTE LTD                          | 2016-05-10 02:07:41 | 2016-05-10 03:00:00 |
 | 8EE8A773                                           | GMO Internet,Inc                              | 2016-05-10 02:09:56 | 2016-05-10 03:00:00 |
-| 7D2E26DC                                           | GMO Internet,Inc                              | 2016-05-10 02:12:04 | 2016-05-10 03:00:00 |
-| 30B1D282                                           | IT7 Networks Inc                              | 2016-05-10 02:19:32 | 2016-05-10 03:00:00 |
-| 24201E33                                           | Telefonica Germany GmbH & Co.OHG              | 2016-05-10 03:09:05 | 2014-09-01 22:00:00 |
-| u at me dot com                                    | BRIGHT HOUSE NETWORKS, LLC                    | 2016-05-10 03:25:07 | 2016-04-30 15:00:00 |
-| tor at signull.org - GnuPG ID: 0x00E9A054          | OVH SAS                                       | 2016-05-10 03:26:50 | 2016-05-10 04:00:00 |
-| DBFB3694                                           | Cox Communications Inc.                       | 2016-05-10 03:39:46 | 2016-05-09 20:00:00 |
-| Kn1ghtJed1K at mail dot ru                         | JSC Kazakhtelecom                             | 2016-05-10 08:00:02 | 2016-05-07 20:00:00 |
-| erifkard@protonmail.ch                             | OVH SAS                                       | 2016-05-10 08:03:03 | 2016-05-09 15:00:00 |
-| AF4309E54991A8A9D59483D74482ABD6845A4404 Fox 2k12  | PlusServer AG                                 | 2016-05-10 08:48:43 | 2016-05-10 09:00:00 |
-| BA857E83                                           | Piranha Systems                               | 2016-05-10 09:08:03 | 2016-05-10 10:00:00 |
-| 26C08E04                                           | PJSC Rostelecom                               | 2016-05-10 09:08:32 | 2016-05-09 19:00:00 |
-| Joseph Price <tor@2ships.co.uk>                    | Andrews & Arnold Ltd                          | 2016-05-10 11:00:49 | 2016-05-10 09:00:00 |
-| A2AC4119                                           | Digital Ocean, Inc.                           | 2016-05-10 11:06:38 | 2016-02-28 03:00:00 |
-| KEINE                                              | Deutsche Telekom AG                           | 2016-05-10 11:10:45 | 2016-05-10 08:00:00 |
-| 7D56C079                                           | Hetzner Online GmbH                           | 2016-05-10 11:11:09 | 2016-05-10 12:00:00 |
-| ser_666[at]bk.ru                                   | Style-Com                                     | 2016-05-10 12:12:30 | 2016-05-08 22:00:00 |
-| 06214C74                                           | TOT Public Company Limited                    | 2016-05-10 12:20:13 | 2016-05-08 15:00:00 |
-| 9552F904                                           | Orange S.A.                                   | 2016-05-10 12:21:46 | 2016-05-10 12:00:00 |
-| Random Person <NICKNAME @ NICKNAME.me>             | XS4ALL Internet BV                            | 2016-05-10 12:31:36 | 2016-05-10 13:00:00 |
-| Winston Smith <wsmith@minitrue.gov>                | 2267921 ONTARIO LTD                           | 2016-05-10 13:04:19 | 2016-05-10 15:00:00 |
-| oedoc at free dot fr                               | Bouygues Telecom SA                           | 2016-05-10 13:21:39 | 2015-06-16 18:00:00 |
-| 91F2ADBB                                           | Digital United Inc.                           | 2016-05-10 13:22:14 | 2016-05-10 14:00:00 |
-| hsjasdfs@dhdhjj.net - 16fp4xvLKgcsk7JovscEC8RssS9C | Hetzner Online GmbH                           | 2016-05-10 14:07:30 | 2016-05-10 15:00:00 |
-| 0FAC1216                                           | Proximus NV                                   | 2016-05-10 14:08:20 | 2016-05-07 11:00:00 |
-| F43D764C                                           | Choopa, LLC                                   | 2016-05-10 14:19:26 | 2016-05-10 15:00:00 |
-| 1223B802                                           | Choopa, LLC                                   | 2016-05-10 14:19:27 | 2016-05-10 15:00:00 |
-| 1AA5C3D4                                           | OJSC Vimpelcom                                | 2016-05-10 14:20:28 | 2016-05-04 16:00:00 |
-| C6B9CBEE                                           | C&S Breitband GmbH                            | 2016-05-10 14:30:15 | 2015-04-26 22:00:00 |
-| sf <sf@psychophoniac.de>                           | First Colo GmbH                               | 2016-05-10 15:18:51 | 2012-11-06 18:00:00 |
-| 01AB20DD                                           | 2267921 ONTARIO LTD                           | 2016-05-10 15:58:54 | 2016-05-10 17:00:00 |
-| BF38A1FA                                           | DSi DATA s.r.o.                               | 2016-05-10 16:05:18 | 2016-02-20 13:00:00 |
-| 9E90BE96                                           | Makonix SIA                                   | 2016-05-10 16:23:48 | 2016-05-10 17:00:00 |
-| F74AA40F                                           | Makonix SIA                                   | 2016-05-10 16:25:32 | 2016-05-10 17:00:00 |
-| 18BC5324                                           | JSC ER-Telecom Holding                        | 2016-05-10 16:28:14 | 2015-01-31 13:00:00 |
-| EF1E55DC                                           | Verdina Ltd.                                  | 2016-05-10 16:33:10 | 2016-05-10 16:00:00 |
-| 41AF5312                                           | TELEFONICA DE ESPANA                          | 2016-05-10 16:38:19 | 2016-02-24 12:00:00 |
-| Bitcoin Address: 17UcsmupM6jpftoVmdJF5jEmJZTc3JUmw | Comcast Cable Communications, Inc.            | 2016-05-10 16:41:45 | 2016-05-10 02:00:00 |
-| ZZ Node <zznode@openmailbox.org>                   | AS of Web4U                                   | 2016-05-10 17:01:16 | 2016-05-10 18:00:00 |
-| 0xFFFFFFFF --> havemybytes <AT> gmail D[]T com     | 2267921 ONTARIO LTD                           | 2016-05-10 17:26:52 | 2016-04-25 19:00:00 |
-| 9D2F7452                                           | Orange S.A.                                   | 2016-05-10 17:34:54 | 2016-05-06 12:00:00 |
-| 4A8916E1                                           | Bredband2 AB                                  | 2016-05-10 18:22:20 | 2016-05-10 20:00:00 |
-| EEA266D1                                           | Bredband2 AB                                  | 2016-05-10 18:38:34 | 2016-05-10 19:00:00 |
-| Need-A-New-Job-$$                                  | Deutsche Telekom AG                           | 2016-05-10 18:49:01 | 2016-05-10 20:00:00 |
+| Random Person tor@leenux.de                        | Contabo GmbH                                  | 2016-05-10 18:22:28 | 2016-05-11 09:00:00 |
 | tor-relay@denpa.moe                                | Eonix Corporation                             | 2016-05-10 18:52:14 | 2016-05-10 19:00:00 |
-| bitbang <nobody AT onionrouter>                    | Michael Gamsjaeger PE                         | 2016-05-10 19:07:44 | 2014-04-22 14:00:00 |
-| 0DD1687D                                           | OJSC RTComm.RU                                | 2016-05-10 19:09:05 | 2016-05-10 20:00:00 |
-| E1C76B29                                           | Bjare Kraft AB                                | 2016-05-10 20:22:41 | 2016-05-10 18:00:00 |
-| E9327CF9                                           | Free SAS                                      | 2016-05-10 20:34:17 | 2016-05-09 19:00:00 |
-| gutbesserwasser <gutbesserwasser at gmail dot com> | DIGI Tavkozlesi es Szolgaltato Kft.           | 2016-05-10 20:45:47 | 2016-05-09 08:00:00 |
-| 8D7EE2BB                                           | Telstra Pty Ltd                               | 2016-05-10 21:01:18 | 2015-05-21 15:00:00 |
-| Mike mail:===mimkr===at===gmx===dot===de===        | domainfactory GmbH                            | 2016-05-10 21:20:21 | 2013-07-07 12:00:00 |
-| BB811306                                           | Orange S.A.                                   | 2016-05-10 21:20:39 | 2016-05-10 22:00:00 |
-| 1C490B54                                           | Digital Ocean, Inc.                           | 2016-05-10 21:46:50 | 2016-05-10 22:00:00 |
-| alecs_crazy at yahoo dot com                       | RCS & RDS SA                                  | 2016-05-10 22:09:29 | 2016-05-06 18:00:00 |
-| DAA34788                                           | Itissalat Al-MAGHRIB                          | 2016-05-10 22:34:05 | 2016-05-06 19:00:00 |
-| DD0EFE0C                                           | SIA Baltcom                                   | 2016-05-10 22:53:51 | 2016-05-10 20:00:00 |
 | 0xFFFFFFFF <it AT epiontis dot com>                | Digital Ocean, Inc.                           | 2016-05-10 23:01:56 | 2016-02-29 16:00:00 |
-| BE665F5B                                           | MTS PJSC                                      | 2016-05-10 23:02:38 | 2014-09-28 17:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-05-10 23:16:52 | 2013-07-15 11:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-05-10 23:17:21 | 2014-01-20 15:00:00 |
-| chaz dot anton at gmail dot com                    | Comcast Cable Communications, Inc.            | 2016-05-10 23:21:51 | 2016-05-09 23:00:00 |
-| deadbeef01 at gonzoid dot net                      | Now maintained by Cable & Wireless Worldwide  | 2016-05-10 23:42:03 | 2015-10-20 01:00:00 |
-| 9A261174                                           | University of Washington                      | 2016-05-11 00:27:03 | 2014-03-18 17:00:00 |
-| 8C7146F8                                           | Comcast Cable Communications, Inc.            | 2016-05-11 00:27:42 | 2015-06-23 04:00:00 |
-| monitoring(at)quatdev(dot)fr [tor-relay.co]        | ONLINE S.A.S.                                 | 2016-05-11 00:29:14 | 2016-05-11 01:00:00 |
-| D9F0A45A                                           | Deutsche Telekom AG                           | 2016-05-11 00:41:09 | 2016-02-09 14:00:00 |
-| 638F9A62                                           | Itissalat Al-MAGHRIB                          | 2016-05-11 00:44:33 | 2016-05-11 01:00:00 |
-| 7B642B57                                           | Comcast Cable Communications, Inc.            | 2016-05-11 00:51:22 | 2014-04-09 04:00:00 |
+| inbox[at]tor-relay[dot]org                         | ONLINE S.A.S.                                 | 2016-05-11 01:54:17 | 2016-05-11 02:00:00 |
+| <trillium AT riseup dot net>                       | Digital Ocean, Inc.                           | 2016-05-11 02:51:25 | 2015-12-29 18:00:00 |
+| 26C08E04                                           | PJSC Rostelecom                               | 2016-05-11 05:01:07 | 2016-05-09 19:00:00 |
+| AF1B8C65                                           | Yahoo Japan Corporation                       | 2016-05-11 06:11:29 | 2014-07-17 10:00:00 |
+| 24A88604                                           | Entreprise des Postes et Telecommunications   | 2016-05-11 06:30:11 | 2016-05-11 07:00:00 |
+| Admin <root AT cobungo.de>                         | 1&1 Internet AG                               | 2016-05-11 07:25:36 | 2014-09-07 01:00:00 |
+| orion <orionmtp AT gmail DOT com>                  | ONLINE S.A.S.                                 | 2016-05-11 08:41:02 | 2016-05-11 09:00:00 |
+| 6C78F843                                           | Vodafone GmbH                                 | 2016-05-11 08:57:48 | 2016-05-10 10:00:00 |
+| u.numbernumber@gmail.com - 1B5uA4FUAsLxM6bzsn62EeE | RouteLabel V.O.F.                             | 2016-05-11 09:00:00 | 2014-11-05 01:00:00 |
+| 4781819A                                           | OJSC Vimpelcom                                | 2016-05-11 10:05:20 | 2016-04-21 23:00:00 |
+| A19A7947                                           | Sky UK Limited                                | 2016-05-11 10:15:49 | 2015-11-05 17:00:00 |
+| 9C2D6FF0                                           | Taiwan Academic Network (TANet) Information C | 2016-05-11 10:24:16 | 2016-05-11 11:00:00 |
+| C7E1BB1B                                           | Contabo GmbH                                  | 2016-05-11 11:05:36 | 2015-02-11 21:00:00 |
+| 4970D640                                           | SIA Digitalas Ekonomikas Attistibas Centrs    | 2016-05-11 11:14:42 | 2016-05-11 12:00:00 |
+| 7DEDC3E8                                           | SIA Digitalas Ekonomikas Attistibas Centrs    | 2016-05-11 11:18:05 | 2016-05-11 12:00:00 |
+| F22A5AB1                                           | Global Village Telecom                        | 2016-05-11 11:57:19 | 2014-06-26 03:00:00 |
+| gutbesserwasser <gutbesserwasser at gmail dot com> | DIGI Tavkozlesi es Szolgaltato Kft.           | 2016-05-11 12:28:33 | 2016-05-09 08:00:00 |
+| B7625AFF                                           | Linode, LLC                                   | 2016-05-11 12:48:37 | 2016-05-11 07:00:00 |
+| 06D0FB9C                                           | SYNAPSECOM S.A                                | 2016-05-11 12:55:03 | 2016-05-11 14:00:00 |
+| 0FAC1216                                           | Proximus NV                                   | 2016-05-11 13:31:11 | 2016-05-07 11:00:00 |
+| Peanuts <peanuts@gmail.com>                        | QuadraNet, Inc                                | 2016-05-11 14:03:19 | 2015-05-15 04:00:00 |
+| 50BDF34C                                           | Hetzner Online GmbH                           | 2016-05-11 14:04:24 | 2016-05-11 14:00:00 |
+| Oxford Public Library <oxford@gmail.com>           | QuadraNet, Inc                                | 2016-05-11 14:18:58 | 2015-05-15 04:00:00 |
+| 625E8B41                                           | DC74 LLC                                      | 2016-05-11 14:38:07 | 2016-05-11 15:00:00 |
+| A0A54ADE                                           | Digital Ocean, Inc.                           | 2016-05-11 14:51:00 | 2014-09-13 20:00:00 |
+| i3jm2y7yftyix4kobdra[AT]posteo[DOT]ee [tor-relay.c | OVH SAS                                       | 2016-05-11 14:57:06 | 2016-05-11 16:00:00 |
+| Random Person <kakadu AT cock dot li>              | NETACTION TELECOM SRL-D                       | 2016-05-11 14:57:20 | 2016-03-08 22:00:00 |
+| 7C8D2194                                           | Quickline AG                                  | 2016-05-11 15:12:14 | 2016-05-11 17:00:00 |
+| 6C552292                                           | PJSC Rostelecom                               | 2016-05-11 15:15:05 | 2015-11-16 10:00:00 |
+| crlp@mail2tor.com - 1AJF8cWBrVejP1GiU5pjwKEwMQ7U6V | NFOrce Entertainment BV                       | 2016-05-11 15:23:34 | 2016-05-11 16:00:00 |
+| 1AA5C3D4                                           | OJSC Vimpelcom                                | 2016-05-11 15:28:55 | 2016-05-04 16:00:00 |
+| 3B41D5A3                                           | Altibox AS                                    | 2016-05-11 15:51:54 | 2016-05-11 16:00:00 |
+| 8EE4454F                                           | Azuria                                        | 2016-05-11 16:31:20 | 2016-03-21 12:00:00 |
+| E1AF4856                                           | S.A.                                          | 2016-05-11 17:16:58 | 2014-09-06 16:00:00 |
+| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNv | Cablevision Systems Corp.                     | 2016-05-11 17:26:20 | 2016-05-11 18:00:00 |
+| 9460048F                                           | PJSC MegaFon                                  | 2016-05-11 17:26:31 | 2016-05-10 17:00:00 |
+| 5E40D0ED                                           | A1 Telekom Austria AG                         | 2016-05-11 17:27:29 | 2016-05-10 06:00:00 |
+| Vince: watercolour@cock.li                         | WideOpenWest Finance LLC                      | 2016-05-11 17:34:27 | 2014-12-19 02:00:00 |
+| Xermon <me@xermon.me>                              | Hetzner Online GmbH                           | 2016-05-11 18:08:32 | 2016-05-08 10:00:00 |
+| 45181016                                           | PJSC Rostelecom                               | 2016-05-11 18:35:32 | 2016-04-13 08:00:00 |
+| oedoc at free dot fr                               | Bouygues Telecom SA                           | 2016-05-11 18:39:38 | 2015-06-16 18:00:00 |
+| 0xFFFFFFFF GnOrP Admin  <bunkerbojo at gmail com>  | Bahnhof Internet AB                           | 2016-05-11 18:44:44 | 2016-04-17 09:00:00 |
+| 73B9346D                                           | InterNLnet BV                                 | 2016-05-11 18:50:07 | 2016-05-11 20:00:00 |
+| 779A691C                                           | Etihad Etisalat Company (Mobily)              | 2016-05-11 18:53:27 | 2016-05-06 04:00:00 |
+| 31D1C70D                                           | Free SAS                                      | 2016-05-11 19:15:08 | 2016-04-21 12:00:00 |
+| 4928FB9C                                           | Entreprise des Postes et Telecommunications   | 2016-05-11 19:19:28 | 2016-05-08 15:00:00 |
+| EE72D590                                           | Free SAS                                      | 2016-05-11 19:23:46 | 2016-05-11 19:00:00 |
+| contact at peersm.com                              | OVH SAS                                       | 2016-05-11 19:38:33 | 2013-07-15 11:00:00 |
+| contact at peersm.com                              | OVH SAS                                       | 2016-05-11 19:38:43 | 2014-01-20 15:00:00 |
+| stp1430 at gmail dot com                           | WEST CALL LTD                                 | 2016-05-11 19:46:42 | 2013-06-26 21:00:00 |
+| C89410EA                                           | TELEFÓNICA CHILE S.A.                         | 2016-05-11 19:47:20 | 2016-05-09 19:00:00 |
+| i3jm2y7yftyix4kobdra[AT]posteo[DOT]ee [tor-relay.c | Voxility S.R.L.                               | 2016-05-11 19:49:27 | 2016-05-11 19:00:00 |
+| C79411F6                                           | Cablevision Systems Corp.                     | 2016-05-11 20:10:26 | 2016-05-11 21:00:00 |
+| 18017931                                           | ASMedi                                        | 2016-05-11 20:13:36 | 2016-05-08 00:00:00 |
+| 83C86234                                           | Choopa, LLC                                   | 2016-05-11 20:13:43 | 2016-05-11 21:00:00 |
+| F574B4ED                                           | Choopa, LLC                                   | 2016-05-11 20:15:12 | 2016-05-11 21:00:00 |
+| A0137512                                           | Choopa, LLC                                   | 2016-05-11 20:23:06 | 2016-05-11 21:00:00 |
+| 1056342A                                           | Choopa, LLC                                   | 2016-05-11 20:23:06 | 2016-05-11 21:00:00 |
+| 618D8C2B                                           | Choopa, LLC                                   | 2016-05-11 20:24:13 | 2016-05-11 21:00:00 |
+| 0D1F0865                                           | Choopa, LLC                                   | 2016-05-11 20:24:13 | 2016-05-11 21:00:00 |
+| 95BF3F38                                           | Choopa, LLC                                   | 2016-05-11 20:24:50 | 2016-05-11 21:00:00 |
+| DAA1912A                                           | Choopa, LLC                                   | 2016-05-11 20:24:50 | 2016-05-11 21:00:00 |
+| 5EF5C872                                           | Convergenze S.p.A.                            | 2016-05-11 20:25:03 | 2016-05-09 11:00:00 |
+| 1E05A1E1                                           | Frontier Communications of America, Inc.      | 2016-05-11 20:31:28 | 2016-04-21 18:00:00 |
+| 17qik9ozUF487AX1c4F3kVFQPVxntfXzL6 FreeWorldLeader | MCI Communications Services, Inc. d/b/a Veriz | 2016-05-11 20:32:18 | 2016-02-26 04:00:00 |
+| E847BADC                                           | Iberbanda S.A.                                | 2016-05-11 20:40:47 | 2016-05-11 21:00:00 |
+| Kn1ghtJed1K at mail dot ru                         | JSC Kazakhtelecom                             | 2016-05-11 20:46:40 | 2016-05-07 20:00:00 |
+| AF52871A                                           | UK Dedicated Servers Limited                  | 2016-05-11 21:06:57 | 2016-05-11 22:00:00 |
+| 469A09C9                                           | UK Dedicated Servers Limited                  | 2016-05-11 21:06:57 | 2016-05-11 22:00:00 |
+| 3251D735                                           | Liberty Global Operations B.V.                | 2016-05-11 21:08:49 | 2015-08-08 15:00:00 |
+| <cioiart at keemail dot me> - 1Bvs6qF28CrYxPCbpxFy | Bouygues Telecom SA                           | 2016-05-11 21:16:58 | 2015-07-16 23:00:00 |
+| Random Person <nobody AT example dot com>          | Free SAS                                      | 2016-05-11 21:27:55 | 2016-05-11 23:00:00 |
+| 8D7EE2BB                                           | Telstra Pty Ltd                               | 2016-05-11 21:48:43 | 2015-05-21 15:00:00 |
+| An Oni Mouse <TorRelay AT mailt dot so>            | OVH SAS                                       | 2016-05-11 22:07:54 | 2016-05-11 23:00:00 |
+| 7DD9FFA8                                           | Wind Telecomunicazioni SpA                    | 2016-05-11 22:10:41 | 2016-04-10 14:00:00 |
+| F56FBC12                                           | Choopa, LLC                                   | 2016-05-11 22:11:07 | 2016-05-11 23:00:00 |
+| 1779703A                                           | Choopa, LLC                                   | 2016-05-11 22:13:47 | 2016-05-11 23:00:00 |
+| 7BF202D4                                           | Choopa, LLC                                   | 2016-05-11 22:22:53 | 2016-05-11 23:00:00 |
+| 2556A65C                                           | Itissalat Al-MAGHRIB                          | 2016-05-11 22:23:38 | 2016-05-03 17:00:00 |
+| alecs_crazy at yahoo dot com                       | RCS & RDS SA                                  | 2016-05-11 22:28:44 | 2016-05-06 18:00:00 |
+| 52E541CE                                           | Choopa, LLC                                   | 2016-05-11 22:28:52 | 2016-05-11 23:00:00 |
+| 9D2F7452                                           | Orange S.A.                                   | 2016-05-11 22:30:34 | 2016-05-06 12:00:00 |
+| 9B5FF2D4                                           | OVH SAS                                       | 2016-05-11 22:38:13 | 2016-05-11 23:00:00 |
+| BBDC1BF2                                           | OVH SAS                                       | 2016-05-11 22:38:14 | 2016-05-11 23:00:00 |
+| 0xFFFFFFFF Rando hoopamonkey12@gmail.com           | Hurricane Electric, Inc.                      | 2016-05-11 22:58:19 | 2016-05-06 07:00:00 |
+| E1774618                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-05-12 01:41:19 | 2015-12-13 06:00:00 |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
