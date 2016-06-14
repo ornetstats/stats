@@ -1,7 +1,7 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-06-13 08:00:00 |
+| 2016-06-14 08:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------------------------------------------+---------------------+---------------------+
 | contact or fingerprint                             | AS                                              | last_restarted      | first_seen          |
@@ -15,135 +15,88 @@
 | Ins0mnia Shells <orwell1984.info AT gmail dot com> | NULL                                            | 2016-05-30 01:07:17 | 2014-04-08 19:00:00 |
 | C7E1BB1B                                           | NULL                                            | 2016-05-30 11:00:12 | 2015-02-11 21:00:00 |
 | 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                        | 2016-05-31 20:10:51 | 2014-06-20 07:00:00 |
-| 1A821296                                           | Alibaba (China) Technology Co., Ltd.            | 2016-06-05 01:55:02 | 2016-06-05 03:00:00 |
-| 9220C796                                           | NULL                                            | 2016-06-10 07:31:56 | 2016-06-10 08:00:00 |
 | <wheezy AT wheezy dot io>                          | NULL                                            | 2016-06-10 10:39:52 | 2016-06-10 11:00:00 |
-| 0xBB25558168C207EC                                 | NULL                                            | 2016-06-10 14:37:19 | 2016-06-10 15:00:00 |
-| 21973E2E                                           | Digital Ocean, Inc.                             | 2016-06-10 22:49:18 | 2016-06-11 00:00:00 |
-| 2128008D                                           | formerly known as UPC Broadband Holding B.V.    | 2016-06-11 02:32:35 | 2015-01-10 23:00:00 |
-| Kevin <tor AT kberanek dot com>                    | NULL                                            | 2016-06-11 04:03:04 | 2016-06-11 05:00:00 |
-| Wubim Foundation <services@wubim.com>              | 2267921 ONTARIO LTD                             | 2016-06-11 07:04:42 | 2016-06-11 08:00:00 |
-| F40F2B75                                           | Time Warner Cable Internet LLC                  | 2016-06-11 08:48:16 | 2016-06-12 10:00:00 |
-| 9590186A                                           | NULL                                            | 2016-06-11 10:30:55 | 2016-06-11 11:00:00 |
-| 3BBF4506                                           | NULL                                            | 2016-06-11 11:14:13 | 2016-06-11 07:00:00 |
-| Random Person <alshammari AT gmail dot com>        | NULL                                            | 2016-06-11 12:56:32 | 2016-03-20 18:00:00 |
-| edding@t-online.de                                 | formerly known as UPC Broadband Holding B.V.    | 2016-06-11 13:18:18 | 2016-06-11 14:00:00 |
-| FED2B870                                           | NULL                                            | 2016-06-11 13:45:14 | 2016-06-06 07:00:00 |
-| Nicolai Petersen  <nlpdk@protonmail.ch>            | NULL                                            | 2016-06-11 14:58:40 | 2015-05-06 23:00:00 |
-| 2CC813BB                                           | Russia                                          | 2016-06-11 15:51:56 | 2016-01-19 17:00:00 |
-| airo <airo AT tfwno DOT gf> - bitcoin 1ANwhySLvWzV | NULL                                            | 2016-06-11 16:16:00 | 2016-06-11 16:00:00 |
-| Evan d'Entremont <relay2@evandentremont.com>       | Bell Aliant Regional Communications, Inc.       | 2016-06-11 17:19:31 | 2016-06-11 18:00:00 |
-| Admin <good DOT onion AT bitmessage DOT ch>        | QuadraNet, Inc                                  | 2016-06-11 18:01:54 | 2015-02-08 17:00:00 |
-| sbh77 <sbh77 AT hotmail dot com>                   | Charter Communications                          | 2016-06-11 19:27:05 | 2016-06-11 22:00:00 |
-| 4528ACFF                                           | NULL                                            | 2016-06-11 20:40:53 | 2016-01-21 19:00:00 |
-| 61E8D2FC                                           | AS for the Trans-European Tele2 IP Transport    | 2016-06-11 21:11:43 | 2016-06-11 22:00:00 |
 | A7C898A5                                           | NULL                                            | 2016-06-11 21:50:35 | 2016-06-11 23:00:00 |
-| 2228CEF5                                           | NULL                                            | 2016-06-11 23:30:34 | 2016-06-12 00:00:00 |
-| 11D819AD                                           | ISPsystem Autonomous System                     | 2016-06-11 23:34:13 | 2016-06-12 00:00:00 |
-| 0x57BD3333 Bryce Miller <tor AT brycem dot co> 1FF | ServerStack, Inc.                               | 2016-06-12 00:27:30 | 2014-06-24 00:00:00 |
-| hsde@test.test                                     | Research Organization of Information and Syst   | 2016-06-12 02:20:31 | 2016-06-12 03:00:00 |
-| 66040505                                           | NULL                                            | 2016-06-12 02:37:18 | 2016-06-05 11:00:00 |
 | hsde@test.test                                     | University of Washington                        | 2016-06-12 02:46:45 | 2016-06-12 03:00:00 |
 | hsde@test.test                                     | Associação Rede Nacional de Ensino e Pesquisa   | 2016-06-12 02:47:37 | 2016-06-12 03:00:00 |
 | hsde@test.test                                     | Case Western Reserve University                 | 2016-06-12 02:47:48 | 2016-06-12 03:00:00 |
 | hsde@test.test                                     | Nevada System of Higher Education               | 2016-06-12 02:47:59 | 2016-06-12 03:00:00 |
-| hsde@test.test                                     | Rutgers University                              | 2016-06-12 03:00:43 | 2016-06-12 04:00:00 |
-| hsde@test.test                                     | Northeast Regional Data Center                  | 2016-06-12 03:05:24 | 2016-06-12 04:00:00 |
+| FED2B870                                           | NULL                                            | 2016-06-12 02:54:53 | 2016-06-06 07:00:00 |
 | hsde@test.test                                     | NULL                                            | 2016-06-12 03:05:34 | 2016-06-12 04:00:00 |
 | 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                        | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
-| Kevin <tor AT kberanek dot com>                    | NULL                                            | 2016-06-12 03:58:45 | 2016-06-12 05:00:00 |
-| Kevin <tor AT kberanek dot com>                    | NULL                                            | 2016-06-12 03:58:45 | 2016-06-12 05:00:00 |
-| U+039b <* AT 0x39b dot fr>                         | NULL                                            | 2016-06-12 08:29:44 | 2016-06-11 21:00:00 |
-| email AT firemail DOT cc                           | # Prunk Network                                 | 2016-06-12 08:56:15 | 2016-06-12 10:00:00 |
-| snIP3r <sniper@restricted-area.de>                 | NULL                                            | 2016-06-12 09:18:03 | 2016-04-01 02:00:00 |
-| 619BDD42                                           | Choopa, LLC                                     | 2016-06-12 10:21:46 | 2016-06-12 11:00:00 |
-| 8ear <8ear at gmx.de>                              | Digital Ocean, Inc.                             | 2016-06-12 10:48:59 | 2016-06-11 22:00:00 |
-| 8ear <8ear at gmx.de>                              | www.first-colo.net                              | 2016-06-12 10:50:18 | 2016-06-11 22:00:00 |
-| anonymous@gmail.com                                | RamNode LLC                                     | 2016-06-12 11:13:18 | 2016-06-12 12:00:00 |
-| tor1@nospam.ga                                     | Microsoft Corporation                           | 2016-06-12 11:48:18 | 2016-06-12 12:00:00 |
-| write.to paracrew.admin a.t protonmail.ch          | NULL                                            | 2016-06-12 12:26:29 | 2016-06-12 13:00:00 |
-| write.to paracrew.admin a.t protonmail.ch          | NULL                                            | 2016-06-12 12:26:29 | 2016-06-12 13:00:00 |
-| FA3A0E65                                           | NULL                                            | 2016-06-12 12:35:30 | 2008-03-18 10:00:00 |
-| 12D8672B                                           | ZAIN                                            | 2016-06-12 13:11:21 | 2015-11-30 06:00:00 |
-| F3C73309                                           | Cogent Communications                           | 2016-06-12 14:07:03 | 2016-06-12 14:00:00 |
+| tor1@nospam.ga                                     | Microsoft Corporation                           | 2016-06-12 11:48:17 | 2016-06-12 12:00:00 |
 | D608A3FE                                           | TM Net, Internet Service Provider               | 2016-06-12 14:31:01 | 2016-06-12 15:00:00 |
-| 7D7709A2                                           | Moscow, Russia                                  | 2016-06-12 14:47:25 | 2014-06-08 17:00:00 |
-| <onions at online de>                              | INTERNET E WEB HOSTING SERV DE INFORMATICA LT   | 2016-06-12 15:19:51 | 2016-06-12 16:00:00 |
-| #tor at thedarkNet                                 | Pakistan Telecom Company Limited                | 2016-06-12 15:35:35 | 2016-06-10 11:00:00 |
-| E344C2CC                                           | Internet service provider operations            | 2016-06-12 15:52:58 | 2015-11-04 22:00:00 |
-| 7E85E19C                                           | NULL                                            | 2016-06-12 15:58:58 | 2015-05-27 07:00:00 |
-| william@william.si                                 | NULL                                            | 2016-06-12 16:05:56 | 2016-06-12 17:00:00 |
-| william@william.si                                 | NULL                                            | 2016-06-12 16:12:25 | 2016-06-12 17:00:00 |
-| C4ED7E71                                           | NULL                                            | 2016-06-12 16:22:11 | 2016-03-08 07:00:00 |
-| Alenan e.V. <tor@alenan.org>                       | NULL                                            | 2016-06-12 17:05:35 | 2016-06-12 18:00:00 |
-| qwerty@cmail.nu                                    | NULL                                            | 2016-06-12 17:08:43 | 2016-06-12 17:00:00 |
-| 1493027D                                           | Rogers Cable Communications Inc.                | 2016-06-12 17:57:52 | 2016-06-12 16:00:00 |
-| rsmith16384@hotmail.com                            | Frontier Communications of America, Inc.        | 2016-06-12 18:29:36 | 2016-06-11 17:00:00 |
-| random person <tropikhajma AT gmail dot com>       | NULL                                            | 2016-06-12 18:30:15 | 2016-06-12 19:00:00 |
-| patric@derpadi49.de                                | NULL                                            | 2016-06-12 19:13:58 | 2016-06-12 19:00:00 |
 | Random Person <nobody AT example dot com>          | NULL                                            | 2016-06-12 19:36:07 | 2016-06-12 19:00:00 |
 | Random Person <nobody AT example dot com>          | NULL                                            | 2016-06-12 19:36:12 | 2016-06-12 19:00:00 |
-| Random Person <nobody AT example dot com>          | NULL                                            | 2016-06-12 19:36:17 | 2016-06-12 19:00:00 |
-| mac garrison <macgarrison871 AT gmail dot com>     | Comcast Cable Communications, Inc.              | 2016-06-12 19:42:21 | 2015-07-23 03:00:00 |
-| 0xEBEB8596 k0nsl <i.am@k0nsl.org>                  | HostHatch, Inc                                  | 2016-06-12 20:21:50 | 2015-11-18 08:00:00 |
-| human@...                                          | Charter Communications                          | 2016-06-12 20:37:01 | 2016-06-11 23:00:00 |
-| linuxrwanda@gmail.com                              | Choopa, LLC                                     | 2016-06-12 20:43:49 | 2016-06-11 21:00:00 |
-| <opensesame AT openmailbox dot org>                | RamNode LLC                                     | 2016-06-12 20:49:00 | 2016-06-12 21:00:00 |
 | <opensesame AT openmailbox dot org>                | NULL                                            | 2016-06-12 20:49:18 | 2016-06-12 19:00:00 |
-| dave                                               | Comcast Cable Communications, Inc.              | 2016-06-12 21:13:35 | 2016-06-12 21:00:00 |
-| HapZ <nobody AT example dot com>                   | WAWB Pty Ltd                                    | 2016-06-12 21:33:14 | 2016-06-12 17:00:00 |
-| pwcrack@pwcrack.com                                | 2267921 ONTARIO LTD                             | 2016-06-12 23:20:52 | 2016-06-13 00:00:00 |
-| CB787A09                                           | Rogers Cable Communications Inc.                | 2016-06-12 23:46:54 | 2016-06-13 00:00:00 |
-| 2060609E                                           | Swisscom (Switzerland) Ltd                      | 2016-06-13 00:26:09 | 2016-05-21 20:00:00 |
-| patric@derpadi49.de                                | International IP-Backbone of Vodafone           | 2016-06-13 00:49:05 | 2016-06-12 19:00:00 |
-| 0xD3650780 torclients@erhsch.de                    | Internet service provider operations            | 2016-06-13 01:25:12 | 2016-06-11 10:00:00 |
-| 08D6A32F                                           | NULL                                            | 2016-06-13 01:27:24 | 2016-06-09 03:00:00 |
-| D7BEC972                                           | NULL                                            | 2016-06-13 01:44:13 | 2016-06-05 11:00:00 |
-| nqmamsi@mail.bg                                    | NULL                                            | 2016-06-13 01:50:03 | 2016-06-05 14:00:00 |
-| 1297ECA0                                           | TOT Public Company Limited                      | 2016-06-13 02:07:29 | 2016-06-12 16:00:00 |
-| GPG PGP ID 0x985E0A87 Fingerprint DFA3 F1F9 2070 0 | SoftLayer Technologies Inc.                     | 2016-06-13 02:14:42 | 2016-06-12 05:00:00 |
 | <opensesame AT openmailbox dot org>                | Choopa, LLC                                     | 2016-06-13 02:30:25 | 2016-06-13 03:00:00 |
 | <opensesame AT openmailbox dot org>                | Choopa, LLC                                     | 2016-06-13 02:39:24 | 2016-06-13 03:00:00 |
-| 3C70B6A6                                           | Softbank BB Corp.                               | 2016-06-13 02:54:09 | 2016-04-12 07:00:00 |
 | A48FE6B0                                           | NULL                                            | 2016-06-13 03:12:27 | 2016-06-13 04:00:00 |
-| CC3F07C0                                           | Time Warner Cable Internet LLC                  | 2016-06-13 03:57:24 | 2016-06-12 09:00:00 |
-| Random Person <xyz123abc@protonmail.ch> - 1MyTorYT | NULL                                            | 2016-06-13 04:02:09 | 2016-06-13 04:00:00 |
-| Kevin <tor AT kberanek dot com>                    | NULL                                            | 2016-06-13 04:03:52 | 2016-06-13 04:00:00 |
-| Kevin <tor AT kberanek dot com>                    | NULL                                            | 2016-06-13 04:03:59 | 2016-06-13 04:00:00 |
-| B5A94DD9                                           | NULL                                            | 2016-06-13 04:57:00 | 2013-08-30 07:00:00 |
 | donotcontact@me.net                                | MCI Communications Services, Inc. d/b/a Veriz   | 2016-06-13 05:30:37 | 2016-06-13 06:00:00 |
-| 04FF8BCC                                           | NULL                                            | 2016-06-13 05:40:21 | 2016-06-13 06:00:00 |
-| 6BB1C68A                                           | Internet service provider operations            | 2016-06-13 05:40:47 | 2016-01-31 08:00:00 |
-| EB9AA32F                                           | NULL                                            | 2016-06-13 05:45:47 | 2016-06-04 16:00:00 |
-| 30547DA6                                           | NULL                                            | 2016-06-13 05:57:02 | 2016-03-12 14:00:00 |
-| 6D4F40F6                                           | VODAFONE_ES                                     | 2016-06-13 05:57:02 | 2016-06-13 00:00:00 |
-| 9D6D0974                                           | Samara Telegraph                                | 2016-06-13 06:06:14 | 2014-07-07 17:00:00 |
-| bernard  <mhs3rw44wg AT snkmail dot com>           | Digital Ocean, Inc.                             | 2016-06-13 06:09:16 | 2016-06-13 05:00:00 |
-| 80011B25                                           | NULL                                            | 2016-06-13 06:16:19 | 2016-04-14 15:00:00 |
-| jaymin at gmx dot net                              | TM Net, Internet Service Provider               | 2016-06-13 06:20:39 | 2016-06-08 07:00:00 |
-| Ohtwoone <Ohtwoone@gmail.com>                      | NULL                                            | 2016-06-13 06:24:03 | 2016-06-13 07:00:00 |
-| 36753FAA                                           | Charter Communications                          | 2016-06-13 06:30:58 | 2015-09-19 07:00:00 |
-| E553AD72                                           | NTT Communications Corporation                  | 2016-06-13 06:33:36 | 2016-04-12 05:00:00 |
-| 3859B583                                           | NULL                                            | 2016-06-13 06:35:07 | 2016-06-13 07:00:00 |
-| 9070DCED                                           | International IP-Backbone of Vodafone           | 2016-06-13 06:42:33 | 2016-05-30 09:00:00 |
-| 6ED710B3                                           | NULL                                            | 2016-06-13 06:45:29 | 2014-09-18 16:00:00 |
-| A963FC13                                           | NULL                                            | 2016-06-13 06:57:45 | 2014-04-09 15:00:00 |
-| 87FBA3F1                                           | Cox Communications Inc.                         | 2016-06-13 06:59:16 | 2016-06-12 05:00:00 |
-| A0CFA7AC                                           | Swisscom (Switzerland) Ltd                      | 2016-06-13 06:59:51 | 2015-12-25 12:00:00 |
 | 9DB4BE5E                                           | NULL                                            | 2016-06-13 07:15:57 | 2015-08-22 09:00:00 |
-| 0D6AFD5F                                           | NULL                                            | 2016-06-13 07:27:32 | 2016-01-03 21:00:00 |
-| contact at peersm.com                              | NULL                                            | 2016-06-13 07:28:53 | 2014-01-20 15:00:00 |
-| contact at peersm.com                              | NULL                                            | 2016-06-13 07:29:09 | 2013-07-15 11:00:00 |
-| A1E811AF                                           | formerly known as UPC Broadband Holding B.V.    | 2016-06-13 07:57:29 | 2016-02-14 19:00:00 |
-| admin@smankusors.16mb.com                          | PT Telekomunikasi Indonesia                     | 2016-06-13 08:00:53 | 2016-06-12 10:00:00 |
-| 6313798D                                           | NULL                                            | 2016-06-13 08:21:09 | 2015-06-20 07:00:00 |
-| 59190DD9                                           | formerly known as UPC Broadband Holding B.V.    | 2016-06-13 08:25:54 | 2014-06-24 20:00:00 |
-| 5CB85061                                           | NULL                                            | 2016-06-13 08:26:57 | 2016-02-21 12:00:00 |
-| B91019A2                                           | NULL                                            | 2016-06-13 08:32:29 | 2016-05-22 16:00:00 |
-| FEF1FD96                                           | IUNET                                           | 2016-06-13 08:34:58 | 2015-09-24 18:00:00 |
-| 31D1C70D                                           | NULL                                            | 2016-06-13 08:38:10 | 2016-04-21 12:00:00 |
-| E4FF37AD                                           | NULL                                            | 2016-06-13 08:57:29 | 2016-04-23 18:00:00 |
-| *@0x39b.fr                                         | NULL                                            | 2016-06-13 08:59:58 | 2016-06-11 17:00:00 |
-| CFCCA173                                           | Amsterdam, the Netherlands                      | 2016-06-13 09:00:37 | 2016-06-09 13:00:00 |
-| 57E0B39A                                           | Tim Celular S.A.                                | 2016-06-13 09:01:04 | 2016-04-05 22:00:00 |
+| Ohtwoone <Ohtwoone@gmail.com>                      | NULL                                            | 2016-06-13 08:21:34 | 2016-06-13 07:00:00 |
+| A23E1918                                           | NULL                                            | 2016-06-13 08:28:51 | 2016-06-13 09:00:00 |
+| 9F328A14                                           | Query Foundry, LLC                              | 2016-06-13 09:42:47 | 2016-06-13 09:00:00 |
+| torFeedback@gmail.com                              | Rogers Cable Communications Inc.                | 2016-06-13 10:33:28 | 2016-06-13 13:00:00 |
+| Spydar007 <root@spydar007.com>                     | NULL                                            | 2016-06-13 11:35:24 | 2016-06-13 12:00:00 |
+| C3881892                                           | NULL                                            | 2016-06-13 14:52:59 | 2016-06-10 04:00:00 |
+| CCA0FA93                                           | Internet service provider operations            | 2016-06-13 15:20:20 | 2016-06-13 16:00:00 |
+| 4C3B00CA                                           | NULL                                            | 2016-06-13 16:12:51 | 2015-02-23 00:00:00 |
+| human@nist.gov                                     | TDC A/S                                         | 2016-06-13 17:25:24 | 2016-06-11 11:00:00 |
+| middlearth@mail.com                                | NULL                                            | 2016-06-13 17:28:28 | 2016-06-13 16:00:00 |
+| EDC45DE5                                           | BelWue-Koordination                             | 2016-06-13 17:41:40 | 2016-06-13 18:00:00 |
+| kolvad0sik at mail dot ru                          | NULL                                            | 2016-06-13 17:51:41 | 2016-06-13 20:00:00 |
+| E62E68AE                                           | NULL                                            | 2016-06-13 18:10:31 | 2016-06-13 18:00:00 |
+| aivariokas at google mail                          | NULL                                            | 2016-06-13 18:31:14 | 2016-06-13 19:00:00 |
+| Martin A. <tor-fr1 AT rdns dot cc>                 | NULL                                            | 2016-06-13 18:32:11 | 2016-06-13 17:00:00 |
+| Martin A. <tor-fr1 AT rdns dot cc>                 | NULL                                            | 2016-06-13 18:33:04 | 2016-06-13 17:00:00 |
+| E9762461                                           | Internet service provider operations            | 2016-06-13 19:33:01 | 2016-06-13 20:00:00 |
+| 59538409                                           | Data Communication Business Group               | 2016-06-13 21:26:19 | 2016-06-13 17:00:00 |
+| <onions at online de>                              | Moscow, Russia                                  | 2016-06-13 21:32:34 | 2016-06-13 22:00:00 |
+| < BM-2cUfxGSyWhs34j7z2dG52DNGfaVbU7g119 (on system | NULL                                            | 2016-06-13 21:38:19 | 2013-12-11 21:00:00 |
+| EB827865                                           | formerly known as UPC Broadband Holding B.V.    | 2016-06-13 22:12:39 | 2016-06-11 21:00:00 |
+| <opensesame AT openmailbox dot org>                | Feral Hosting                                   | 2016-06-13 22:31:47 | 2016-06-13 23:00:00 |
+| D938E975                                           | Latvia                                          | 2016-06-13 22:53:54 | 2016-06-14 00:00:00 |
+| Bob Miller <stereo.xa _at_ gmail.com>              | NULL                                            | 2016-06-14 00:40:28 | 2016-06-13 13:00:00 |
+| relay AT conformistforest dot florist              | Digital Ocean, Inc.                             | 2016-06-14 00:56:51 | 2016-06-13 21:00:00 |
+| Random Person <w1z4r7 in swissmail dut ch with0ut  | NULL                                            | 2016-06-14 01:49:38 | 2016-06-14 02:00:00 |
+| NuttBoxer uscitizen1776@gmail.com                  | AT&T Services, Inc.                             | 2016-06-14 01:55:49 | 2015-10-29 05:00:00 |
+| 1297ECA0                                           | TOT Public Company Limited                      | 2016-06-14 02:11:03 | 2016-06-12 16:00:00 |
+| <admin AT paulsblog dot xyz>                       | VolumeDrive                                     | 2016-06-14 03:26:50 | 2016-06-14 04:00:00 |
+| 7DCD8108                                           | NULL                                            | 2016-06-14 03:43:03 | 2016-05-27 09:00:00 |
+| Random Person <xyz123abc@protonmail.ch> - 1MyTorYT | NULL                                            | 2016-06-14 03:46:17 | 2016-06-13 04:00:00 |
+| 7106037F                                           | Mahanagar Telephone Nigam Ltd.                  | 2016-06-14 03:47:22 | 2016-06-14 04:00:00 |
+| 1CCB4A27                                           | NULL                                            | 2016-06-14 04:00:00 | 2014-06-05 22:00:00 |
+| E802C68C                                           | NULL                                            | 2016-06-14 04:03:57 | 2016-06-13 06:00:00 |
+| 0E7A6D48                                           | Linz, Austria                                   | 2016-06-14 04:07:20 | 2014-11-27 14:00:00 |
+| DDBAFD8A                                           | NULL                                            | 2016-06-14 04:14:19 | 2016-06-13 16:00:00 |
+| contact at peersm.com                              | NULL                                            | 2016-06-14 04:28:54 | 2014-01-20 15:00:00 |
+| brentwilson@protonmail.com [tip:1D8KEma4ECoLKsDj9g | Choopa, LLC                                     | 2016-06-14 04:31:27 | 2016-06-14 05:00:00 |
+| 84786EF8                                           | NULL                                            | 2016-06-14 04:32:25 | 2016-06-05 10:00:00 |
+| brentwilson@protonmail.com [tip:1D8KEma4ECoLKsDj9g | Choopa, LLC                                     | 2016-06-14 04:32:58 | 2016-06-14 05:00:00 |
+| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                     | 2016-06-14 04:44:45 | 2016-06-14 05:00:00 |
+| 6BB1C68A                                           | Internet service provider operations            | 2016-06-14 04:59:26 | 2016-01-31 08:00:00 |
+| 5C3CB022                                           | Internet service provider operations            | 2016-06-14 05:06:02 | 2016-06-14 06:00:00 |
+| EB9AA32F                                           | NULL                                            | 2016-06-14 05:18:10 | 2016-06-04 16:00:00 |
+| AB009A37                                           | Mathias-Brueggen-Str. 55                        | 2016-06-14 05:52:04 | 2016-05-24 22:00:00 |
+| admin@smankusors.16mb.com                          | PT Telekomunikasi Indonesia                     | 2016-06-14 06:04:13 | 2016-06-12 10:00:00 |
+| 59190DD9                                           | formerly known as UPC Broadband Holding B.V.    | 2016-06-14 06:16:11 | 2014-06-24 20:00:00 |
+| human@man.tor                                      | Russia                                          | 2016-06-14 06:23:08 | 2016-06-06 15:00:00 |
+| BECB8F6C                                           | NULL                                            | 2016-06-14 06:24:34 | 2016-06-14 07:00:00 |
+| abuse<at>themimitoof<dot>fr                        | NULL                                            | 2016-06-14 06:26:48 | 2016-06-13 23:00:00 |
+| contact at peersm.com                              | NULL                                            | 2016-06-14 06:29:10 | 2013-07-15 11:00:00 |
+| 9D6D0974                                           | Samara Telegraph                                | 2016-06-14 06:39:12 | 2014-07-07 17:00:00 |
+| human@...                                          | NULL                                            | 2016-06-14 06:44:51 | 2016-05-04 16:00:00 |
+| EE45C16A                                           | Macro Region North-West Autonomous System       | 2016-06-14 06:45:22 | 2015-04-05 14:00:00 |
+| 5807740F                                           | OPTINET                                         | 2016-06-14 06:58:07 | 2016-03-20 17:00:00 |
+| C5DD6B89                                           | Moscow, Russia                                  | 2016-06-14 07:04:52 | 2015-05-14 10:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                            | 2016-06-14 07:05:12 | 2016-06-14 08:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                            | 2016-06-14 07:05:19 | 2016-06-14 08:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                            | 2016-06-14 07:05:21 | 2016-06-14 08:00:00 |
+| Frost44 <1D6XEcC5gu9Eh5L5oNKpqs7oXQCUruqM2L>       | New Dream Network, LLC                          | 2016-06-14 07:08:31 | 2014-11-25 04:00:00 |
+| snIP3r <sniper@restricted-area.de>                 | NULL                                            | 2016-06-14 07:10:59 | 2016-04-01 02:00:00 |
+| 7299BACB                                           | TekSavvy Solutions, Inc.                        | 2016-06-14 07:42:49 | 2014-04-09 07:00:00 |
+| E4FF37AD                                           | NULL                                            | 2016-06-14 07:50:31 | 2016-04-23 18:00:00 |
+| *@0x39b.fr                                         | NULL                                            | 2016-06-14 07:59:25 | 2016-06-11 17:00:00 |
+| CFCCA173                                           | Amsterdam, the Netherlands                      | 2016-06-14 08:01:59 | 2016-06-09 13:00:00 |
 +----------------------------------------------------+-------------------------------------------------+---------------------+---------------------+
