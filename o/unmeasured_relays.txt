@@ -1,136 +1,188 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-06-15 08:00:00 |
+| 2016-06-16 08:00:00 |
 +---------------------+
-+----------------------------------------------------+----------------------------------------------+---------------------+---------------------+
-| contact or fingerprint                             | AS                                           | last_restarted      | first_seen          |
-+----------------------------------------------------+----------------------------------------------+---------------------+---------------------+
-| Jump Donkey <nobody AT monkey dot com>             | NULL                                         | 2016-01-23 19:47:02 | 2016-04-18 18:00:00 |
-| 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                      | 2016-03-13 01:55:17 | 2014-09-09 08:00:00 |
-| 0C6634D2                                           | NULL                                         | 2016-03-25 14:03:18 | 2016-04-18 22:00:00 |
-| earthling@aon.at                                   | Lisseeweg 1                                  | 2016-04-09 19:00:24 | 2014-02-15 10:00:00 |
-| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                         | 2016-05-19 00:30:11 | 2015-11-27 00:00:00 |
-| Ins0mnia Shells <orwell1984.info AT gmail dot com> | NULL                                         | 2016-05-30 01:07:17 | 2014-04-08 19:00:00 |
-| C7E1BB1B                                           | NULL                                         | 2016-05-30 11:00:12 | 2015-02-11 21:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                     | 2016-05-31 20:10:51 | 2014-06-20 07:00:00 |
-| JustMe <alex 100 + 20 + 2 AT wp dot pl>            | NULL                                         | 2016-06-07 16:58:40 | 2016-06-14 14:00:00 |
-| Admin <good DOT onion AT bitmessage DOT ch>        | QuadraNet, Inc                               | 2016-06-11 18:01:54 | 2015-02-08 17:00:00 |
-| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                     | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
-| FED2B870                                           | NULL                                         | 2016-06-12 18:27:20 | 2016-06-06 07:00:00 |
-| B9C586C5                                           | Swisscom (Switzerland) Ltd                   | 2016-06-13 05:41:16 | 2016-03-03 15:00:00 |
-| C3881892                                           | NULL                                         | 2016-06-13 14:52:59 | 2016-06-10 04:00:00 |
-| <admin AT paulsblog dot xyz>                       | VolumeDrive                                  | 2016-06-14 03:26:48 | 2016-06-14 04:00:00 |
-| Frost44 <1D6XEcC5gu9Eh5L5oNKpqs7oXQCUruqM2L>       | New Dream Network, LLC                       | 2016-06-14 07:08:31 | 2014-11-25 04:00:00 |
-| tor2@nospam.ga                                     | NULL                                         | 2016-06-14 07:48:47 | 2016-06-14 09:00:00 |
-| 632700CC                                           | NULL                                         | 2016-06-14 07:54:41 | 2016-06-14 09:00:00 |
-| 4CB528FD                                           | NULL                                         | 2016-06-14 08:13:47 | 2016-01-04 01:00:00 |
-| EFA91B64                                           | NULL                                         | 2016-06-14 10:49:26 | 2015-08-14 21:00:00 |
-| 15EB133C                                           | Input Output Flood LLC                       | 2016-06-14 10:54:20 | 2016-06-14 12:00:00 |
-| 0AD8C1DC                                           | InterNLnet Autonomous System                 | 2016-06-14 11:53:48 | 2016-06-14 13:00:00 |
-| tor3@nospam.ga                                     | NULL                                         | 2016-06-14 12:07:34 | 2016-06-14 09:00:00 |
-| 364FA3B7                                           | NULL                                         | 2016-06-14 12:39:17 | 2016-06-14 13:00:00 |
-| 45679EDA                                           | SoftLayer Technologies Inc.                  | 2016-06-14 13:14:59 | 2015-06-19 18:00:00 |
-| 5D436045                                           | NULL                                         | 2016-06-14 13:25:01 | 2016-06-14 09:00:00 |
-| 9ED86BA6                                           | NULL                                         | 2016-06-14 15:02:06 | 2016-06-04 17:00:00 |
-| 5B66630C                                           | NULL                                         | 2016-06-14 15:06:39 | 2016-05-25 07:00:00 |
-| frank_man at arcor dot de                          | Internet service provider operations         | 2016-06-14 15:25:38 | 2011-02-17 19:00:00 |
-| 5FFA9481                                           | NULL                                         | 2016-06-14 15:49:53 | 2016-06-14 11:00:00 |
-| maks1823@protonmail.com - 1Fi1CmUsvczyxkU8wTpddzjR | NULL                                         | 2016-06-14 17:45:51 | 2016-06-14 18:00:00 |
-| Random Person <torua AT mailforspam dot com>       | NULL                                         | 2016-06-14 17:54:28 | 2016-06-14 09:00:00 |
-| C4ED7E71                                           | NULL                                         | 2016-06-14 18:43:59 | 2016-03-08 07:00:00 |
-| nobody@example.com - 1L3jdgomRbiuXBQcfswevbqkXBy8t | Abovenet Communications, Inc                 | 2016-06-14 18:44:59 | 2016-06-14 19:00:00 |
-| 5807740F                                           | OPTINET                                      | 2016-06-14 19:07:22 | 2016-03-20 17:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:09:29 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:10:02 | 2016-06-14 20:00:00 |
-| B5134F15                                           | NULL                                         | 2016-06-14 19:10:14 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:10:32 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:11:16 | 2016-06-14 20:00:00 |
-| 5582E4A6                                           | NULL                                         | 2016-06-14 19:15:10 | 2016-03-06 10:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:24:45 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:25:54 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:05 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:20 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:22 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:22 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:24 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:29 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:31 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:33 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:34 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:37 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:41 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:41 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:42 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:43 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:44 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:47 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:48 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:49 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:50 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:52 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:52 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:53 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                         | 2016-06-14 19:26:56 | 2016-06-14 20:00:00 |
-| nope@no.com                                        | MegaPath Corporation                         | 2016-06-14 19:57:39 | 2016-06-14 19:00:00 |
-| linuxthefish <me @ linuxthefish . net>             | London, United Kingdom                       | 2016-06-14 20:29:49 | 2016-06-14 21:00:00 |
-| 2AE16A9C                                           | Ziggo - tv, internet, telefoon               | 2016-06-14 20:38:16 | 2016-06-14 12:00:00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                         | 2016-06-14 21:06:30 | 2016-06-14 22:00:00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                         | 2016-06-14 21:06:30 | 2016-06-14 22:00:00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                         | 2016-06-14 21:06:54 | 2015-12-21 15:00:00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                         | 2016-06-14 21:06:55 | 2015-02-19 22:00:00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                         | 2016-06-14 21:06:55 | 2015-12-21 09:00:00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                         | 2016-06-14 21:06:55 | 2015-09-18 17:00:00 |
-| 34F7A0CA                                           | Vilnius                                      | 2016-06-14 21:38:42 | 2015-01-31 18:00:00 |
-| 4E99ECA5                                           | formerly known as UPC Broadband Holding B.V. | 2016-06-14 23:34:38 | 2016-06-14 11:00:00 |
-| <cobiestorexit><AT><gmail><DOT><com>               | Afrihost                                     | 2016-06-14 23:47:29 | 2016-06-15 01:00:00 |
-| DBC4BF90                                           | NULL                                         | 2016-06-14 23:47:43 | 2016-06-15 00:00:00 |
-| Kristoffer Rath Hansen <kristoffer AT rathhansen d | NULL                                         | 2016-06-14 23:54:48 | 2016-06-15 01:00:00 |
-| 0x7C4B9366 Felix von Courten <courten AT web dot d | Projensdorfer Strasse 324                    | 2016-06-15 00:02:12 | 2016-06-14 19:00:00 |
-| CE22DBD4                                           | International IP-Backbone of Vodafone        | 2016-06-15 00:05:04 | 2016-06-15 01:00:00 |
-| 1F509589                                           | NULL                                         | 2016-06-15 00:18:16 | 2016-06-15 01:00:00 |
-| opensesame AT openmailbox DOT org                  | Digital Ocean, Inc.                          | 2016-06-15 00:38:34 | 2016-06-15 01:00:00 |
-| opensesame AT openmailbox DOT org                  | NULL                                         | 2016-06-15 00:46:18 | 2016-06-15 01:00:00 |
-| 9D05D455                                           | Internet service provider operations         | 2016-06-15 01:59:20 | 2014-07-12 17:00:00 |
-| IceManNCSU <admin AT redsox dot cc>                | RamNode LLC                                  | 2016-06-15 01:59:38 | 2016-06-15 02:00:00 |
-| human@man.tor                                      | Russia                                       | 2016-06-15 02:29:55 | 2016-06-06 15:00:00 |
-| admin@smankusors.16mb.com                          | PT Telekomunikasi Indonesia                  | 2016-06-15 03:26:58 | 2016-06-12 10:00:00 |
-| contact at peersm.com                              | NULL                                         | 2016-06-15 04:07:19 | 2014-01-20 15:00:00 |
-| contact at peersm.com                              | NULL                                         | 2016-06-15 04:07:34 | 2013-07-15 11:00:00 |
-| 61A49E63                                           | Linz, Austria                                | 2016-06-15 04:07:53 | 2013-12-20 07:00:00 |
-| chenmq20@163.com                                   | Digital Ocean, Inc.                          | 2016-06-15 04:09:07 | 2016-06-15 05:00:00 |
-| chenmq20@163.com                                   | Digital Ocean, Inc.                          | 2016-06-15 04:15:52 | 2016-06-15 03:00:00 |
-| chenmq20@163.com                                   | NULL                                         | 2016-06-15 04:18:12 | 2016-06-15 03:00:00 |
-| 4178817E                                           | KRNIC                                        | 2016-06-15 04:32:25 | 2016-06-15 05:00:00 |
-| DefiantDave <defiantdave@sigaint.org>              | Choopa, LLC                                  | 2016-06-15 04:40:02 | 2016-06-15 04:00:00 |
-| dbdubdb@gmail.com                                  | NULL                                         | 2016-06-15 04:46:19 | 2016-04-03 23:00:00 |
-| IceManNCSU <admin AT redsox dot cc>                | Time Warner Cable Internet LLC               | 2016-06-15 05:00:31 | 2016-06-15 02:00:00 |
-| AE629889                                           | NULL                                         | 2016-06-15 05:01:21 | 2016-06-12 07:00:00 |
-| EB9AA32F                                           | NULL                                         | 2016-06-15 05:13:32 | 2016-06-04 16:00:00 |
-| chenmq20@163.com                                   | NULL                                         | 2016-06-15 05:28:47 | 2016-06-15 06:00:00 |
-| chenmq20@163.com                                   | Digital Ocean, Inc.                          | 2016-06-15 05:28:48 | 2016-06-15 06:00:00 |
-| 6BB1C68A                                           | Internet service provider operations         | 2016-06-15 05:33:23 | 2016-01-31 08:00:00 |
-| 57E0B39A                                           | Tim Celular S.A.                             | 2016-06-15 05:42:34 | 2016-04-05 22:00:00 |
-| 004D01A6                                           | NULL                                         | 2016-06-15 05:52:38 | 2015-10-09 14:00:00 |
-| none@none.si                                       | AS set propagated by T-2, d.o.o.             | 2016-06-15 06:10:44 | 2016-04-24 04:00:00 |
-| E4FF37AD                                           | NULL                                         | 2016-06-15 06:21:34 | 2016-04-23 18:00:00 |
-| F3F69AA7                                           | NULL                                         | 2016-06-15 06:31:33 | 2016-04-16 05:00:00 |
-| 0xBFCA47FC Reid Rankin <reidrankin at gmail>       | Consolidated Communications, Inc.            | 2016-06-15 06:45:14 | 2016-06-15 07:00:00 |
-| A1E811AF                                           | formerly known as UPC Broadband Holding B.V. | 2016-06-15 06:48:22 | 2016-02-14 19:00:00 |
-| human@...                                          | NULL                                         | 2016-06-15 06:49:40 | 2016-05-04 16:00:00 |
-| terry@casper-blue.com                              | Pure Blue HK NOC                             | 2016-06-15 06:58:23 | 2016-06-15 08:00:00 |
-| A55DC0F3                                           | NULL                                         | 2016-06-15 07:01:06 | 2015-01-11 18:00:00 |
-| 55700382                                           | Etihad Etisalat Company (Mobily)             | 2016-06-15 07:03:36 | 2016-01-05 22:00:00 |
-| FE61B5D5                                           | NULL                                         | 2016-06-15 07:06:15 | 2016-06-15 08:00:00 |
-| 5B4E5A54                                           | NULL                                         | 2016-06-15 07:17:57 | 2016-06-14 20:00:00 |
-| 2CED11BB                                           | NULL                                         | 2016-06-15 07:20:04 | 2016-05-04 14:00:00 |
-| 84786EF8                                           | NULL                                         | 2016-06-15 07:22:40 | 2016-06-05 10:00:00 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTA | NULL                                         | 2016-06-15 07:25:48 | 2015-09-26 08:00:00 |
-| 5C9608C8                                           | NULL                                         | 2016-06-15 07:30:09 | 2016-06-15 08:00:00 |
-| 710DF5BF                                           | Silmukkatie 6, Vaasa, Finland                | 2016-06-15 07:31:02 | 2014-12-06 12:00:00 |
-| 170BA2D4                                           | NULL                                         | 2016-06-15 07:31:10 | 2014-01-22 07:00:00 |
-| dormer_x AT yahoo dot com                          | NULL                                         | 2016-06-15 07:59:04 | 2016-06-15 08:00:00 |
-| CFCCA173                                           | Amsterdam, the Netherlands                   | 2016-06-15 08:01:19 | 2016-06-09 13:00:00 |
-| AB009A37                                           | Mathias-Brueggen-Str. 55                     | 2016-06-15 09:46:12 | 2016-05-24 22:00:00 |
-| 6AC538F7                                           | Fariya Networks Pvt. Ltd.                    | 2016-06-15 18:54:28 | 2016-06-15 08:00:00 |
-+----------------------------------------------------+----------------------------------------------+---------------------+---------------------+
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| Jump Donkey <nobody AT monkey dot com>             | NULL                                          | 2016-01-23 19:47:03 | 2016-04-18 18:00:00 |
+| 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                       | 2016-03-13 01:55:17 | 2014-09-09 08:00:00 |
+| 0C6634D2                                           | NULL                                          | 2016-03-25 14:03:18 | 2016-04-18 22:00:00 |
+| earthling@aon.at                                   | Lisseeweg 1                                   | 2016-04-09 19:00:24 | 2014-02-15 10:00:00 |
+| 95DB87ED                                           | Brauerstrasse 48                              | 2016-05-13 07:05:08 | 2015-06-06 19:00:00 |
+| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                          | 2016-05-19 00:30:11 | 2015-11-27 00:00:00 |
+| C7E1BB1B                                           | NULL                                          | 2016-05-30 11:00:12 | 2015-02-11 21:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-05-31 20:10:51 | 2014-06-20 07:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 12:23:56 | 2016-05-27 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 12:24:20 | 2016-05-27 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:01:17 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:11:50 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:19:05 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:25:01 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:28:50 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:31:23 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:34:29 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-02 13:40:29 | 2016-06-02 14:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-03 17:24:16 | 2016-06-03 18:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-03 17:27:22 | 2016-06-03 18:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-03 17:38:44 | 2016-06-03 18:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-03 17:40:43 | 2016-06-03 18:00:00 |
+| JustMe <alex 100 + 20 + 2 AT wp dot pl>            | NULL                                          | 2016-06-07 16:58:40 | 2016-06-14 14:00:00 |
+| Admin <good DOT onion AT bitmessage DOT ch>        | QuadraNet, Inc                                | 2016-06-11 18:01:54 | 2015-02-08 17:00:00 |
+| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
+| F69D8EF3                                           | 2267921 ONTARIO LTD                           | 2016-06-13 01:18:46 | 2016-03-02 01:00:00 |
+| FED2B870                                           | NULL                                          | 2016-06-13 09:25:16 | 2016-06-06 07:00:00 |
+| B9C586C5                                           | Swisscom (Switzerland) Ltd                    | 2016-06-13 23:30:36 | 2016-03-03 15:00:00 |
+| <admin AT paulsblog dot xyz>                       | VolumeDrive                                   | 2016-06-14 03:26:48 | 2016-06-14 04:00:00 |
+| Frost44 <1D6XEcC5gu9Eh5L5oNKpqs7oXQCUruqM2L>       | New Dream Network, LLC                        | 2016-06-14 07:08:31 | 2014-11-25 04:00:00 |
+| tor2@nospam.ga                                     | NULL                                          | 2016-06-14 07:48:47 | 2016-06-14 09:00:00 |
+| 632700CC                                           | NULL                                          | 2016-06-14 07:54:41 | 2016-06-14 09:00:00 |
+| EFA91B64                                           | NULL                                          | 2016-06-14 10:49:26 | 2015-08-14 21:00:00 |
+| 15EB133C                                           | Input Output Flood LLC                        | 2016-06-14 10:54:20 | 2016-06-14 12:00:00 |
+| 0AD8C1DC                                           | InterNLnet Autonomous System                  | 2016-06-14 11:53:48 | 2016-06-14 13:00:00 |
+| tor3@nospam.ga                                     | NULL                                          | 2016-06-14 12:07:27 | 2016-06-14 09:00:00 |
+| 364FA3B7                                           | NULL                                          | 2016-06-14 12:39:17 | 2016-06-14 13:00:00 |
+| 45679EDA                                           | SoftLayer Technologies Inc.                   | 2016-06-14 13:14:59 | 2015-06-19 18:00:00 |
+| 5D436045                                           | NULL                                          | 2016-06-14 13:32:22 | 2016-06-14 09:00:00 |
+| maks1823@protonmail.com - 1Fi1CmUsvczyxkU8wTpddzjR | NULL                                          | 2016-06-14 17:45:51 | 2016-06-14 18:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:09:29 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:10:02 | 2016-06-14 20:00:00 |
+| B5134F15                                           | NULL                                          | 2016-06-14 19:10:14 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:10:32 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:11:16 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:24:45 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:24:47 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:25:42 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:25:54 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:05 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:20 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:22 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:22 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:24 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:29 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:29 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:29 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:31 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:33 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:34 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:37 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:41 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:41 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:42 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:43 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:44 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:47 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:48 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:49 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:50 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:50 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:52 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:52 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:53 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:53 | 2016-06-14 20:00:00 |
+| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           | NULL                                          | 2016-06-14 19:26:56 | 2016-06-14 20:00:00 |
+| linuxthefish <me @ linuxthefish . net>             | London, United Kingdom                        | 2016-06-14 20:29:49 | 2016-06-14 21:00:00 |
+| 2AE16A9C                                           | Ziggo - tv, internet, telefoon                | 2016-06-14 20:38:15 | 2016-06-14 12:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                          | 2016-06-14 21:06:30 | 2016-06-14 22:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                          | 2016-06-14 21:06:30 | 2016-06-14 22:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                          | 2016-06-14 21:06:54 | 2015-12-21 15:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                          | 2016-06-14 21:06:55 | 2015-12-21 09:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                          | 2016-06-14 21:06:55 | 2015-02-19 22:00:00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a    | NULL                                          | 2016-06-14 21:06:55 | 2015-09-18 17:00:00 |
+| Kristoffer Rath Hansen <kristoffer AT rathhansen d | NULL                                          | 2016-06-14 23:54:48 | 2016-06-15 01:00:00 |
+| 1F509589                                           | NULL                                          | 2016-06-15 00:18:16 | 2016-06-15 01:00:00 |
+| opensesame AT openmailbox DOT org                  | Digital Ocean, Inc.                           | 2016-06-15 00:38:34 | 2016-06-15 01:00:00 |
+| chenmq20@163.com                                   | Digital Ocean, Inc.                           | 2016-06-15 04:14:39 | 2016-06-15 05:00:00 |
+| chenmq20@163.com                                   | Digital Ocean, Inc.                           | 2016-06-15 04:15:52 | 2016-06-15 03:00:00 |
+| DefiantDave <defiantdave@sigaint.org>              | Choopa, LLC                                   | 2016-06-15 04:40:02 | 2016-06-15 04:00:00 |
+| chenmq20@163.com                                   | NULL                                          | 2016-06-15 05:28:46 | 2016-06-15 06:00:00 |
+| chenmq20@163.com                                   | Digital Ocean, Inc.                           | 2016-06-15 05:28:47 | 2016-06-15 06:00:00 |
+| chenmq20@163.com                                   | NULL                                          | 2016-06-15 05:32:02 | 2016-06-15 03:00:00 |
+| 0xBFCA47FC Reid Rankin <reidrankin at gmail>       | Consolidated Communications, Inc.             | 2016-06-15 06:45:14 | 2016-06-15 07:00:00 |
+| A55DC0F3                                           | NULL                                          | 2016-06-15 07:01:06 | 2015-01-11 18:00:00 |
+| none@none.si                                       | AS set propagated by T-2, d.o.o.              | 2016-06-15 07:11:53 | 2016-04-24 04:00:00 |
+| 5B4E5A54                                           | NULL                                          | 2016-06-15 07:17:57 | 2016-06-14 20:00:00 |
+| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTA | NULL                                          | 2016-06-15 07:25:47 | 2015-09-26 08:00:00 |
+| 5C9608C8                                           | NULL                                          | 2016-06-15 07:30:09 | 2016-06-15 08:00:00 |
+| A75ED0E6                                           | NULL                                          | 2016-06-15 08:18:11 | 2016-06-15 09:00:00 |
+| D8ABDC42                                           | Sweden                                        | 2016-06-15 08:24:21 | 2016-06-15 09:00:00 |
+| CE22DBD4                                           | International IP-Backbone of Vodafone         | 2016-06-15 09:42:14 | 2016-06-15 01:00:00 |
+| 583EC956                                           | EUserv / KOS-Online / Keepfree                | 2016-06-15 09:52:24 | 2016-06-15 11:00:00 |
+| 3BB96585                                           | NULL                                          | 2016-06-15 10:01:24 | 2015-09-30 09:00:00 |
+| 78EB4E2C                                           | NULL                                          | 2016-06-15 10:06:49 | 2013-09-12 14:00:00 |
+| 5582E4A6                                           | NULL                                          | 2016-06-15 10:23:42 | 2016-03-06 10:00:00 |
+| 4CB528FD                                           | NULL                                          | 2016-06-15 11:04:23 | 2016-01-04 01:00:00 |
+| pwcrack@pwcrack.com                                | 2267921 ONTARIO LTD                           | 2016-06-15 11:08:22 | 2016-06-15 12:00:00 |
+| pwcrack@pwcrack.com                                | 2267921 ONTARIO LTD                           | 2016-06-15 11:17:04 | 2016-06-15 12:00:00 |
+| pwcrack@pwcrack.com                                | 2267921 ONTARIO LTD                           | 2016-06-15 11:20:28 | 2016-06-15 12:00:00 |
+| pwcrack@pwcrack.com                                | 2267921 ONTARIO LTD                           | 2016-06-15 11:25:25 | 2016-06-15 12:00:00 |
+| terry@casper-blue.com                              | Pure Blue HK NOC                              | 2016-06-15 11:28:17 | 2016-06-15 08:00:00 |
+| 157146A4                                           | -=AM-NIC-AS=-                                 | 2016-06-15 11:44:04 | 2016-06-15 12:00:00 |
+| Administrator <contact@tor-node.net>               | Leaseweb USA, Inc.                            | 2016-06-15 11:50:16 | 2016-01-07 09:00:00 |
+| 98A37A7F                                           | IP Services Backbone                          | 2016-06-15 12:26:03 | 2016-01-27 06:00:00 |
+| 8D2A690B                                           | NULL                                          | 2016-06-15 13:25:40 | 2016-06-15 14:00:00 |
+| 34F7A0CA                                           | Vilnius                                       | 2016-06-15 13:27:13 | 2015-01-31 18:00:00 |
+| B5235130                                           | NULL                                          | 2016-06-15 14:05:56 | 2016-06-15 15:00:00 |
+| Random Person <torua AT mailforspam dot com>       | NULL                                          | 2016-06-15 14:09:23 | 2016-06-14 09:00:00 |
+| BrassHornComms <hello@brasshorncommunications.uk>  | NULL                                          | 2016-06-15 14:30:43 | 2016-06-15 15:00:00 |
+| akymaru@tutanota.com                               | EUserv / KOS-Online / Keepfree                | 2016-06-15 15:00:18 | 2016-06-15 15:00:00 |
+| AA21764A                                           | Lorenzweg 42                                  | 2016-06-15 15:34:41 | 2016-06-15 17:00:00 |
+| 0AE1E613                                           | NULL                                          | 2016-06-15 16:06:52 | 2016-06-15 23:00:00 |
+| bboyearth <bboyearth@live.com>                     | POPIDC powered by CSLoxinfo                   | 2016-06-15 16:34:53 | 2016-06-15 16:00:00 |
+| julian.suschlik@gmail.com                          | NULL                                          | 2016-06-15 17:12:58 | 2016-06-15 17:00:00 |
+| dormer_x AT yahoo dot com                          | NULL                                          | 2016-06-15 17:13:13 | 2016-06-15 08:00:00 |
+| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                   | 2016-06-15 17:36:17 | 2016-06-15 16:00:00 |
+| 730ABE9A                                           | NULL                                          | 2016-06-15 17:38:35 | 2016-06-15 18:00:00 |
+| 6DE06637                                           | Amazon.com, Inc.                              | 2016-06-15 17:40:16 | 2016-06-15 18:00:00 |
+| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                   | 2016-06-15 17:45:15 | 2016-06-15 16:00:00 |
+| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                   | 2016-06-15 17:47:44 | 2016-06-15 16:00:00 |
+| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                   | 2016-06-15 17:51:05 | 2016-06-15 15:00:00 |
+| 22E5DA43                                           | Internet service provider operations          | 2016-06-15 17:56:03 | 2016-06-13 09:00:00 |
+| info@darkned.nl                                    | formerly known as UPC Broadband Holding B.V.  | 2016-06-15 19:08:59 | 2016-06-15 20:00:00 |
+| nope@no.com                                        | MegaPath Corporation                          | 2016-06-15 20:42:31 | 2016-06-14 19:00:00 |
+| D860DFDB                                           | NULL                                          | 2016-06-15 20:43:16 | 2016-02-10 10:00:00 |
+| human@dev.null                                     | TekSavvy Solutions, Inc.                      | 2016-06-15 21:00:58 | 2015-03-15 02:00:00 |
+| Random Person jacob@yahoo.es                       | formerly known as UPC Broadband Holding B.V.  | 2016-06-15 21:04:21 | 2016-06-15 21:00:00 |
+| 6387FBFB                                           | NULL                                          | 2016-06-15 21:11:05 | 2016-04-12 13:00:00 |
+| 2F656A77                                           | Amazon.com, Inc.                              | 2016-06-15 22:30:28 | 2016-06-15 22:00:00 |
+| dbdubdb@gmail.com                                  | NULL                                          | 2016-06-15 23:01:25 | 2016-04-03 23:00:00 |
+| C4757522                                           | Internet House                                | 2016-06-15 23:35:26 | 2016-06-16 00:00:00 |
+| AE7C1BF0                                           | Time Warner Cable Internet LLC                | 2016-06-15 23:47:37 | 2012-06-05 02:00:00 |
+| 0xA263EBB7 Me <me AT zee dot li>                   | ColoCrossing                                  | 2016-06-15 23:52:58 | 2016-01-19 08:00:00 |
+| 0x7C4B9366 Felix von Courten <courten AT web dot d | Projensdorfer Strasse 324                     | 2016-06-15 23:58:46 | 2016-06-14 19:00:00 |
+| 2884C98D                                           | NULL                                          | 2016-06-16 00:38:44 | 2016-03-20 20:00:00 |
+| 1A056797                                           | UK Internet Service Provider                  | 2016-06-16 01:02:49 | 2016-04-10 17:00:00 |
+| E84EB589                                           | Internet service provider operations          | 2016-06-16 01:28:31 | 2016-04-09 15:00:00 |
+| C3881892                                           | NULL                                          | 2016-06-16 01:57:21 | 2016-06-10 04:00:00 |
+| 9D05D455                                           | Internet service provider operations          | 2016-06-16 02:03:19 | 2014-07-12 17:00:00 |
+| 0x8BB4345C Jacob Henner <code -at- ventricle -dot- | Cablevision Systems Corp.                     | 2016-06-16 02:59:30 | 2014-09-07 03:00:00 |
+| 48E06880                                           | TELUS Communications Inc.                     | 2016-06-16 03:21:07 | 2016-06-16 03:00:00 |
+| Random Person <torsupport AT mdu dot solutions>    | Hunter Communications                         | 2016-06-16 03:53:38 | 2016-06-16 02:00:00 |
+| C194ACBA                                           | Mahanagar Telephone Nigam Ltd.                | 2016-06-16 03:56:36 | 2016-06-16 04:00:00 |
+| 4178817E                                           | KRNIC                                         | 2016-06-16 04:00:14 | 2016-06-15 05:00:00 |
+| contact at peersm.com                              | NULL                                          | 2016-06-16 04:07:19 | 2014-01-20 15:00:00 |
+| opensesame AT openmailbox DOT org                  | Digital Ocean, Inc.                           | 2016-06-16 04:36:13 | 2016-06-16 05:00:00 |
+| moi at meme dot fr                                 | NULL                                          | 2016-06-16 04:58:06 | 2015-11-15 10:00:00 |
+| trump@americasucks.org                             | Choopa, LLC                                   | 2016-06-16 05:01:47 | 2016-06-16 06:00:00 |
+| human@man.tor                                      | Russia                                        | 2016-06-16 05:12:32 | 2016-06-06 15:00:00 |
+| AE629889                                           | NULL                                          | 2016-06-16 05:35:58 | 2016-06-12 07:00:00 |
+| 84786EF8                                           | NULL                                          | 2016-06-16 05:44:06 | 2016-06-05 10:00:00 |
+| 4CEF2D33                                           | Time Warner Cable Internet LLC                | 2016-06-16 05:49:37 | 2016-06-16 07:00:00 |
+| micko@abc.net                                      | Cox Communications Inc.                       | 2016-06-16 05:50:41 | 2016-06-16 06:00:00 |
+| 12A699E3                                           | NULL                                          | 2016-06-16 06:07:12 | 2016-02-09 07:00:00 |
+| 0x7ADB4BCF0547E61B <l0rd .AT. i2pmail .DOT. org>   | NULL                                          | 2016-06-16 06:07:19 | 2010-10-21 21:00:00 |
+| contact at peersm.com                              | NULL                                          | 2016-06-16 06:07:35 | 2013-07-15 11:00:00 |
+| admin [at] smankusors.16mb.com                     | PT Telekomunikasi Indonesia                   | 2016-06-16 06:13:11 | 2016-06-12 10:00:00 |
+| 4FC0FF84                                           | Netherlands                                   | 2016-06-16 06:20:41 | 2016-06-16 07:00:00 |
+| 1F9E837B                                           | NULL                                          | 2016-06-16 06:55:43 | 2016-05-18 00:00:00 |
+| 36864EA1                                           | PT Telekomunikasi Indonesia                   | 2016-06-16 06:58:37 | 2016-06-15 13:00:00 |
+| <cobiestorexit><AT><gmail><DOT><com>               | Afrihost                                      | 2016-06-16 07:08:26 | 2016-06-15 01:00:00 |
+| #tor at thedarkNet                                 | Verein zur Foerderung eines Deutschen Forschu | 2016-06-16 07:12:58 | 2016-05-30 22:00:00 |
+| AE9327A2                                           | NULL                                          | 2016-06-16 07:15:52 | 2016-06-12 10:00:00 |
+| FAECC93D                                           | Mathias-Brueggen-Str. 55                      | 2016-06-16 07:19:32 | 2014-12-26 16:00:00 |
+| human@...                                          | NULL                                          | 2016-06-16 07:21:55 | 2016-05-04 16:00:00 |
+| 44C98DCD                                           | Verein zur Foerderung eines Deutschen Forschu | 2016-06-16 07:47:55 | 2016-06-15 10:00:00 |
+| CFCCA173                                           | Amsterdam, the Netherlands                    | 2016-06-16 08:02:57 | 2016-06-09 13:00:00 |
+| 6AC538F7                                           | Fariya Networks Pvt. Ltd.                     | 2016-06-16 17:05:54 | 2016-06-15 08:00:00 |
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
