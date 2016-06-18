@@ -1,11 +1,12 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-06-17 08:00:00 |
+| 2016-06-18 08:00:00 |
 +---------------------+
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
 | contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| C36CA77A                                           | Amazon.com, Inc.                              | 2015-11-07 02:41:08 | 2016-06-17 17:00:00 |
 | Jump Donkey <nobody AT monkey dot com>             |                                               | 2016-01-23 19:47:02 | 2016-04-18 18:00:00 |
 | 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                       | 2016-03-13 01:55:17 | 2014-09-09 08:00:00 |
 | 0C6634D2                                           |                                               | 2016-03-25 14:03:18 | 2016-04-18 22:00:00 |
@@ -13,115 +14,117 @@
 | Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                          | 2016-05-19 00:30:11 | 2015-11-27 00:00:00 |
 | http://answers.ibiblio.org                         | University of North Carolina at Chapel Hill   | 2016-05-20 18:10:18 | 2014-04-08 18:00:00 |
 | C7E1BB1B                                           |                                               | 2016-05-30 11:00:12 | 2015-02-11 21:00:00 |
-| 17qik9ozUF487AX1c4F3kVFQPVxntfXzL6 admin@gmx.com   | MCI Communications Services, Inc. d/b/a Veriz | 2016-05-31 01:23:42 | 2016-04-05 07:00:00 |
 | 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-05-31 20:10:51 | 2014-06-20 07:00:00 |
 | 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
-| 6E3C1D92                                           | AS for the Trans-European Tele2 IP Transport  | 2016-06-13 17:42:16 | 2016-06-16 09:00:00 |
-| Frost44 <1D6XEcC5gu9Eh5L5oNKpqs7oXQCUruqM2L>       | New Dream Network, LLC                        | 2016-06-14 07:08:31 | 2014-11-25 04:00:00 |
-| B5134F15                                           |                                               | 2016-06-14 19:10:14 | 2016-06-14 20:00:00 |
+| D6C5FCA5                                           |                                               | 2016-06-13 17:48:51 | 2016-03-10 20:00:00 |
+| FED2B870                                           |                                               | 2016-06-14 17:24:24 | 2016-06-06 07:00:00 |
 | chenmq20@163.com                                   | Digital Ocean, Inc.                           | 2016-06-15 04:14:39 | 2016-06-15 05:00:00 |
-| chenmq20@163.com                                   | Digital Ocean, Inc.                           | 2016-06-15 04:15:52 | 2016-06-15 03:00:00 |
 | chenmq20@163.com                                   |                                               | 2016-06-15 05:28:46 | 2016-06-15 06:00:00 |
-| chenmq20@163.com                                   | Digital Ocean, Inc.                           | 2016-06-15 05:28:47 | 2016-06-15 06:00:00 |
 | chenmq20@163.com                                   |                                               | 2016-06-15 05:32:02 | 2016-06-15 03:00:00 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTA |                                               | 2016-06-15 07:25:47 | 2015-09-26 08:00:00 |
-| CE22DBD4                                           | International IP-Backbone of Vodafone         | 2016-06-15 09:42:14 | 2016-06-15 01:00:00 |
-| 78EB4E2C                                           |                                               | 2016-06-15 10:06:49 | 2013-09-12 14:00:00 |
-| 34F7A0CA                                           | Vilnius                                       | 2016-06-15 13:27:13 | 2015-01-31 18:00:00 |
-| 5582E4A6                                           |                                               | 2016-06-15 16:57:44 | 2016-03-06 10:00:00 |
-| D860DFDB                                           |                                               | 2016-06-15 20:43:16 | 2016-02-10 10:00:00 |
-| 0xA263EBB7 Me <me AT zee dot li>                   | ColoCrossing                                  | 2016-06-15 23:52:58 | 2016-01-19 08:00:00 |
-| dontcontactme@tor.onion                            |                                               | 2016-06-16 13:47:39 | 2016-06-16 14:00:00 |
-| 66D30D42                                           | Cablevision Systems Corp.                     | 2016-06-16 16:42:48 | 2016-03-18 21:00:00 |
-| 730ABE9A                                           |                                               | 2016-06-16 16:57:54 | 2016-06-15 18:00:00 |
-| nah                                                |                                               | 2016-06-16 17:36:48 | 2016-06-16 18:00:00 |
-| 876C727E                                           | RamNode LLC                                   | 2016-06-16 19:00:00 | 2016-04-29 01:00:00 |
-| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                   | 2016-06-16 19:09:00 | 2016-06-16 20:00:00 |
-| 5E40D0ED                                           |                                               | 2016-06-16 20:03:30 | 2016-05-10 06:00:00 |
+| anonyymimaili (at] wippies(dot)se [tor-relay.co]   | Choopa, LLC                                   | 2016-06-16 19:09:01 | 2016-06-16 20:00:00 |
 | torly                                              |                                               | 2016-06-16 20:14:54 | 2016-06-16 21:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:01 | 2016-06-03 18:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:02 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:02 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:03 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:04 | 2016-06-03 18:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:04 | 2016-06-03 18:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:05 | 2016-05-27 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:05 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:06 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:06 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:06 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:06 | 2016-06-02 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:06 | 2016-05-27 14:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:06 | 2016-06-03 18:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:28 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:29 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:30 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:31 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:32 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:32 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:33 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:33 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:34 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:34 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:35 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:35 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:35 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:35 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:35 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:35 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:36 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:37 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:37 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:37 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:37 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:38 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:38 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:38 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:38 | 2016-06-14 20:00:00 |
-| BTC - 1N14YsXZG8t8MUGv14HmkgWwosWvVdg1nM           |                                               | 2016-06-16 20:32:38 | 2016-06-14 20:00:00 |
 | Simon Hollingshead (0x7053E7E7) <me AT myfirstandl |                                               | 2016-06-16 21:49:00 | 2014-11-01 23:00:00 |
-| slenk <tor AT slenk dot com>                       | Linode, LLC                                   | 2016-06-16 21:52:40 | 2014-11-14 00:00:00 |
 | C60013C8                                           |                                               | 2016-06-16 22:00:00 | 2015-11-25 12:00:00 |
-| nobody@example.com - 1L3jdgomRbiuXBQcfswevbqkXBy8t | Abovenet Communications, Inc                  | 2016-06-16 22:18:56 | 2016-06-14 19:00:00 |
 | <tadeaspors AT protonmail dot com>                 |                                               | 2016-06-16 22:42:44 | 2016-06-16 23:00:00 |
-| ba1020@bitmessage.ch - 18yPNdvH7kkAnZeDwqTGR2WfDcQ |                                               | 2016-06-16 23:19:36 | 2016-01-09 18:00:00 |
-| 6D2E17A8                                           |                                               | 2016-06-16 23:57:35 | 2016-06-16 12:00:00 |
 | <tamanegi AT rainside dot sk>                      | Bratislava, Slovak Republic                   | 2016-06-17 01:00:13 | 2016-06-17 01:00:00 |
-| DefiantDave <defiantdave@sigaint.org>              | Choopa, LLC                                   | 2016-06-17 01:02:56 | 2016-06-15 04:00:00 |
-| 4FC0FF84                                           | Netherlands                                   | 2016-06-17 01:08:21 | 2016-06-16 07:00:00 |
-| 37CA9451                                           | International IP-Backbone of Vodafone         | 2016-06-17 02:08:45 | 2014-10-24 09:00:00 |
 | Theo <AT cs.wisc.edu>                              | University of Utah                            | 2016-06-17 02:54:22 | 2016-06-17 04:00:00 |
-| human@man.tor                                      | Russia                                        | 2016-06-17 03:10:43 | 2016-06-06 15:00:00 |
-| cf at crescendo-fang dot cf                        | PT Telekomunikasi Indonesia                   | 2016-06-17 03:31:07 | 2016-06-17 04:00:00 |
-| 5FE36A06                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-06-17 03:36:51 | 2016-06-17 04:00:00 |
-| anders.io                                          |                                               | 2016-06-17 04:01:00 | 2014-08-16 21:00:00 |
-| contact at peersm.com                              |                                               | 2016-06-17 04:07:20 | 2014-01-20 15:00:00 |
-| BEE5AE77                                           | TOT Public Company Limited                    | 2016-06-17 05:02:18 | 2016-06-17 06:00:00 |
-| contact at peersm.com                              |                                               | 2016-06-17 05:07:36 | 2013-07-15 11:00:00 |
-| bashkardin at ya dot ru                            | 29/2 Narodnogo Opolcheniya str.               | 2016-06-17 05:14:33 | 2015-12-19 19:00:00 |
-| 80011B25                                           |                                               | 2016-06-17 05:46:08 | 2016-04-14 15:00:00 |
-| E802C68C                                           |                                               | 2016-06-17 06:08:41 | 2016-06-13 06:00:00 |
-| AB258206                                           | BelWue-Koordination                           | 2016-06-17 06:10:19 | 2016-06-13 07:00:00 |
-| 5B66630C                                           |                                               | 2016-06-17 06:21:31 | 2016-05-25 07:00:00 |
-| EB9AA32F                                           |                                               | 2016-06-17 06:37:14 | 2016-06-04 16:00:00 |
-| 29E29AE8                                           |                                               | 2016-06-17 06:40:42 | 2016-01-02 18:00:00 |
-| 59190DD9                                           | formerly known as UPC Broadband Holding B.V.  | 2016-06-17 06:44:50 | 2014-06-24 20:00:00 |
-| C75A401A                                           | Macro Region North-West Autonomous System     | 2016-06-17 06:45:58 | 2016-06-16 19:00:00 |
-| A2E331C0                                           | Comcast Cable Communications, Inc.            | 2016-06-17 06:49:41 | 2016-06-17 08:00:00 |
-| 9070DCED                                           | International IP-Backbone of Vodafone         | 2016-06-17 07:18:22 | 2016-05-30 09:00:00 |
-| 682228c1@opayq.com                                 | Ziggo - tv, internet, telefoon                | 2016-06-17 07:20:39 | 2015-10-11 10:00:00 |
 | 8C34E2E1                                           |                                               | 2016-06-17 07:24:54 | 2016-06-17 08:00:00 |
-| admin [at] smankusors.16mb.com                     | PT Telekomunikasi Indonesia                   | 2016-06-17 07:25:39 | 2016-06-12 10:00:00 |
-| 67848B49                                           | Digital Ocean, Inc.                           | 2016-06-17 07:40:02 | 2016-06-17 08:00:00 |
-| 44C98DCD                                           | Verein zur Foerderung eines Deutschen Forschu | 2016-06-17 07:40:52 | 2016-06-15 10:00:00 |
-| E969036A                                           | Internet service provider operations          | 2016-06-17 07:43:34 | 2016-05-13 13:00:00 |
-| 6AC538F7                                           | Fariya Networks Pvt. Ltd.                     | 2016-06-17 17:57:30 | 2016-06-15 08:00:00 |
+| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTA |                                               | 2016-06-17 08:27:02 | 2016-06-17 09:00:00 |
+| 876259CA                                           |                                               | 2016-06-17 08:43:57 | 2015-05-02 19:00:00 |
+| 67848B49                                           | Digital Ocean, Inc.                           | 2016-06-17 08:55:50 | 2016-06-17 08:00:00 |
+| E0706B7F                                           |                                               | 2016-06-17 09:49:27 | 2016-06-17 10:00:00 |
+| toroperator@fastmail.net                           |                                               | 2016-06-17 09:49:34 | 2016-01-14 11:00:00 |
+| relays@riseup.net                                  |                                               | 2016-06-17 10:25:24 | 2016-06-17 11:00:00 |
+| burritor [at] icloud [dot] com [tor-relay.co]      | Choopa, LLC                                   | 2016-06-17 10:59:11 | 2016-06-17 11:00:00 |
+| Theo <AT cs.wisc.edu>                              | University of Utah                            | 2016-06-17 11:54:15 | 2016-06-17 13:00:00 |
+| 23E60FBD                                           |                                               | 2016-06-17 12:01:51 | 2016-06-17 13:00:00 |
+| 89B6739F                                           | Comcast Cable Communications, Inc.            | 2016-06-17 12:10:41 | 2014-09-25 13:00:00 |
+| 7BCF48FF                                           | Root Level Technology, LLC                    | 2016-06-17 12:38:41 | 2016-06-17 13:00:00 |
+| Ben Wilhelm <zorba-tor-vaal@pavlovian.net>         | Linode, LLC                                   | 2016-06-17 13:32:33 | 2012-07-05 15:00:00 |
+| tor2342@posteo.de                                  |                                               | 2016-06-17 13:56:09 | 2016-06-17 15:00:00 |
+| tor-relays@coldhak.ca                              | Hextet Systems                                | 2016-06-17 14:05:50 | 2016-06-17 15:00:00 |
+| A2E331C0                                           | Comcast Cable Communications, Inc.            | 2016-06-17 14:16:40 | 2016-06-17 08:00:00 |
+| B8CC9C22                                           |                                               | 2016-06-17 15:10:19 | 2016-06-17 15:00:00 |
+| nobody@example.com - 1Cz1Atm4qotzyVShYzisrxQwVQxTE | trabia network                                | 2016-06-17 15:59:07 | 2016-06-17 15:00:00 |
+| 7C8A474E                                           | AS for the Trans-European Tele2 IP Transport  | 2016-06-17 16:07:09 | 2016-06-18 05:00:00 |
+| 1486599C                                           |                                               | 2016-06-17 16:10:26 | 2016-06-17 17:00:00 |
+| 0ECB984F                                           |                                               | 2016-06-17 16:10:26 | 2016-06-17 17:00:00 |
+| frank_man at arcor dot de                          | Internet service provider operations          | 2016-06-17 16:11:11 | 2016-06-17 17:00:00 |
+| C6E0786E                                           |                                               | 2016-06-17 16:12:19 | 2016-06-17 17:00:00 |
+| 548F6FEE                                           |                                               | 2016-06-17 16:12:19 | 2016-06-17 17:00:00 |
+| cf at crescendo-fang dot cf                        | PT Telekomunikasi Indonesia                   | 2016-06-17 16:56:25 | 2016-06-17 04:00:00 |
+| B97E45CA                                           | Cablevision Systems Corp.                     | 2016-06-17 16:57:13 | 2016-06-17 17:00:00 |
+| 572E3F1F                                           |                                               | 2016-06-17 17:02:39 | 2016-06-17 18:00:00 |
+| 5DD9A783                                           |                                               | 2016-06-17 17:02:40 | 2016-06-17 18:00:00 |
+| FE956F82                                           |                                               | 2016-06-17 17:04:38 | 2016-06-17 18:00:00 |
+| D291767D                                           |                                               | 2016-06-17 17:04:38 | 2016-06-17 18:00:00 |
+| 327B628F                                           |                                               | 2016-06-17 17:05:38 | 2016-06-17 18:00:00 |
+| 5E9A7284                                           |                                               | 2016-06-17 17:05:38 | 2016-06-17 18:00:00 |
+| CBF7C401                                           |                                               | 2016-06-17 17:06:48 | 2016-06-17 18:00:00 |
+| 3DAF89A9                                           |                                               | 2016-06-17 17:06:48 | 2016-06-17 18:00:00 |
+| 4A628842                                           |                                               | 2016-06-17 17:26:38 | 2016-06-17 16:00:00 |
+| 2B4D0596                                           | 25 Canada Square, Canary Wharf, 31st Floor    | 2016-06-17 17:40:19 | 2016-06-17 10:00:00 |
+| 20B1BD86                                           | 25 Canada Square, Canary Wharf, 31st Floor    | 2016-06-17 17:41:42 | 2016-06-17 18:00:00 |
+| F06BB35F                                           | 25 Canada Square, Canary Wharf, 31st Floor    | 2016-06-17 17:53:34 | 2016-06-17 19:00:00 |
+| 9EEFF9D7                                           | formerly known as UPC Broadband Holding B.V.  | 2016-06-17 18:02:01 | 2015-10-28 17:00:00 |
+| <onions at online de>                              |                                               | 2016-06-17 18:04:27 | 2016-06-17 19:00:00 |
+| 578A1C0A                                           | 2267921 ONTARIO LTD                           | 2016-06-17 18:38:11 | 2016-06-17 15:00:00 |
+| dormer_x AT yahoo dot com                          |                                               | 2016-06-17 18:55:08 | 2016-06-15 08:00:00 |
+| tor At zebranleur{==DoT__}com                      | 2267921 ONTARIO LTD                           | 2016-06-17 19:05:35 | 2016-06-17 20:00:00 |
+| 6A914C26                                           |                                               | 2016-06-17 19:11:20 | 2016-06-17 20:00:00 |
+| B8C9B8BD                                           |                                               | 2016-06-17 19:35:33 | 2016-06-05 16:00:00 |
+| <vtyulb@vtyulb.ru>                                 |                                               | 2016-06-17 19:48:22 | 2016-06-17 20:00:00 |
+| 987B76CF                                           |                                               | 2016-06-17 20:04:55 | 2016-06-17 09:00:00 |
+| A5156DF9                                           |                                               | 2016-06-17 20:05:12 | 2016-06-17 09:00:00 |
+| bashkardin at ya dot ru                            | 29/2 Narodnogo Opolcheniya str.               | 2016-06-17 20:09:03 | 2015-12-19 19:00:00 |
+| 17qik9ozUF487AX1c4F3kVFQPVxntfXzL6 admin@gmx.com   | MCI Communications Services, Inc. d/b/a Veriz | 2016-06-17 20:45:37 | 2016-04-05 07:00:00 |
+| deadbeef01 at gonzoid dot net                      | Now maintained by Cable & Wireless Worldwide  | 2016-06-17 20:54:07 | 2015-10-20 01:00:00 |
+| noc@cymru.com                                      | Team Cymru Inc.                               | 2016-06-17 20:55:47 | 2016-06-17 22:00:00 |
+| 01555555                                           | Choopa, LLC                                   | 2016-06-17 21:07:52 | 2016-06-17 22:00:00 |
+| noc@cymru.com                                      | Team Cymru Inc.                               | 2016-06-17 21:10:31 | 2016-06-17 22:00:00 |
+| admin at jansal dot net                            | Time Warner Cable Internet LLC                | 2016-06-17 21:25:46 | 2015-08-14 09:00:00 |
+| 0x8BB4345C Jacob Henner <code -at- ventricle -dot- | MCI Communications Services, Inc. d/b/a Veriz | 2016-06-17 21:36:39 | 2016-06-17 20:00:00 |
+| 0x3D33A8CE Billy Humphreys <Poke Acer 549 AT outlo | www.first-colo.net                            | 2016-06-17 21:56:39 | 2016-06-10 19:00:00 |
+| Sehier Tor Admin <tor_kiwiadmin+imnotaspammer AT s |                                               | 2016-06-17 22:00:00 | 2014-04-17 23:00:00 |
+| 0x3D33A8CE Billy Humphreys <PokeAcer549 AT outlook | BTnet UK Regional network                     | 2016-06-17 22:10:07 | 2016-06-18 00:00:00 |
+| 5B66630C                                           |                                               | 2016-06-17 22:16:37 | 2016-05-25 07:00:00 |
+| Tyler Locke tyler@tylerlocke.org                   | Linode, LLC                                   | 2016-06-17 23:16:22 | 2016-06-18 00:00:00 |
+| 6375B849                                           | KDDI CORPORATION                              | 2016-06-18 00:50:32 | 2015-08-21 04:00:00 |
+| 84E34240                                           | ASMedi                                        | 2016-06-18 01:53:56 | 2016-06-16 15:00:00 |
+| pwcrack@pwcrack.com                                | 2267921 ONTARIO LTD                           | 2016-06-18 02:14:27 | 2016-06-18 03:00:00 |
+| ohboy@wewillsee                                    |                                               | 2016-06-18 02:50:05 | 2016-06-18 03:00:00 |
+| 7E1D13DE                                           |                                               | 2016-06-18 03:54:59 | 2016-06-17 18:00:00 |
+| 7AD86666                                           |                                               | 2016-06-18 03:58:46 | 2014-02-21 15:00:00 |
+| contact at peersm.com                              |                                               | 2016-06-18 04:07:20 | 2014-01-20 15:00:00 |
+| rpi1 [at] skrx [dot] tk                            |                                               | 2016-06-18 04:16:11 | 2016-06-18 00:00:00 |
+| BEE5AE77                                           | TOT Public Company Limited                    | 2016-06-18 04:20:39 | 2016-06-17 06:00:00 |
+| 6CFA528C                                           |                                               | 2016-06-18 05:02:03 | 2016-06-17 14:00:00 |
+| contact at peersm.com                              |                                               | 2016-06-18 05:07:36 | 2013-07-15 11:00:00 |
+| human@man.tor                                      | Russia                                        | 2016-06-18 05:41:10 | 2016-06-06 15:00:00 |
+| 80011B25                                           |                                               | 2016-06-18 05:49:56 | 2016-04-14 15:00:00 |
+| 68B22337                                           |                                               | 2016-06-18 05:55:45 | 2016-06-17 11:00:00 |
+| ilyap <kezajibkoatjib@gmail.com>                   |                                               | 2016-06-18 06:08:32 | 2016-01-12 14:00:00 |
+| 0xB700F3CB Mirko Gotschlich <mirko.gotschlich@comp | Internet service provider operations          | 2016-06-18 06:09:35 | 2015-06-12 19:00:00 |
+| 9DBC055A                                           |                                               | 2016-06-18 06:10:54 | 2015-12-10 23:00:00 |
+| hanbi mail2tor com                                 | Joe's Datacenter, LLC                         | 2016-06-18 06:18:20 | 2015-06-22 10:00:00 |
+| 33EE481B                                           | Time Warner Cable Internet LLC                | 2016-06-18 06:24:04 | 2016-06-18 07:00:00 |
+| CB296FE7                                           |                                               | 2016-06-18 06:28:52 | 2015-01-25 13:00:00 |
+| C75A401A                                           | Macro Region North-West Autonomous System     | 2016-06-18 06:29:10 | 2016-06-16 19:00:00 |
+| 77EECD51                                           |                                               | 2016-06-18 06:35:43 | 2014-09-15 20:00:00 |
+| 30547DA6                                           |                                               | 2016-06-18 06:47:17 | 2016-03-12 14:00:00 |
+| admin [at] smankusors.16mb.com                     | PT Telekomunikasi Indonesia                   | 2016-06-18 06:47:35 | 2016-06-12 10:00:00 |
+| 004D01A6                                           |                                               | 2016-06-18 06:53:38 | 2015-10-09 14:00:00 |
+| 229C99DB                                           |                                               | 2016-06-18 07:01:52 | 2016-06-04 13:00:00 |
+| DC482193                                           |                                               | 2016-06-18 07:03:03 | 2016-06-18 08:00:00 |
+| A1E811AF                                           | formerly known as UPC Broadband Holding B.V.  | 2016-06-18 07:05:28 | 2016-02-14 19:00:00 |
+| E802C68C                                           |                                               | 2016-06-18 07:06:01 | 2016-06-13 06:00:00 |
+| 15AD472F                                           | Cellco Partnership DBA Verizon Wireless       | 2016-06-18 07:06:57 | 2016-05-16 21:00:00 |
+| human@...                                          |                                               | 2016-06-18 07:13:17 | 2016-06-04 11:00:00 |
+| 42F1B162                                           |                                               | 2016-06-18 07:15:34 | 2015-08-31 14:00:00 |
+| Alex <as@live.ru>                                  |                                               | 2016-06-18 07:17:53 | 2016-01-27 19:00:00 |
+| max max@musterman.info                             | Internet service provider operations          | 2016-06-18 07:21:21 | 2014-07-20 10:00:00 |
+| 8AF2164E                                           | Tim Celular S.A.                              | 2016-06-18 07:24:21 | 2016-04-26 11:00:00 |
+| 9070DCED                                           | International IP-Backbone of Vodafone         | 2016-06-18 07:30:10 | 2016-05-30 09:00:00 |
+| 48BCB298                                           | Time Warner Cable Internet LLC                | 2016-06-18 07:34:04 | 2016-06-18 08:00:00 |
+| 8DE25C91                                           | Swisscom (Switzerland) Ltd                    | 2016-06-18 07:36:24 | 2016-06-18 08:00:00 |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
