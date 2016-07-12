@@ -1,109 +1,109 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-07-11 08:00:00 |
+| 2016-07-12 08:00:00 |
 +---------------------+
 +----------------------------------------------------+------------+-------------+-----------+------+-----------+---------------+--------+
 | contact or fingerprint                             | guard_prob | cw-fraction | exit_prob | ASes | countries | /16 netblocks | relays |
 +----------------------------------------------------+------------+-------------+-----------+------+-----------+---------------+--------+
-| GTor <contact _AT_ gtor _DOT_ org>                 |      1.522 |       1.010 |     0.000 |    5 |         3 |             5 |     14 |
-| Gijs Rijnders (tor AT ip-eend DOT nl)              |      1.493 |       0.986 |     0.000 |    1 |         1 |             1 |      3 |
-| monitor0penmailbox0rg                              |      1.214 |       0.802 |     0.000 |    4 |         3 |             5 |     29 |
-| Boris Nagaev 1MZH41vEeaRaJo2WnifnGswBwM4YXoeNDb <b |      0.892 |       0.590 |     0.000 |    2 |         2 |             2 |      3 |
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |      0.791 |       0.522 |     0.000 |    3 |         2 |             4 |      5 |
-| JoSch <tor4711 AT cell dot de>                     |      0.551 |       0.364 |     0.000 |    1 |         1 |             1 |      4 |
-| 2EB3C230                                           |      0.543 |       0.358 |     0.000 |    1 |         1 |             1 |      1 |
-| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |      0.519 |       0.343 |     0.000 |    1 |         1 |             1 |      1 |
-| 290A707C                                           |      0.516 |       0.340 |     0.000 |    1 |         1 |             1 |      1 |
-| tor[at]fiberoverethernet[dot]com                   |      0.508 |       0.337 |     0.000 |    8 |         7 |             7 |      8 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |      0.501 |       0.331 |     0.000 |    7 |         6 |             9 |      9 |
-| 4096R/0x73538126032AD297 Christian Krbusek <abuse  |      0.499 |       0.329 |     0.000 |    1 |         1 |             1 |      2 |
-| 2268d7d75f178828051d random.sh <root@random.sh>    |      0.480 |       0.328 |     0.000 |    3 |         1 |             3 |      3 |
-| Schizopriest <tor AT schizopriest DOT de> - 1L4HAJ |      0.456 |       0.301 |     0.000 |    1 |         1 |             2 |      2 |
-| <master AT onslaught DOT io>                       |      0.451 |       0.297 |     0.000 |    1 |         1 |             1 |      1 |
-| tor@anondroid.com                                  |      0.429 |       0.283 |     0.000 |    2 |         2 |             2 |      2 |
-| tor terjan net                                     |      0.406 |       0.268 |     0.000 |    3 |         2 |             3 |      3 |
-| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |      0.403 |       0.266 |     0.000 |    1 |         1 |             1 |      1 |
-| phoenitydawn tor admin <tor@phoenitydawn.de> - 1KW |      0.399 |       0.269 |     0.000 |    2 |         2 |             2 |      2 |
-| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |      0.391 |       0.258 |     0.000 |    1 |         1 |             2 |      4 |
-| Jan Schejbal, janhomepageONgmxPERIODnet, BTC 3QPQd |      0.386 |       0.255 |     0.000 |    1 |         2 |             2 |      4 |
-| 4A1B4433                                           |      0.382 |       0.252 |     0.000 |    1 |         1 |             1 |      1 |
-| tor@lamalleavrac.com                               |      0.382 |       0.252 |     0.000 |    1 |         1 |             1 |      1 |
-| <sirmatt ksu 0x94FBBB0A> - 1BveQHdrT6ErKKxK5LtUDTk |      0.372 |       0.246 |     0.000 |    1 |         1 |             1 |      1 |
-| Hello, I am a Tor node! My nickname: https://youtu |      0.367 |       0.351 |     0.000 |    2 |         1 |             3 |      9 |
-| 0x6F6D60C1 Security Dept <hello@brasshorncommunica |      0.360 |       0.259 |     0.078 |    9 |         7 |            12 |     15 |
-| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |      0.359 |       0.370 |     0.000 |    2 |         2 |             3 |      5 |
-| No Email Contact - Thanks for your support : 1GKju |      0.348 |       0.230 |     0.000 |    1 |         1 |             1 |      1 |
-| 1FSLSZVXrKxiTyNxuWvGGDbMLyV5APtfG6                 |      0.341 |       0.225 |     0.000 |    1 |         1 |             1 |      2 |
-| 500FE4D6                                           |      0.321 |       0.212 |     0.000 |    1 |         1 |             1 |      1 |
-| F9B91E94                                           |      0.314 |       0.207 |     0.000 |    1 |         1 |             1 |      2 |
-| 3C3A6134                                           |      0.312 |       0.206 |     0.000 |    1 |         1 |             1 |      1 |
-| 0x7A05300A Tom Hek <tor AT tomhek dot net>         |      0.310 |       0.971 |     3.145 |    3 |         3 |             5 |      9 |
-| Felix <zwiebel ta quantentunnel tod de>            |      0.307 |       0.206 |     0.000 |    3 |         1 |             3 |      9 |
-| 0EFB5858                                           |      0.307 |       0.203 |     0.000 |    1 |         1 |             1 |      1 |
-| bitfoo@bitfoo.org - 1GzYNBcKBi8pxcMfjkXMBv6FgJiyvK |      0.306 |       0.202 |     0.000 |    1 |         1 |             1 |      1 |
-| Linus Nordberg 4096R/23291265 <linus+tor@nordu.net |      0.303 |       0.200 |     0.000 |    2 |         1 |             2 |      2 |
-| aTorRelay@gmail.com                                |      0.296 |       0.195 |     0.000 |    1 |         1 |             1 |      1 |
-| Julien ROBIN - FR <find me into http readme>       |      0.286 |       0.189 |     0.000 |    1 |         1 |             1 |      1 |
-| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |      0.277 |       0.185 |     0.000 |    2 |         2 |             2 |      4 |
-| 7ED63F71                                           |      0.277 |       0.183 |     0.000 |    1 |         1 |             1 |      1 |
-| <tor AT quadhead.de>                               |      0.275 |       0.181 |     0.000 |    1 |         1 |             1 |      1 |
-| Markus <markus AT mdfnet dot se>                   |      0.274 |       0.181 |     0.000 |    1 |         1 |             1 |      4 |
-| Tor Master <tormaster AT sec dot nl>               |      0.272 |       0.179 |     0.000 |    1 |         1 |             1 |      1 |
-| Mozilla IT <hostmaster@mozilla.org>                |      0.265 |       0.175 |     0.000 |    1 |         1 |             2 |     12 |
-| donatornncmabtdg.onion - 1DonatorvxQvARX2KmNtKYXBm |      0.264 |       0.174 |     0.000 |    1 |         1 |             1 |      1 |
-| 8680B088                                           |      0.251 |       0.217 |     0.000 |    1 |         1 |             1 |      4 |
-| bitcoin:1C3rd2BDprvz9ikAQBQ1Hz2HjbASZxVy8b - mail@ |      0.248 |       0.164 |     0.000 |    1 |         1 |             1 |      1 |
-| Sebastian <tor@sebastianhahn.net> - 12NbRAjAG5U3LL |      0.248 |       0.164 |     0.000 |    2 |         1 |             2 |      2 |
-| Humanistische Union <info AT humanistische-union d |      0.246 |       0.162 |     0.000 |    1 |         1 |             1 |      1 |
-| Knight <knight AT germancraft DOT net> - 1FtUVig2Y |      0.243 |       0.160 |     0.000 |    1 |         1 |             2 |      2 |
-| abuse<at>themimitoof<dot>fr                        |      0.234 |       0.155 |     0.000 |    1 |         1 |             2 |      2 |
-| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |      0.233 |       0.153 |     0.000 |    1 |         1 |             1 |      3 |
-| relay <!A@T?> dipulse {D;O_T} it                   |      0.233 |       0.153 |     0.000 |    1 |         1 |             1 |      1 |
-| 0xFED4E03C Jan <jan AT wth dot in>                 |      0.233 |       0.153 |     0.000 |    1 |         1 |             1 |      1 |
-| unser_heim%at%gmx.ch                               |      0.231 |       0.153 |     0.000 |    1 |         1 |             1 |      2 |
-| Odina <support .AT. mygw .DOT. se>                 |      0.230 |       0.151 |     0.000 |    2 |         2 |             2 |      2 |
-| 9564026E                                           |      0.228 |       0.150 |     0.000 |    1 |         1 |             1 |      1 |
-| KlausS tlistATenoliamDOTnet                        |      0.221 |       0.146 |     0.000 |    1 |         2 |             3 |      4 |
-| B72C75D7                                           |      0.221 |       0.146 |     0.000 |    1 |         1 |             1 |      1 |
-| C804BE8F                                           |      0.221 |       0.146 |     0.000 |    1 |         1 |             1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |      0.219 |       0.144 |     0.000 |    1 |         1 |             1 |      1 |
-| <42197 AT notsharingmy DOT info>                   |      0.218 |       0.144 |     0.000 |    2 |         2 |             2 |      2 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |      0.218 |       0.144 |     0.000 |    1 |         1 |             1 |      1 |
-| 0CDCFB0B                                           |      0.215 |       0.142 |     0.000 |    2 |         2 |             2 |      2 |
-| 06E72526                                           |      0.212 |       0.140 |     0.000 |    1 |         1 |             1 |      1 |
-| 121ADF3C                                           |      0.211 |       0.139 |     0.000 |    1 |         1 |             1 |      1 |
-| 1024D/97C8 D516 9576 DD09 7BCC  AEC1 CEED 1F9C E2B |      0.210 |       0.139 |     0.000 |    1 |         1 |             3 |      3 |
-| 3D9D162A                                           |      0.210 |       0.138 |     0.000 |    1 |         1 |             1 |      1 |
-| relay <!A@T?> dipulse {D;O_T} it                   |      0.207 |       0.137 |     0.000 |    1 |         1 |             1 |      1 |
-| Ohtwoone <Ohtwoone@gmail.com>                      |      0.207 |       0.137 |     0.000 |    1 |         1 |             1 |      1 |
-| noc@cymru.com                                      |      0.206 |       0.146 |     0.000 |    2 |         1 |             2 |     11 |
-| <tor@blicky.net>                                   |      0.206 |       0.136 |     0.000 |    1 |         1 |             1 |      1 |
-| Outbreak <stolknovenie gmail com>                  |      0.206 |       0.136 |     0.000 |    1 |         1 |             1 |      1 |
-| 889D1D38                                           |      0.205 |       0.135 |     0.000 |    1 |         1 |             1 |      3 |
-| 0xD9E2501E1584232D Stephen R Guglielmo <guglielmo. |      0.204 |       0.134 |     0.000 |    2 |         2 |             2 |      2 |
-| < baforwarder @ gmail.com >                        |      0.202 |       0.133 |     0.000 |    2 |         2 |             3 |      3 |
-| DD10929A                                           |      0.199 |       0.131 |     0.000 |    1 |         1 |             1 |      1 |
-| contact-tor-turing [at] g0b [dot] eu               |      0.198 |       0.131 |     0.000 |    1 |         1 |             1 |      1 |
-| hy130 < tor-at-kerstetter-dot net>                 |      0.197 |       0.136 |     0.000 |    4 |         2 |             4 |      4 |
-| FCC1415B                                           |      0.197 |       0.130 |     0.000 |    1 |         1 |             1 |      1 |
-| tor@gchq.wtf                                       |      0.196 |       0.129 |     0.000 |    1 |         1 |             1 |      2 |
-| 1YWqF3SGnQMkwgfGasrNmYv1XG7g1a4ZQ <poiuty@lepus.su |      0.196 |       0.129 |     0.000 |    1 |         1 |             1 |      1 |
-| 327F5823                                           |      0.195 |       0.128 |     0.000 |    1 |         1 |             1 |      1 |
-| ahri [atpersand] kura [dot] io - 1QFWreLid8ZMPqnmJ |      0.195 |       0.129 |     0.000 |    1 |         1 |             1 |      1 |
-| Kevin <tor AT kberanek dot com>                    |      0.194 |       0.128 |     0.000 |    1 |         1 |             1 |      2 |
-| cixx - 1cixxSwSsMP4Zf94hy3cBssqdra9fNHip           |      0.194 |       0.128 |     0.000 |    1 |         1 |             1 |      1 |
-| 3F065BB0                                           |      0.191 |       0.126 |     0.000 |    1 |         1 |             1 |      1 |
-| kl <kl.forwarder@gmail.com> - 1CM1jy87hL9XPAuTpUhQ |      0.191 |       0.126 |     0.000 |    1 |         1 |             1 |      1 |
-| 0x77A31D11 Tony Olagbaiye <frony0 AT gmail dot com |      0.191 |       0.126 |     0.000 |    1 |         1 |             1 |      1 |
-| <mail @T simplekvm dut net> 1N14YsXZG8t8MUGv14Hmkg |      0.190 |       0.126 |     0.000 |    1 |         1 |             1 |      5 |
-| Serenitor <serenitor AT hmamail DOT com>           |      0.190 |       0.125 |     0.000 |    1 |         1 |             1 |      1 |
-| tor[a]rofl.cat - 17bD7EWsSXrqrqk2ibbprPxhegMqecsaC |      0.189 |       0.125 |     0.000 |    4 |         4 |             4 |      4 |
-| Benjamin Woodruff tor % b enjam _ info 13qjUEb3PZt |      0.189 |       0.125 |     0.000 |    1 |         1 |             1 |      1 |
-| IT <tor AT informatik dot uni-bremen dot de>       |      0.189 |       0.124 |     0.000 |    1 |         1 |             1 |      1 |
-| admin@oniontip.com - 148U6DpejXtmFSJTg7awfPE7BbAhz |      0.187 |       0.123 |     0.000 |    1 |         1 |             1 |      1 |
-| Anonymous7819224175 <tor AT lag75-1-78-192-241-75  |      0.184 |       0.122 |     0.000 |    1 |         1 |             1 |      1 |
-| 9EA46494                                           |      0.183 |       0.121 |     0.000 |    1 |         1 |             1 |      1 |
-| No Email Contact - Thanks for your support : 1HEDk |      0.181 |       0.119 |     0.000 |    1 |         1 |             1 |      1 |
-| 0xF1ADC390 Random Tor Node Operator <tor at unterd |      0.180 |       0.118 |     0.000 |    1 |         1 |             2 |      2 |
+| GTor <contact _AT_ gtor _DOT_ org>                 |      1.545 |       1.013 |     0.000 |    5 |         3 |             5 |     14 |
+| Gijs Rijnders (tor AT ip-eend DOT nl)              |      1.518 |       0.991 |     0.000 |    1 |         1 |             1 |      3 |
+| monitor0penmailbox0rg                              |      1.257 |       0.821 |     0.000 |    4 |         3 |             5 |     29 |
+| Boris Nagaev 1MZH41vEeaRaJo2WnifnGswBwM4YXoeNDb <b |      0.887 |       0.580 |     0.000 |    2 |         2 |             2 |      3 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |      0.831 |       0.542 |     0.000 |    3 |         2 |             4 |      5 |
+| 2EB3C230                                           |      0.558 |       0.364 |     0.000 |    1 |         1 |             1 |      1 |
+| tor[at]fiberoverethernet[dot]com                   |      0.525 |       0.344 |     0.000 |    8 |         7 |             7 |      8 |
+| 290A707C                                           |      0.523 |       0.341 |     0.000 |    1 |         1 |             1 |      1 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |      0.502 |       0.327 |     0.000 |    7 |         6 |             9 |      9 |
+| JoSch <tor4711 AT cell dot de>                     |      0.498 |       0.325 |     0.000 |    1 |         1 |             1 |      4 |
+| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |      0.492 |       0.321 |     0.000 |    1 |         1 |             1 |      1 |
+| random.sh <root@random.sh>                         |      0.481 |       0.325 |     0.000 |    3 |         1 |             3 |      3 |
+| 4096R/0x73538126032AD297 Christian Krbusek <abuse  |      0.471 |       0.308 |     0.000 |    1 |         1 |             1 |      2 |
+| Schizopriest <tor AT schizopriest DOT de> - 1L4HAJ |      0.461 |       0.301 |     0.000 |    1 |         1 |             2 |      2 |
+| <master AT onslaught DOT io>                       |      0.457 |       0.298 |     0.000 |    1 |         1 |             1 |      1 |
+| Jan Schejbal, janhomepageONgmxPERIODnet, BTC 3QPQd |      0.420 |       0.274 |     0.000 |    1 |         2 |             2 |      4 |
+| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |      0.412 |       0.269 |     0.000 |    1 |         1 |             1 |      1 |
+| 1FSLSZVXrKxiTyNxuWvGGDbMLyV5APtfG6                 |      0.394 |       0.257 |     0.000 |    1 |         1 |             1 |      2 |
+| 4A1B4433                                           |      0.391 |       0.255 |     0.000 |    1 |         1 |             1 |      1 |
+| tor@lamalleavrac.com                               |      0.391 |       0.255 |     0.000 |    1 |         1 |             1 |      1 |
+| tor terjan net                                     |      0.369 |       0.241 |     0.000 |    3 |         2 |             3 |      3 |
+| 0x6F6D60C1 Security Dept <hello@brasshorncommunica |      0.358 |       0.257 |     0.086 |    9 |         7 |            12 |     15 |
+| No Email Contact - Thanks for your support : 1GKju |      0.353 |       0.230 |     0.000 |    1 |         1 |             1 |      1 |
+| 0x7A05300A Tom Hek <tor AT tomhek dot net>         |      0.349 |       1.139 |     3.680 |    3 |         3 |             5 |      9 |
+| Hello, I am a Tor node! My nickname: https://youtu |      0.346 |       0.347 |     0.000 |    2 |         1 |             3 |      9 |
+| tor@anondroid.com                                  |      0.346 |       0.226 |     0.000 |    2 |         2 |             2 |      2 |
+| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |      0.344 |       0.361 |     0.000 |    2 |         2 |             3 |      5 |
+| Julien ROBIN - FR <find me into http readme>       |      0.333 |       0.217 |     0.000 |    1 |         1 |             1 |      1 |
+| 500FE4D6                                           |      0.328 |       0.214 |     0.000 |    1 |         1 |             1 |      1 |
+| aTorRelay@gmail.com                                |      0.324 |       0.211 |     0.000 |    1 |         1 |             1 |      1 |
+| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |      0.323 |       0.211 |     0.000 |    1 |         1 |             2 |      4 |
+| FF06E7A0                                           |      0.323 |       0.211 |     0.000 |    1 |         1 |             1 |      2 |
+| phoenitydawn tor admin <tor@phoenitydawn.de> - 1KW |      0.320 |       0.214 |     0.000 |    2 |         2 |             2 |      2 |
+| bitfoo@bitfoo.org - 1GzYNBcKBi8pxcMfjkXMBv6FgJiyvK |      0.316 |       0.206 |     0.000 |    1 |         1 |             1 |      1 |
+| 3C3A6134                                           |      0.315 |       0.205 |     0.000 |    1 |         1 |             1 |      1 |
+| Markus <markus AT mdfnet dot se>                   |      0.302 |       0.197 |     0.000 |    1 |         1 |             1 |      4 |
+| Knight <knight AT germancraft DOT net> - 1FtUVig2Y |      0.299 |       0.195 |     0.000 |    1 |         1 |             2 |      2 |
+| Felix <zwiebel ta quantentunnel tod de>            |      0.297 |       0.198 |     0.000 |    3 |         1 |             3 |      9 |
+| 7ED63F71                                           |      0.286 |       0.187 |     0.000 |    1 |         1 |             1 |      1 |
+| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |      0.285 |       0.188 |     0.000 |    2 |         2 |             2 |      4 |
+| Tor Master <tormaster AT sec dot nl>               |      0.274 |       0.179 |     0.000 |    1 |         1 |             1 |      1 |
+| Linus Nordberg 4096R/23291265 <linus+tor@sunet.se> |      0.264 |       0.172 |     0.000 |    2 |         1 |             2 |      2 |
+| 0xFED4E03C Jan <jan AT wth dot in>                 |      0.259 |       0.169 |     0.000 |    1 |         1 |             1 |      1 |
+| <tor AT quadhead.de>                               |      0.255 |       0.167 |     0.000 |    1 |         1 |             1 |      1 |
+| donatornncmabtdg.onion - 1DonatorvxQvARX2KmNtKYXBm |      0.255 |       0.166 |     0.000 |    1 |         1 |             1 |      1 |
+| bitcoin:1C3rd2BDprvz9ikAQBQ1Hz2HjbASZxVy8b - mail@ |      0.254 |       0.165 |     0.000 |    1 |         1 |             1 |      1 |
+| <sirmatt ksu 0x94FBBB0A> - 1BveQHdrT6ErKKxK5LtUDTk |      0.254 |       0.166 |     0.000 |    1 |         1 |             1 |      1 |
+| Sebastian <tor@sebastianhahn.net> - 12NbRAjAG5U3LL |      0.252 |       0.164 |     0.000 |    2 |         1 |             2 |      2 |
+| 8680B088                                           |      0.248 |       0.225 |     0.000 |    1 |         1 |             1 |      4 |
+| Mozilla IT <hostmaster@mozilla.org>                |      0.246 |       0.160 |     0.000 |    1 |         1 |             2 |     12 |
+| 0EFB5858                                           |      0.245 |       0.160 |     0.000 |    1 |         1 |             1 |      1 |
+| unser_heim%at%gmx.ch                               |      0.244 |       0.159 |     0.000 |    1 |         1 |             1 |      2 |
+| 327F5823                                           |      0.241 |       0.157 |     0.000 |    1 |         1 |             1 |      1 |
+| C804BE8F                                           |      0.241 |       0.157 |     0.000 |    1 |         1 |             1 |      1 |
+| relay <!A@T?> dipulse {D;O_T} it                   |      0.236 |       0.154 |     0.000 |    1 |         1 |             1 |      1 |
+| 0x8D1E8B08E3443250 Pepijn Looije <p at epij dot nl |      0.234 |       0.152 |     0.000 |    1 |         1 |             1 |      1 |
+| Humanistische Union <info AT humanistische-union d |      0.233 |       0.152 |     0.000 |    1 |         1 |             1 |      1 |
+| KlausS tlistATenoliamDOTnet                        |      0.230 |       0.150 |     0.000 |    1 |         2 |             3 |      4 |
+| abuse<at>themimitoof<dot>fr                        |      0.229 |       0.150 |     0.000 |    1 |         1 |             2 |      2 |
+| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |      0.228 |       0.149 |     0.000 |    1 |         1 |             1 |      3 |
+| B72C75D7                                           |      0.226 |       0.148 |     0.000 |    1 |         1 |             1 |      1 |
+| <mail @T simplekvm dut net> 1N14YsXZG8t8MUGv14Hmkg |      0.225 |       0.147 |     0.000 |    1 |         1 |             1 |      5 |
+| 0CDCFB0B                                           |      0.223 |       0.145 |     0.000 |    2 |         2 |             2 |      2 |
+| Random Person <ego8l AT notsharingmy dot info>     |      0.223 |       0.145 |     0.000 |    2 |         2 |             2 |      2 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |      0.222 |       0.145 |     0.000 |    1 |         1 |             1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |      0.219 |       0.143 |     0.000 |    1 |         1 |             1 |      1 |
+| 06E72526                                           |      0.217 |       0.141 |     0.000 |    1 |         1 |             1 |      1 |
+| Outbreak <stolknovenie gmail com>                  |      0.217 |       0.141 |     0.000 |    1 |         1 |             1 |      1 |
+| 121ADF3C                                           |      0.216 |       0.140 |     0.000 |    1 |         1 |             1 |      1 |
+| 9564026E                                           |      0.216 |       0.141 |     0.000 |    1 |         1 |             1 |      1 |
+| 0xF1ADC390 Random Tor Node Operator <tor at unterd |      0.216 |       0.140 |     0.000 |    1 |         1 |             2 |      2 |
+| noc@cymru.com                                      |      0.215 |       0.150 |     0.000 |    2 |         1 |             2 |     11 |
+| tor@gchq.wtf                                       |      0.212 |       0.138 |     0.000 |    1 |         1 |             1 |      2 |
+| 8A7F6489                                           |      0.211 |       0.138 |     0.000 |    1 |         1 |             1 |      3 |
+| DD10929A                                           |      0.209 |       0.136 |     0.000 |    1 |         1 |             1 |      1 |
+| 1B60184D                                           |      0.201 |       0.131 |     0.000 |    1 |         1 |             1 |      1 |
+| tor[a]rofl.cat - 17bD7EWsSXrqrqk2ibbprPxhegMqecsaC |      0.199 |       0.134 |     0.000 |    5 |         5 |             5 |      5 |
+| 0x77A31D11 Tony Olagbaiye <frony0 AT gmail dot com |      0.197 |       0.128 |     0.000 |    1 |         1 |             1 |      1 |
+| DF3EEDE3                                           |      0.196 |       0.128 |     0.000 |    1 |         1 |             1 |      1 |
+| Serenitor <serenitor AT hmamail DOT com>           |      0.194 |       0.126 |     0.000 |    1 |         1 |             1 |      1 |
+| hy130 < tor-at-kerstetter-dot net>                 |      0.192 |       0.131 |     0.000 |    4 |         2 |             4 |      4 |
+| Benjamin Woodruff tor % b enjam _ info 13qjUEb3PZt |      0.192 |       0.125 |     0.000 |    1 |         1 |             1 |      1 |
+| <tor@blicky.net>                                   |      0.190 |       0.124 |     0.000 |    1 |         1 |             1 |      1 |
+| relay <!A@T?> dipulse {D;O_T} it                   |      0.189 |       0.123 |     0.000 |    1 |         1 |             1 |      1 |
+| murb@OFTC - 1JE7bryhG44pd9WGasTDCjdvPGPtgZCkmM     |      0.188 |       0.122 |     0.000 |    1 |         1 |             3 |      3 |
+| Odina <support .AT. mygw .DOT. se>                 |      0.188 |       0.123 |     0.000 |    2 |         2 |             2 |      2 |
+| contact-tor-turing [at] g0b [dot] eu               |      0.187 |       0.122 |     0.000 |    1 |         1 |             1 |      1 |
+| No Email Contact - Thanks for your support : 1HEDk |      0.183 |       0.119 |     0.000 |    1 |         1 |             1 |      1 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |      0.181 |       0.118 |     0.000 |    1 |         1 |             1 |      1 |
+| cixx - 1cixxSwSsMP4Zf94hy3cBssqdra9fNHip           |      0.181 |       0.118 |     0.000 |    1 |         1 |             1 |      1 |
+| 1YWqF3SGnQMkwgfGasrNmYv1XG7g1a4ZQ <poiuty@lepus.su |      0.180 |       0.117 |     0.000 |    1 |         1 |             1 |      1 |
+| FCC1415B                                           |      0.178 |       0.116 |     0.000 |    1 |         1 |             1 |      1 |
+| Fred CORNU <tor-admin AT wardsback DOT org> - 16Dw |      0.177 |       0.115 |     0.000 |    1 |         1 |             1 |      1 |
+| < baforwarder @ gmail.com >                        |      0.176 |       0.115 |     0.000 |    2 |         2 |             3 |      3 |
+| 9EA46494                                           |      0.176 |       0.115 |     0.000 |    1 |         1 |             1 |      1 |
+| Ohtwoone <Ohtwoone@gmail.com>                      |      0.175 |       0.114 |     0.000 |    1 |         1 |             1 |      1 |
+| 3D9D162A                                           |      0.175 |       0.114 |     0.000 |    1 |         1 |             1 |      1 |
+| <suprisingpandatoast AT gmail dot com> - 1KjhpE67X |      0.173 |       0.113 |     0.000 |    1 |         1 |             1 |      1 |
+| FFCC9FB9                                           |      0.173 |       0.113 |     0.000 |    1 |         1 |             1 |      1 |
+| 0x4871E82F Thom Wiggers <thom @AT@ RDED POINT NL>  |      0.172 |       0.112 |     0.000 |    2 |         1 |             2 |      2 |
 +----------------------------------------------------+------------+-------------+-----------+------+-----------+---------------+--------+
