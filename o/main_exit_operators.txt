@@ -1,109 +1,109 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-08-11 06:00:00 |
+| 2016-08-12 06:00:00 |
 +---------------------+
 +----------------------------------------------------+-----------+-------------+------------+------+-----------+---------------+------------+
 | contact or fingerprint                             | exit_prob | cw-fraction | guard_prob | ASes | countries | /16 netblocks | relaycount |
 +----------------------------------------------------+-----------+-------------+------------+------+-----------+---------------+------------+
-| Torservers.net <support .AT. torservers .DOT. net> |     7.527 |       1.809 |      0.000 |    2 |         2 |             2 |         12 |
-| 0x02225522 Frenn vun der Enn (FVDE) <info AT enn D |     4.934 |       1.185 |      0.000 |    3 |         3 |             3 |          7 |
-| Privacy Republic <abuse-team _at_ PrivacyRepublic  |     3.731 |       0.896 |      0.000 |    2 |         2 |             2 |          5 |
-| Accessnow.org <abuse .AT. accessnow .DOT. org>     |     3.285 |       0.789 |      0.000 |    1 |         1 |             1 |         20 |
-| 0x7A05300A Tom Hek <tor AT tomhek dot net>         |     3.194 |       1.060 |      0.439 |    4 |         4 |             6 |         16 |
-| abuse[__aT   ]necto|doT--|onion                    |     2.472 |       0.594 |      0.000 |    1 |         1 |             1 |          7 |
-| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oigno |     2.235 |       0.537 |      0.000 |    4 |         1 |             4 |          6 |
-| tor-admin AT torland DOT is                        |     2.203 |       0.529 |      0.000 |    1 |         1 |             1 |          2 |
-| Babylon Network | noc <AT> babylon <DOT> network | |     2.079 |       0.499 |      0.000 |    5 |         6 |             6 |         10 |
-| Kristoffer Rath Hansen <kristoffer@rathhansen.com> |     2.041 |       0.490 |      0.000 |    1 |         2 |             1 |          4 |
-| tor@ipredator.se - 1Q3mjKbZwZFEigC8edUZ8ywX4QD7kxF |     1.887 |       0.453 |      0.000 |    1 |         1 |             1 |          1 |
-| Abuse Department <abuse AT hartvoorinternetvrijhei |     1.606 |       0.386 |      0.000 |    1 |         1 |             1 |          1 |
-| apx <kenan@sly.mn> - 1HdGP8Tu8oNoiHPtyFUJbq3emPknB |     1.393 |       0.334 |      0.000 |    1 |         1 |             2 |          3 |
-| 21C33B13                                           |     1.345 |       0.323 |      0.000 |    1 |         1 |             1 |          1 |
-| DFRI <tor AT dfri dot se> - 1Muz37TfXVBiJKRJkAqTNo |     1.334 |       0.320 |      0.000 |    1 |         1 |             1 |          6 |
-| C6573165                                           |     1.257 |       0.302 |      0.000 |    1 |         1 |             1 |          2 |
-| TvdW <tor AT tvdw DOT eu> - bitcoin 1NKKoCQwKs67eK |     1.195 |       0.293 |      0.000 |    2 |         1 |             2 |          3 |
-| 51939625                                           |     1.121 |       0.269 |      0.000 |    1 |         1 |             1 |          1 |
-| tor-relay-admin robgjansen com                     |     1.057 |       0.319 |      0.102 |    2 |         1 |             2 |          6 |
-| DreamHack Tor Admin <tor AT dreamhack.com>         |     1.008 |       0.242 |      0.000 |    1 |         1 |             1 |          1 |
-| eXiTtOr <exittor AT tuta DOT io> - bitcoin 1DbFbkK |     0.952 |       0.229 |      0.000 |    1 |         1 |             1 |          1 |
-| Random Person <tor0102.10.swsnyder AT spamgourmet  |     0.936 |       0.296 |      0.101 |    9 |         8 |            11 |         13 |
-| drift@multinet.no - 1Geq8GGC7qTh7dfptneAYtpeARPAL8 |     0.902 |       0.216 |      0.000 |    1 |         1 |             1 |          5 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |     0.870 |       0.239 |      0.046 |    1 |         1 |             1 |          3 |
-| watchme <failure .AT. openmailbox .DOT. org>       |     0.784 |       0.188 |      0.000 |    1 |         2 |             2 |          2 |
-| 55D97CB6                                           |     0.783 |       0.188 |      0.000 |    1 |         1 |             1 |          1 |
-| Walter Heukels <walter@badexample.net>             |     0.783 |       0.259 |      0.111 |    2 |         1 |             2 |          2 |
-| http://www.privacyfoundation.ch/abuse/  BTC: 15s5e |     0.712 |       0.171 |      0.000 |    1 |         1 |             1 |          2 |
-| Hostmaster <hostmaster AT mysec-arch dot net>      |     0.696 |       0.167 |      0.000 |    1 |         1 |             1 |          1 |
-| dhalgren.tor@gmail.com                             |     0.660 |       0.158 |      0.000 |    1 |         1 |             1 |          1 |
-| 0xDD7831FC Matthias Kretschmann <m AT kretschmann  |     0.600 |       0.239 |      0.148 |    2 |         2 |             3 |          3 |
-| 0x6E7B19EE BTC: 14Z2dRe2RBS8jcpYHExVQzkcsDMxuPJWEr |     0.578 |       0.207 |      0.106 |    2 |         2 |             4 |          4 |
-| TNinja <abuse-team _at_ tor _dot_ ninja>           |     0.567 |       0.136 |      0.000 |    2 |         2 |             2 |          2 |
-| Tor-Admins <toooor AT all DOT de>                  |     0.528 |       0.127 |      0.000 |    1 |         1 |             1 |          1 |
-| tor-relays@coldhak.ca                              |     0.526 |       0.143 |      0.026 |    3 |         2 |             3 |          5 |
-| tor@toupeira.org - 3LhBg5XxuwPnb4epBtpYFyeMzJCG52F |     0.515 |       0.123 |      0.000 |    2 |         2 |             2 |          2 |
-| icemans_shootsthecloud@yahoo.com                   |     0.513 |       0.123 |      0.000 |    1 |         1 |             1 |          1 |
-| replace k with c : kontakt @ zwiebeltoralf . de    |     0.458 |       0.110 |      0.000 |    1 |         1 |             1 |          1 |
-| 7A5F0856                                           |     0.454 |       0.109 |      0.000 |    1 |         1 |             1 |          1 |
-| Institute of Networks and Security <office@ins.jku |     0.452 |       0.108 |      0.000 |    1 |         1 |             1 |          1 |
-| E133935B                                           |     0.451 |       0.108 |      0.000 |    1 |         1 |             1 |          2 |
-| 74A19D86                                           |     0.437 |       0.105 |      0.000 |    1 |         1 |             1 |          1 |
-| Nick Thomas <tor@ur.gs>                            |     0.394 |       0.094 |      0.000 |    1 |         1 |             1 |          1 |
-| write.to paracrew.admin a.t protonmail.ch          |     0.383 |       0.147 |      0.086 |    2 |         1 |             2 |          4 |
-| 6FB41ED1                                           |     0.368 |       0.088 |      0.000 |    1 |         1 |             1 |          1 |
-| http://www.privacyfoundation.ch/abuse/  BTC: 15s5e |     0.364 |       0.087 |      0.000 |    1 |         1 |             1 |          1 |
-| 8BF22BEA                                           |     0.355 |       0.085 |      0.000 |    1 |         1 |             1 |          2 |
-| C8166181                                           |     0.353 |       0.084 |      0.000 |    1 |         1 |             1 |          1 |
-| 5DC945CE                                           |     0.350 |       0.084 |      0.000 |    1 |         1 |             1 |          1 |
-| http://www.privacyfoundation.ch/abuse/  BTC: 15s5e |     0.349 |       0.083 |      0.000 |    1 |         1 |             1 |          1 |
-| kolus  riseup  net                                 |     0.349 |       0.124 |      0.062 |    4 |         5 |             4 |          5 |
-| 908AE828                                           |     0.340 |       0.081 |      0.000 |    1 |         1 |             1 |          1 |
-| Network Operations <tor@t-3.net>                   |     0.333 |       0.080 |      0.000 |    1 |         1 |             1 |          1 |
-| mail ; yandereson > @ > riseup.net                 |     0.323 |       0.077 |      0.000 |    3 |         3 |             3 |          4 |
-| A9F5135A                                           |     0.323 |       0.077 |      0.000 |    1 |         1 |             1 |          1 |
-| 2339EF25                                           |     0.289 |       0.069 |      0.000 |    1 |         1 |             1 |          1 |
-| 2048R/F0FCAA22 Jason Odoom <jason@ohdoom.net> - 1E |     0.289 |       0.069 |      0.000 |    1 |         1 |             1 |          1 |
-| James Gordon <gcpd.biz@domainsbyproxy.com>         |     0.284 |       0.068 |      0.000 |    1 |         1 |             1 |          1 |
-| mikaelONmurfOFFse                                  |     0.282 |       0.067 |      0.000 |    1 |         1 |             1 |          1 |
-| 93058352                                           |     0.280 |       0.067 |      0.000 |    1 |         2 |             2 |          2 |
-| airo <airo AT tfwno DOT gf> - bitcoin 1ANwhySLvWzV |     0.269 |       0.064 |      0.000 |    1 |         1 |             1 |          1 |
-| ssoft A T ukrpost net                              |     0.265 |       0.063 |      0.000 |    1 |         1 |             1 |          1 |
-| niftybunny<==AT===>googlemail(   DoT__)            |     0.260 |       0.147 |      0.132 |    3 |         2 |             3 |          4 |
-| noc =at= schokomil.ch                              |     0.257 |       0.142 |      0.124 |    2 |         2 |             2 |          3 |
-| chew on this ya spammers <div class=\"arcticecho a |     0.256 |       0.061 |      0.000 |    1 |         1 |             1 |          1 |
-| tor@impium.de                                      |     0.254 |       0.061 |      0.000 |    2 |         2 |             2 |          2 |
-| A7E78D98                                           |     0.253 |       0.060 |      0.000 |    1 |         1 |             1 |          1 |
-| <abuse AT torproxy DOT org>                        |     0.252 |       0.060 |      0.000 |    1 |         1 |             1 |          1 |
-| 0x7FDCFED5 Daniel Winzen <d@winzen4.de> - 1CHvjeMJ |     0.250 |       0.060 |      0.000 |    1 |         1 |             1 |          1 |
-| Stephen Bateman <stephen@m5i.uk>                   |     0.249 |       0.059 |      0.000 |    1 |         1 |             1 |          1 |
-| DedicatedPi <contact AT dedicatedpi.com>           |     0.245 |       0.059 |      0.000 |    1 |         1 |             1 |          1 |
-| Jacob Henner <tor-exit at lists (dot) seas (dot) u |     0.240 |       0.057 |      0.000 |    1 |         1 |             1 |          1 |
-| F2FD4BCC                                           |     0.238 |       0.057 |      0.000 |    1 |         1 |             1 |          1 |
-| technik@piraten-nds.de                             |     0.237 |       0.057 |      0.000 |    1 |         1 |             1 |          1 |
-| 0x816F1BEA40C85A247F6DF5E4B47E36CF62F1D06E Ruben D |     0.236 |       0.056 |      0.000 |    1 |         1 |             1 |          1 |
-| <tor AT 1d4 dot us> - 1N7sBLKvekRD4EUL2b7ySnQFU3BF |     0.234 |       0.068 |      0.019 |    2 |         2 |             2 |          2 |
-| info@cryogenic-wow.com - 1C1gEV8WYZjGn9jV63S8GsaFU |     0.233 |       0.056 |      0.000 |    1 |         1 |             1 |          1 |
-| john| at-|yahoo  dOt-- com                         |     0.233 |       0.056 |      0.000 |    1 |         1 |             1 |          1 |
-| Administrator <contact@tor-node.net> - BTC 15HkPq8 |     0.231 |       0.055 |      0.000 |    1 |         1 |             1 |          1 |
-| 549A5E85                                           |     0.230 |       0.055 |      0.000 |    1 |         1 |             1 |          1 |
-| tor(at)koneko(dot)co                               |     0.227 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
-| C2C7796F                                           |     0.227 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
-| D225C2EC                                           |     0.226 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
-| D466AEE9                                           |     0.226 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
-| 0x0647291F xzyqvk <mail {at} xzyqvk {dot} co {dot} |     0.221 |       0.053 |      0.000 |    1 |         1 |             1 |          1 |
-| 0x70E87597 Patrick ZAJDA <gansta93 AT free dot fr> |     0.220 |       0.052 |      0.000 |    1 |         1 |             1 |          1 |
-| 8033BABC                                           |     0.217 |       0.052 |      0.000 |    1 |         1 |             1 |          1 |
-| 276A7ACA                                           |     0.213 |       0.051 |      0.000 |    1 |         1 |             1 |          2 |
-| To get an email to contact, go to https://tor.dour |     0.205 |       0.049 |      0.000 |    1 |         1 |             1 |          1 |
-| A671653F                                           |     0.203 |       0.048 |      0.000 |    1 |         1 |             1 |          1 |
-| 1HDWeYX59Ayp3x8dAUWcpyUeTXEDwrh7vD                 |     0.203 |       0.049 |      0.000 |    2 |         2 |             2 |          2 |
-| SaveYourPrivacy.NET <saveyourprivacynet@openmailbo |     0.202 |       0.048 |      0.000 |    1 |         2 |             1 |          2 |
-| 2F314998                                           |     0.200 |       0.048 |      0.000 |    1 |         1 |             1 |          2 |
-| Aqua Ray Tor Operators <tor-operators-fr [at] aqua |     0.200 |       0.048 |      0.000 |    1 |         1 |             1 |          1 |
-| Nicholas Merrill <nick AT calyx dot com> BTC - 14w |     0.198 |       0.047 |      0.000 |    1 |         1 |             1 |          4 |
-| 1249522C                                           |     0.198 |       0.047 |      0.000 |    1 |         1 |             1 |          1 |
-| Umich Tor <tor-exit-admin@umich.edu>               |     0.198 |       0.047 |      0.000 |    1 |         1 |             1 |          1 |
-| Administrator <contact@tor-node.net> - BTC 15HkPq8 |     0.196 |       0.047 |      0.000 |    1 |         1 |             1 |          1 |
-| abuse@daknob.net || noc@daknob.net || tor@daknob.n |     0.194 |       0.046 |      0.000 |    1 |         1 |             1 |          1 |
-| 47BAD834                                           |     0.184 |       0.044 |      0.000 |    1 |         1 |             1 |          2 |
+| https://www.torservers.net/donate.html <support .A |     7.890 |       1.871 |      0.000 |    2 |         2 |             2 |         12 |
+| 0x02225522 Frenn vun der Enn (FVDE) <info AT enn D |     4.742 |       1.124 |      0.000 |    3 |         3 |             3 |          7 |
+| Privacy Republic <abuse-team _at_ PrivacyRepublic  |     3.647 |       0.865 |      0.000 |    2 |         2 |             2 |          5 |
+| 0x7A05300A Tom Hek <tor AT tomhek dot net>         |     3.530 |       1.125 |      0.419 |    4 |         4 |             6 |         16 |
+| Accessnow.org <abuse .AT. accessnow .DOT. org>     |     3.199 |       0.758 |      0.000 |    1 |         1 |             1 |         20 |
+| abuse[__aT   ]necto|doT--|onion                    |     2.477 |       0.587 |      0.000 |    1 |         1 |             1 |          7 |
+| Kristoffer Rath Hansen <kristoffer@rathhansen.com> |     2.177 |       0.516 |      0.000 |    1 |         2 |             1 |          4 |
+| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oigno |     2.078 |       0.492 |      0.000 |    4 |         1 |             4 |          6 |
+| Babylon Network | noc <AT> babylon <DOT> network | |     1.944 |       0.461 |      0.000 |    5 |         6 |             6 |         10 |
+| tor-admin AT torland DOT is                        |     1.739 |       0.412 |      0.000 |    1 |         1 |             1 |          2 |
+| tor@ipredator.se - 1Q3mjKbZwZFEigC8edUZ8ywX4QD7kxF |     1.580 |       0.374 |      0.000 |    1 |         1 |             1 |          1 |
+| DFRI <tor AT dfri dot se> - 1Muz37TfXVBiJKRJkAqTNo |     1.554 |       0.368 |      0.000 |    1 |         1 |             1 |          6 |
+| apx <kenan@sly.mn> - 1HdGP8Tu8oNoiHPtyFUJbq3emPknB |     1.532 |       0.363 |      0.000 |    1 |         1 |             2 |          3 |
+| Abuse Department <abuse AT hartvoorinternetvrijhei |     1.447 |       0.343 |      0.000 |    1 |         1 |             1 |          1 |
+| 21C33B13                                           |     1.381 |       0.327 |      0.000 |    1 |         1 |             1 |          1 |
+| TvdW <tor AT tvdw DOT eu> - bitcoin 1NKKoCQwKs67eK |     1.246 |       0.301 |      0.000 |    2 |         1 |             2 |          3 |
+| tor-relay-admin robgjansen com                     |     1.051 |       0.312 |      0.098 |    2 |         1 |             2 |          6 |
+| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |     0.981 |       0.261 |      0.044 |    1 |         1 |             1 |          3 |
+| 51939625                                           |     0.974 |       0.231 |      0.000 |    1 |         1 |             1 |          1 |
+| DreamHack Tor Admin <tor AT dreamhack.com>         |     0.974 |       0.231 |      0.000 |    1 |         1 |             1 |          1 |
+| Random Person <tor0102.10.swsnyder AT spamgourmet  |     0.970 |       0.299 |      0.103 |    9 |         8 |            11 |         13 |
+| eXiTtOr <exittor AT tuta DOT io> - bitcoin 1DbFbkK |     0.965 |       0.228 |      0.000 |    1 |         1 |             1 |          1 |
+| drift@multinet.no - 1Geq8GGC7qTh7dfptneAYtpeARPAL8 |     0.882 |       0.209 |      0.000 |    1 |         1 |             1 |          5 |
+| argenla <failure .AT. openmailbox .DOT. org>       |     0.865 |       0.205 |      0.000 |    1 |         2 |             2 |          2 |
+| 38A0D03D                                           |     0.834 |       0.197 |      0.000 |    1 |         1 |             1 |          2 |
+| Walter Heukels <walter@badexample.net>             |     0.793 |       0.258 |      0.108 |    2 |         1 |             2 |          2 |
+| 0x6E7B19EE BTC: 14Z2dRe2RBS8jcpYHExVQzkcsDMxuPJWEr |     0.775 |       0.239 |      0.086 |    2 |         2 |             4 |          4 |
+| 0xDD7831FC Matthias Kretschmann <m AT kretschmann  |     0.720 |       0.272 |      0.157 |    2 |         2 |             3 |          3 |
+| Hostmaster <hostmaster AT mysec-arch dot net>      |     0.705 |       0.167 |      0.000 |    1 |         1 |             1 |          1 |
+| http://www.privacyfoundation.ch/abuse/  BTC: 15s5e |     0.681 |       0.161 |      0.000 |    1 |         1 |             1 |          2 |
+| dhalgren.tor@gmail.com                             |     0.669 |       0.158 |      0.000 |    1 |         1 |             1 |          1 |
+| 55D97CB6                                           |     0.637 |       0.151 |      0.000 |    1 |         1 |             1 |          1 |
+| TNinja <abuse-team _at_ tor _dot_ ninja>           |     0.589 |       0.139 |      0.000 |    2 |         2 |             2 |          2 |
+| Tor-Admins <toooor AT all DOT de>                  |     0.535 |       0.127 |      0.000 |    1 |         1 |             1 |          1 |
+| tor-relays@coldhak.ca                              |     0.533 |       0.147 |      0.032 |    3 |         2 |             3 |          5 |
+| icemans_shootsthecloud@yahoo.com                   |     0.520 |       0.123 |      0.000 |    1 |         1 |             1 |          1 |
+| 3620F1A5                                           |     0.502 |       0.119 |      0.000 |    1 |         1 |             1 |          2 |
+| 7A5F0856                                           |     0.499 |       0.118 |      0.000 |    1 |         1 |             1 |          1 |
+| Nick Thomas <tor@ur.gs>                            |     0.478 |       0.113 |      0.000 |    1 |         1 |             1 |          1 |
+| tor@toupeira.org - 3LhBg5XxuwPnb4epBtpYFyeMzJCG52F |     0.469 |       0.111 |      0.000 |    2 |         2 |             2 |          2 |
+| Institute of Networks and Security <office@ins.jku |     0.457 |       0.108 |      0.000 |    1 |         1 |             1 |          1 |
+| write.to paracrew.admin a.t protonmail.ch          |     0.428 |       0.159 |      0.090 |    2 |         1 |             2 |          4 |
+| 74A19D86                                           |     0.393 |       0.093 |      0.000 |    1 |         1 |             1 |          1 |
+| 6FB41ED1                                           |     0.381 |       0.090 |      0.000 |    1 |         1 |             1 |          1 |
+| http://www.privacyfoundation.ch/abuse/  BTC: 15s5e |     0.369 |       0.087 |      0.000 |    1 |         1 |             1 |          1 |
+| replace k with c : kontakt @ zwiebeltoralf . de    |     0.365 |       0.086 |      0.000 |    1 |         1 |             1 |          1 |
+| mail ; yandereson > @ > riseup.net                 |     0.363 |       0.086 |      0.000 |    3 |         3 |             3 |          4 |
+| http://www.privacyfoundation.ch/abuse/  BTC: 15s5e |     0.357 |       0.084 |      0.000 |    1 |         1 |             1 |          1 |
+| kolus riseup net                                   |     0.353 |       0.124 |      0.061 |    4 |         5 |             4 |          5 |
+| Network Operations <tor@t-3.net>                   |     0.337 |       0.080 |      0.000 |    1 |         1 |             1 |          1 |
+| 5DC945CE                                           |     0.327 |       0.077 |      0.000 |    1 |         1 |             1 |          1 |
+| 908AE828                                           |     0.326 |       0.077 |      0.000 |    1 |         1 |             1 |          1 |
+| niftypika niftybunny@googlemail.com                |     0.323 |       0.174 |      0.151 |    3 |         2 |             3 |          4 |
+| A9F5135A                                           |     0.322 |       0.076 |      0.000 |    1 |         1 |             1 |          1 |
+| C8166181                                           |     0.307 |       0.072 |      0.000 |    1 |         1 |             1 |          1 |
+| Administrator <contact@tor-node.net> - BTC 15HkPq8 |     0.304 |       0.072 |      0.000 |    1 |         1 |             1 |          1 |
+| ssoft A T ukrpost net                              |     0.300 |       0.071 |      0.000 |    1 |         1 |             1 |          1 |
+| 2339EF25                                           |     0.293 |       0.069 |      0.000 |    1 |         1 |             1 |          1 |
+| 2048R/F0FCAA22 Jason Odoom <jason@ohdoom.net> - 1E |     0.293 |       0.069 |      0.000 |    1 |         1 |             1 |          1 |
+| James Gordon <gcpd.biz@domainsbyproxy.com>         |     0.288 |       0.068 |      0.000 |    1 |         1 |             1 |          1 |
+| mikaelONmurfOFFse                                  |     0.285 |       0.067 |      0.000 |    1 |         1 |             1 |          1 |
+| airo <airo AT tfwno DOT gf> - bitcoin 1ANwhySLvWzV |     0.282 |       0.067 |      0.000 |    1 |         1 |             1 |          1 |
+| info@cryogenic-wow.com - 1C1gEV8WYZjGn9jV63S8GsaFU |     0.281 |       0.066 |      0.000 |    1 |         1 |             1 |          1 |
+| Stephen Bateman <stephen@m5i.uk>                   |     0.280 |       0.066 |      0.000 |    1 |         1 |             1 |          1 |
+| 0x7FDCFED5 Daniel Winzen <d@winzen4.de> - 1CHvjeMJ |     0.270 |       0.064 |      0.000 |    1 |         1 |             1 |          1 |
+| 93058352                                           |     0.264 |       0.062 |      0.000 |    1 |         2 |             2 |          2 |
+| 8033BABC                                           |     0.263 |       0.062 |      0.000 |    1 |         1 |             1 |          1 |
+| noc =at= schokomil.ch                              |     0.261 |       0.141 |      0.123 |    2 |         2 |             2 |          3 |
+| chew on this ya spammers <div class=\"arcticecho a |     0.260 |       0.061 |      0.000 |    1 |         1 |             1 |          1 |
+| tor@impium.de                                      |     0.257 |       0.061 |      0.000 |    2 |         2 |             2 |          2 |
+| A7E78D98                                           |     0.256 |       0.060 |      0.000 |    1 |         1 |             1 |          1 |
+| <abuse AT torproxy DOT org>                        |     0.255 |       0.060 |      0.000 |    1 |         1 |             1 |          1 |
+| john| at-|yahoo  dOt-- com                         |     0.252 |       0.059 |      0.000 |    1 |         1 |             1 |          1 |
+| DedicatedPi <contact AT dedicatedpi.com>           |     0.250 |       0.059 |      0.000 |    1 |         1 |             1 |          1 |
+| 0x70E87597 Patrick ZAJDA <gansta93 AT free dot fr> |     0.249 |       0.059 |      0.000 |    1 |         1 |             1 |          1 |
+| 549A5E85                                           |     0.246 |       0.058 |      0.000 |    1 |         1 |             1 |          1 |
+| Jacob Henner <tor-exit at lists (dot) seas (dot) u |     0.243 |       0.057 |      0.000 |    1 |         1 |             1 |          1 |
+| technik@piraten-nds.de                             |     0.240 |       0.057 |      0.000 |    1 |         1 |             1 |          1 |
+| Random Person <tor at 1d4 dot us> - 1N7sBLKvekRD4E |     0.237 |       0.072 |      0.024 |    2 |         2 |             2 |          2 |
+| 0x816F1BEA40C85A247F6DF5E4B47E36CF62F1D06E Ruben D |     0.237 |       0.056 |      0.000 |    1 |         1 |             1 |          1 |
+| F2FD4BCC                                           |     0.231 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
+| tor(at)koneko(dot)co                               |     0.230 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
+| C2C7796F                                           |     0.230 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
+| Umich Tor <tor-exit-admin@umich.edu>               |     0.228 |       0.054 |      0.000 |    1 |         1 |             1 |          1 |
+| 0x0647291F xzyqvk <mail {at} xzyqvk {dot} co {dot} |     0.224 |       0.053 |      0.000 |    1 |         1 |             1 |          1 |
+| Administrator admin@tor-hu.neuromorph.de           |     0.218 |       0.051 |      0.000 |    1 |         1 |             1 |          1 |
+| To get an email to contact, go to https://tor.dour |     0.217 |       0.051 |      0.000 |    1 |         1 |             1 |          1 |
+| D466AEE9                                           |     0.207 |       0.049 |      0.000 |    1 |         1 |             1 |          1 |
+| A671653F                                           |     0.206 |       0.048 |      0.000 |    1 |         1 |             1 |          1 |
+| 1HDWeYX59Ayp3x8dAUWcpyUeTXEDwrh7vD                 |     0.206 |       0.049 |      0.000 |    2 |         2 |             2 |          2 |
+| C765F758                                           |     0.205 |       0.048 |      0.000 |    1 |         1 |             1 |          2 |
+| F5208DD1                                           |     0.203 |       0.048 |      0.000 |    1 |         1 |             1 |          2 |
+| Aqua Ray Tor Operators <tor-operators-fr [at] aqua |     0.202 |       0.048 |      0.000 |    1 |         1 |             1 |          1 |
+| SaveYourPrivacy.NET <saveyourprivacynet@openmailbo |     0.200 |       0.047 |      0.000 |    1 |         2 |             1 |          2 |
+| 5FEA88EF                                           |     0.199 |       0.047 |      0.000 |    1 |         1 |             1 |          2 |
+| Administrator <contact@tor-node.net> - BTC 15HkPq8 |     0.198 |       0.047 |      0.000 |    1 |         1 |             1 |          1 |
+| PiratPartiet <PiratPartiet AT torserver DOT mine D |     0.197 |       0.046 |      0.000 |    1 |         1 |             1 |          1 |
+| abuse@daknob.net || noc@daknob.net || tor@daknob.n |     0.196 |       0.046 |      0.000 |    1 |         1 |             1 |          1 |
+| D225C2EC                                           |     0.192 |       0.045 |      0.000 |    1 |         1 |             1 |          1 |
+| E9C58383                                           |     0.189 |       0.044 |      0.000 |    1 |         1 |             1 |          2 |
 +----------------------------------------------------+-----------+-------------+------------+------+-----------+---------------+------------+
