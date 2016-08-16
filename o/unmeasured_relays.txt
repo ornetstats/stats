@@ -1,50 +1,69 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-08-15 06:00:00 |
+| 2016-08-16 07:00:00 |
 +---------------------+
-+----------------------------------------------------+---------------------------------------------+---------------------+---------------------+
-| contact or fingerprint                             | AS                                          | last_restarted      | first_seen          |
-+----------------------------------------------------+---------------------------------------------+---------------------+---------------------+
-| 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                     | 2016-03-13 01:55:17 | 2014-09-09 08:00:00 |
-| Peter Todd <tor-relays AT petertodd.org>           | ONLINE S.A.S.                               | 2016-03-19 11:14:10 | 2016-03-17 22:00:00 |
-| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH   | 2016-04-09 19:00:24 | 2014-02-15 10:00:00 |
-| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                    | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
-| 0C6634D2                                           | myLoc managed IT AG                         | 2016-07-20 19:01:50 | 2016-04-18 22:00:00 |
-| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                        | 2016-07-21 20:45:19 | 2015-11-27 00:00:00 |
-| 1NYyKvcneRAYGmjjR5BqwarAsA8WiQK29a                 | Serverius Holding B.V.                      | 2016-07-29 08:58:00 | 2016-01-04 13:00:00 |
-| F34C3BF9                                           | Digital Ocean, Inc.                         | 2016-08-05 22:16:54 | 2016-08-15 00:00:00 |
-| C9860279                                           | Hyperoptic Ltd                              | 2016-08-11 21:24:23 | 2014-11-10 23:00:00 |
-| Christoffer Lilja <c.lilja@piratplatsen.se>        | Bahnhof Internet AB                         | 2016-08-12 19:41:54 | 2016-01-08 10:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                    | 2016-08-13 09:20:41 | 2014-06-20 07:00:00 |
-| Toolspire <postmaster ofdomain toolspire-dot-com>  | Hetzner Online GmbH                         | 2016-08-14 18:23:15 | 2016-08-14 19:00:00 |
-| 76422CDE                                           | Liberty Global Operations B.V.              | 2016-08-14 19:31:04 | 2016-08-14 20:00:00 |
-| 0x942CFFC4 Roland van Ipenburg <ipenburg@xs4all.nl | XS4ALL Internet BV                          | 2016-08-14 21:09:14 | 2016-08-14 22:00:00 |
-| Jon Sims <jon@jonsims.me>                          | Comcast Cable Communications, Inc.          | 2016-08-14 21:24:47 | 2016-08-14 22:00:00 |
-| 5B6A482D                                           | COSTARRICENSE                               | 2016-08-14 21:32:32 | 2016-08-14 22:00:00 |
-| 3C0C0622                                           | Microsoft Corporation                       | 2016-08-14 21:52:23 | 2016-08-14 22:00:00 |
-| 7D744165                                           | So-net Entertainment Corporation            | 2016-08-14 22:24:37 | 2016-08-15 00:00:00 |
-| Yden D'neuf <yden AT riseup dot net>               | Portlane AB                                 | 2016-08-15 00:10:00 | 2014-09-14 12:00:00 |
-| 5C21C834                                           | 2267921 ONTARIO LTD                         | 2016-08-15 00:17:40 | 2015-06-22 22:00:00 |
-| sites[at]corky.me.uk - 16J5s3bSEQU3b4VSwZj8wS54CMe | NULL                                        | 2016-08-15 01:01:19 | 2016-08-15 02:00:00 |
-| contact at peersm.com                              | OVH SAS                                     | 2016-08-15 02:45:01 | 2014-01-20 15:00:00 |
-| 613FF463                                           | Time Warner Cable Internet LLC              | 2016-08-15 02:49:12 | 2016-02-21 21:00:00 |
-| 1E48CFF1                                           | NetCologne GmbH                             | 2016-08-15 03:31:53 | 2016-08-14 22:00:00 |
-| FCA4038E                                           |                                             | 2016-08-15 03:57:07 | 2016-08-15 05:00:00 |
-| #tor at thedarkNet                                 | Deutsche Telekom AG                         | 2016-08-15 04:10:26 | 2016-08-14 21:00:00 |
-| FCB6EAD8                                           | Orange S.A.                                 | 2016-08-15 04:13:36 | 2014-10-25 00:00:00 |
-| Andrew LeCody <AT gmail dot com>                   | Frontier Communications of America, Inc.    | 2016-08-15 04:18:10 | 2016-08-15 05:00:00 |
-| 6EAABA5E                                           | TTNet A.S.                                  | 2016-08-15 04:36:17 | 2016-08-07 11:00:00 |
-| contact at peersm.com                              | OVH SAS                                     | 2016-08-15 04:45:05 | 2013-07-15 11:00:00 |
-| 90B5129F                                           | Digital Ocean, Inc.                         | 2016-08-15 04:59:35 | 2016-08-15 06:00:00 |
-| DFF06733                                           | Rostelecom                                  | 2016-08-15 05:09:40 | 2016-05-29 07:00:00 |
-| <has_teya at yahoo dot com>                        | Vision Net, Inc.                            | 2016-08-15 05:12:48 | 2015-11-21 06:00:00 |
-| F0F7B231                                           | OPTINET                                     | 2016-08-15 05:29:07 | 2016-07-29 16:00:00 |
-| D6A66E1E                                           | Com Hem AB                                  | 2016-08-15 05:33:46 | 2016-06-23 23:00:00 |
-| jane1984@sigaint.org                               | IMAFEX, spol. s r.o.                        | 2016-08-15 05:33:48 | 2016-08-14 21:00:00 |
-| FB85D83D                                           | Community Network Center Inc.               | 2016-08-15 05:38:34 | 2014-09-02 10:00:00 |
-| DFA5AA50                                           | Vodafone Telecel, Comunicacoes Pessoais, SA | 2016-08-15 05:42:03 | 2014-10-14 16:00:00 |
-| Jeremiah Goyette jsgoyette@gmail.com               | Nine Internet Solutions AG                  | 2016-08-15 05:42:55 | 2016-08-15 06:00:00 |
-| 667D9831                                           | PlusNet plc.                                | 2016-08-15 05:47:24 | 2016-08-14 19:00:00 |
-| 6AC538F7                                           | Fariya Networks Pvt. Ltd.                   | 2016-08-15 17:18:29 | 2016-06-15 08:00:00 |
-+----------------------------------------------------+---------------------------------------------+---------------------+---------------------+
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                       | 2016-03-13 01:55:17 | 2014-09-09 08:00:00 |
+| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-04-09 19:00:24 | 2014-02-15 10:00:00 |
+| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
+| 0C6634D2                                           | myLoc managed IT AG                           | 2016-07-20 19:01:50 | 2016-04-18 22:00:00 |
+| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                          | 2016-07-21 20:45:19 | 2015-11-27 00:00:00 |
+| 1NYyKvcneRAYGmjjR5BqwarAsA8WiQK29a                 | Serverius Holding B.V.                        | 2016-07-29 08:58:00 | 2016-01-04 13:00:00 |
+| C9860279                                           | Hyperoptic Ltd                                | 2016-08-11 21:24:22 | 2014-11-10 23:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-08-13 09:20:41 | 2014-06-20 07:00:00 |
+| B063DF94                                           | 1&1 Internet SE                               | 2016-08-15 10:53:00 | 2016-08-15 11:00:00 |
+| 187FCB45                                           | OVH SAS                                       | 2016-08-15 13:58:11 | 2016-08-15 15:00:00 |
+| 9084157D                                           | Informacines sistemos ir technologijos, UAB   | 2016-08-15 14:48:37 | 2016-08-15 15:00:00 |
+| mendicant dot web on the gmail                     | TELUS Communications Inc.                     | 2016-08-15 16:33:20 | 2016-08-15 17:00:00 |
+| Solitaire TOR  <solitairetor@protonmail.com>       | SYN LTD                                       | 2016-08-15 16:45:58 | 2016-08-15 17:00:00 |
+| Solitaire TOR  <solitairetor@protonmail.com>       | SYN LTD                                       | 2016-08-15 16:48:36 | 2016-08-15 17:00:00 |
+| 04071510                                           | OVH SAS                                       | 2016-08-15 17:53:35 | 2016-08-15 19:00:00 |
+| 0BC31428                                           | SuperNetwork s.r.o.                           | 2016-08-15 19:15:31 | 2016-08-15 20:00:00 |
+| 34B84952                                           | PRO-ZETA a.s.                                 | 2016-08-15 19:17:10 | 2016-08-15 20:00:00 |
+| 49D88DF0                                           | Hostway Deutschland GmbH                      | 2016-08-15 19:18:35 | 2016-08-15 20:00:00 |
+| CC94399E                                           | ServeNET Solution Limited Partnership         | 2016-08-15 19:19:31 | 2016-08-15 20:00:00 |
+| 0DB79ADE                                           | Techcrea Solutions Sarl                       | 2016-08-15 19:59:23 | 2016-08-15 21:00:00 |
+| AEB1C0A6                                           | OVH SAS                                       | 2016-08-15 20:06:30 | 2016-08-15 21:00:00 |
+| human@...                                          | Amazon.com, Inc.                              | 2016-08-15 20:14:02 | 2016-08-15 20:00:00 |
+| 3755325D                                           | ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNE | 2016-08-15 20:19:29 | 2016-08-15 21:00:00 |
+| CB3A0B2D                                           | TELEKOM ROMANIA COMMUNICATION S.A             | 2016-08-15 20:22:24 | 2016-08-15 21:00:00 |
+| pocerolandia at gmail dot com                      | TELEFONICA DE ESPANA                          | 2016-08-15 20:32:08 | 2016-08-15 22:00:00 |
+| 2A6F7C06                                           | SkyNet Ltd.                                   | 2016-08-15 20:36:14 | 2016-08-15 21:00:00 |
+| B3E42A48                                           | DGN TEKNOLOJI BILISIM YAYINCILIK SANAYI VE LI | 2016-08-15 20:49:06 | 2016-08-15 22:00:00 |
+| Nicholas Merrill <nick AT calyx dot com> BTC - 14w | XS4ALL Internet BV                            | 2016-08-15 20:51:52 | 2013-11-05 16:00:00 |
+| 8000643F                                           | Cox Communications Inc.                       | 2016-08-15 21:20:11 | 2016-08-15 22:00:00 |
+| C710B593                                           | OJSC RTComm.RU                                | 2016-08-15 21:46:19 | 2016-08-15 21:00:00 |
+| AD1ED59F                                           | Tim Celular S.A.                              | 2016-08-15 23:07:49 | 2016-08-09 03:00:00 |
+| Werner@Heisenberg                                  | Amazon.com, Inc.                              | 2016-08-15 23:44:49 | 2016-06-29 01:00:00 |
+| georg@simon.ohm                                    | FUJITSU LIMITED                               | 2016-08-15 23:47:13 | 2016-06-29 02:00:00 |
+| CAD7C302                                           | Comcast Cable Communications, Inc.            | 2016-08-16 01:28:03 | 2016-08-16 02:00:00 |
+| Eran Sandler <eran@sandler.co.il>                  | NETACTION TELECOM SRL-D                       | 2016-08-16 01:31:14 | 2016-08-16 02:00:00 |
+| Kevin <tor AT kberanek dot com>                    | Atlantic.net, Inc.                            | 2016-08-16 01:48:43 | 2016-08-16 03:00:00 |
+| CE5EACF0                                           | PJSC Rostelecom                               | 2016-08-16 02:58:52 | 2016-08-16 03:00:00 |
+| 84E067E1                                           | 013 NetVision Ltd.                            | 2016-08-16 02:59:51 | 2014-04-25 13:00:00 |
+| 12A699E3                                           | A1 Telekom Austria AG                         | 2016-08-16 03:18:59 | 2016-02-09 07:00:00 |
+| contact at peersm.com                              | OVH SAS                                       | 2016-08-16 03:27:34 | 2014-01-20 15:00:00 |
+| contact at peersm.com                              | OVH SAS                                       | 2016-08-16 03:27:38 | 2013-07-15 11:00:00 |
+| 231CF065                                           | PJSC Rostelecom                               | 2016-08-16 05:03:43 | 2016-08-15 22:00:00 |
+| xmpp:stefan@jabber.zone                            | NULL                                          | 2016-08-16 05:17:39 | 2016-01-13 20:00:00 |
+| 7FF5DF2E                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-08-16 05:23:18 | 2016-08-16 06:00:00 |
+| 35497B55                                           |                                               | 2016-08-16 05:34:43 | 2016-06-04 11:00:00 |
+| B183B50D                                           | OVH SAS                                       | 2016-08-16 05:45:30 | 2016-08-15 16:00:00 |
+| CB9891AB                                           | MTS PJSC                                      | 2016-08-16 05:50:41 | 2016-08-13 11:00:00 |
+| 0B0AF14F                                           | JSC ER-Telecom Holding                        | 2016-08-16 05:56:05 | 2015-06-16 12:00:00 |
+| 32685F44                                           | PT Telekomunikasi Indonesia                   | 2016-08-16 06:01:29 | 2016-08-16 07:00:00 |
+| max max@musterman.info                             | Deutsche Telekom AG                           | 2016-08-16 06:03:44 | 2016-07-10 11:00:00 |
+| 48AB8A50                                           | Quasi Networks LTD.                           | 2016-08-16 06:28:20 | 2016-08-16 07:00:00 |
+| 48816684                                           | Tim Celular S.A.                              | 2016-08-16 06:31:44 | 2016-08-08 01:00:00 |
+| 47836562                                           | Bharti Airtel Ltd. AS for GPRS Service        | 2016-08-16 06:34:52 | 2016-06-27 06:00:00 |
+| B345D528                                           | Liberty Global Operations B.V.                | 2016-08-16 06:37:07 | 2016-08-02 19:00:00 |
+| CB638DB3                                           | Deutsche Telekom AG                           | 2016-08-16 06:37:42 | 2016-08-14 14:00:00 |
+| 22E984FE                                           | VODAFONE ESPANA S.A.U.                        | 2016-08-16 06:42:32 | 2016-08-10 14:00:00 |
+| E5235DE2                                           | Tamatiya EOOD                                 | 2016-08-16 06:45:58 | 2016-08-16 07:00:00 |
+| 2D6F6B6D                                           | Asahi Net                                     | 2016-08-16 06:46:53 | 2016-08-16 06:00:00 |
+| harrygwinnell@freeside.co.uk                       | ColoCrossing                                  | 2016-08-16 06:58:50 | 2016-05-02 17:00:00 |
+| 6AC538F7                                           | Fariya Networks Pvt. Ltd.                     | 2016-08-16 17:55:14 | 2016-06-15 08:00:00 |
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
