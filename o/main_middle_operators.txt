@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-09-23 06:00:00 |
+| 2016-09-24 06:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
 | contact or fingerprint                             | middle_prob | cw-fraction | exit_prob | guard_prob | ASes | countries | /16 netblocks | relaycount |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
-| 0x7A05300A Tom Hek <tor AT tomhek dot net>         |         1.4 |        1.46 |       0.5 |        2.0 |    7 |         5 |            10 |         25 |
-| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.2 |        1.14 |       0.0 |        1.7 |    1 |         1 |             1 |          3 |
-| monitor0penmailbox0rg                              |         0.9 |        0.81 |       0.0 |        1.2 |    3 |         2 |             4 |         30 |
-| GTor <contact _AT_ gtor _DOT_ org>                 |         0.9 |        0.80 |       0.0 |        1.2 |    5 |         3 |             5 |         14 |
-| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.6 |        0.48 |       0.0 |        0.5 |    3 |         3 |             4 |          6 |
+| 0x7A05300A Tom Hek <tor AT tomhek dot net>         |         1.4 |        1.51 |       0.8 |        2.0 |    7 |         5 |            10 |         25 |
+| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.2 |        1.15 |       0.0 |        1.7 |    1 |         1 |             1 |          3 |
+| monitor0penmailbox0rg                              |         0.9 |        0.80 |       0.0 |        1.1 |    3 |         2 |             4 |         30 |
+| GTor <contact _AT_ gtor _DOT_ org>                 |         0.8 |        0.76 |       0.0 |        1.1 |    5 |         3 |             5 |         14 |
+| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.6 |        0.43 |       0.0 |        0.4 |    3 |         3 |             4 |          6 |
 | Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.6 |        0.54 |       0.0 |        0.8 |    3 |         2 |             4 |          5 |
-| NaN                                                |         0.6 |        0.25 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| Boris Nagaev 1MZH41vEeaRaJo2WnifnGswBwM4YXoeNDb <b |         0.5 |        0.47 |       0.0 |        0.7 |    2 |         2 |             2 |          3 |
-| niftybunny@googlemail.com                          |         0.4 |        0.51 |       0.5 |        0.5 |    6 |         5 |             7 |         18 |
-| catatafish@codingrat.net                           |         0.4 |        0.17 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| 91A32B95                                           |         0.4 |        0.39 |       0.0 |        0.5 |    1 |         1 |             1 |          8 |
+| Boris Nagaev 19pZzECKDDMbSpaWEy8vGvELEfXM8GrkHS <b |         0.5 |        0.53 |       0.0 |        0.8 |    2 |         2 |             2 |          3 |
+| niftybunny@googlemail.com                          |         0.4 |        0.52 |       0.5 |        0.6 |    6 |         5 |             7 |         18 |
+| catatafish@codingrat.net                           |         0.4 |        0.18 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| CDA994EF                                           |         0.4 |        0.39 |       0.0 |        0.6 |    1 |         1 |             1 |          8 |
 | 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |         0.4 |        0.24 |       0.0 |        0.2 |    3 |         3 |             3 |          4 |
 | whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ |         0.4 |        0.18 |       0.0 |        0.0 |    5 |         5 |             5 |          5 |
-| tor[at]fiberoverethernet[dot]com                   |         0.4 |        0.43 |       0.0 |        0.6 |    7 |         6 |             6 |          7 |
+| tor[at]fiberoverethernet[dot]com                   |         0.4 |        0.40 |       0.0 |        0.6 |    7 |         6 |             6 |          7 |
+| NaN                                                |         0.4 |        0.18 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
 | gmail is teor2345 | http://tor-relays.net | PGP C8 |         0.3 |        0.77 |       1.8 |        0.4 |    5 |         3 |             7 |         19 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.3 |        0.21 |       0.0 |        0.2 |    6 |         5 |             7 |          7 |
-| tor@anondroid.com                                  |         0.3 |        0.29 |       0.0 |        0.4 |    2 |         2 |             2 |          2 |
+| tor@anondroid.com                                  |         0.3 |        0.31 |       0.0 |        0.4 |    2 |         2 |             2 |          2 |
 | Bandie Canis (GPG: 0xC2942643) <bandie@ttygap.net> |         0.3 |        0.12 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| BrassHornComms <hello@brasshorncommunications.uk>  |         0.3 |        0.32 |       0.2 |        0.3 |    9 |         8 |            14 |         18 |
-| 0x97FC6451 Moritz Grosch (LittleFox) <littlefox AT |         0.3 |        0.13 |       0.0 |        0.0 |    2 |         1 |             2 |          2 |
-| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.3 |        0.26 |       0.0 |        0.3 |    1 |         1 |             2 |          4 |
+| tor terjan net                                     |         0.3 |        0.27 |       0.0 |        0.4 |    5 |         3 |             6 |          6 |
+| BrassHornComms <hello@brasshorncommunications.uk>  |         0.3 |        0.34 |       0.3 |        0.3 |    9 |         8 |            14 |         18 |
+| 0x97FC6451 Moritz Grosch <littlefox AT lf-net dot  |         0.3 |        0.12 |       0.0 |        0.0 |    2 |         1 |             2 |          2 |
+| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.3 |        0.24 |       0.0 |        0.3 |    1 |         1 |             2 |          4 |
 | JoSch <tor4711 AT cell dot de>                     |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             1 |          4 |
 | Deaths Grandaughter <Susan Sto Helit at protonmail |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          3 |
-| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |         0.3 |        0.33 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
-| Schizopriest <tor AT schizopriest DOT de> - 1L4HAJ |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             2 |          2 |
-| 4096R/0x73538126032AD297 Christian Krbusek <abuse  |         0.3 |        0.33 |       0.0 |        0.5 |    1 |         1 |             1 |          2 |
+| Schizopriest <tor AT schizopriest DOT de> - 1L4HAJ |         0.3 |        0.32 |       0.0 |        0.4 |    1 |         1 |             2 |          2 |
+| 4096R/0x73538126032AD297 Christian Krbusek <abuse  |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          2 |
 | E29BAE27                                           |         0.3 |        0.13 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
 | EF4550E3                                           |         0.3 |        0.12 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| Kevin <tor AT kberanek dot com>                    |         0.2 |        0.19 |       0.0 |        0.2 |    3 |         4 |             4 |          7 |
-| Brandon Annin <baforwarder@gmail.com> 0x1D4894B88D |         0.2 |        0.19 |       0.0 |        0.2 |    1 |         1 |             1 |          3 |
+| Kevin <tor AT kberanek dot com>                    |         0.2 |        0.18 |       0.0 |        0.2 |    3 |         4 |             4 |          7 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.2 |        0.23 |       0.0 |        0.3 |    6 |         5 |             7 |          7 |
+| Hello, I am a Tor node! My nickname: https://youtu |         0.2 |        0.19 |       0.0 |        0.2 |    2 |         1 |             3 |          7 |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
