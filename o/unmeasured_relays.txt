@@ -1,65 +1,105 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-10-01 06:00:00 |
+| 2016-10-02 06:00:00 |
 +---------------------+
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
-| contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
-| 476E545A                                           | STRATO AG                                     | 2016-04-13 17:03:56 | 2013-09-20 13:00:00 |
-| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
-| 0C6634D2                                           | myLoc managed IT AG                           | 2016-07-20 19:01:50 | 2016-04-18 22:00:00 |
-| tor-exit@protonmail.ch                             | Keyweb AG                                     | 2016-09-06 23:01:39 | 2016-09-05 13:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-09-07 15:41:21 | 2014-06-20 07:00:00 |
-| 1234D/FFFFFFFF Random Person <oliv5 AT caramail do | Bouygues Telecom SA                           | 2016-09-22 00:38:26 | 2016-01-18 00:00:00 |
-| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-09-23 16:57:05 | 2014-02-15 10:00:00 |
-| C7E1BB1B                                           | Contabo GmbH                                  | 2016-09-25 02:46:09 | 2015-02-11 21:00:00 |
-| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                          | 2016-09-27 01:04:07 | 2015-11-27 00:00:00 |
-| 9CF8F049                                           | France Telecom Espana SA                      | 2016-09-30 14:21:06 | 2016-09-30 15:00:00 |
-| rbx1                                               | OVH SAS                                       | 2016-09-30 18:07:38 | 2016-09-30 19:00:00 |
-| 40A27BAD                                           | Longmont Power & Communications               | 2016-09-30 18:44:01 | 2016-09-30 20:00:00 |
-| 5BC84FB7                                           | 2267921 ONTARIO LTD                           | 2016-09-30 19:14:19 | 2015-10-24 21:00:00 |
-| 8B3084B8                                           | Amazon.com, Inc.                              | 2016-09-30 19:46:54 | 2016-09-30 16:00:00 |
-| -                                                  | SoftLayer Technologies Inc.                   | 2016-09-30 19:54:51 | 2016-09-29 23:00:00 |
-| 5D4448FD                                           | 2DAY Telecom LLP                              | 2016-09-30 19:55:56 | 2016-09-10 09:00:00 |
-| rkfg <rkfg@rkfg.me>                                | LeaseWeb Netherlands B.V.                     | 2016-09-30 20:07:22 | 2015-09-22 12:00:00 |
-| B324 Tor Operator <tor AT b324 dot com>            | SMART Comp. a.s.                              | 2016-09-30 20:32:15 | 2016-09-30 21:00:00 |
-| sb <stefani@riseup.net>                            | SWIFT VENTURES Inc                            | 2016-09-30 21:01:57 | 2016-09-30 22:00:00 |
-| 63931108                                           | Telenor Norge AS                              | 2016-09-30 22:00:00 | 2016-04-15 21:00:00 |
-| Saint <griffin@cryptolab.net>                      | Leaseweb Asia Pacific pte. ltd.               | 2016-09-30 22:12:29 | 2016-09-30 23:00:00 |
-| 16F7AE17                                           | Deutsche Telekom AG                           | 2016-09-30 22:44:14 | 2016-09-30 23:00:00 |
-| C9661490                                           | Bouygues Telecom SA                           | 2016-09-30 22:47:42 | 2016-09-30 23:00:00 |
-| petani <protprot AT papuasia dot org>              | ColoCrossing                                  | 2016-09-30 23:18:13 | 2016-09-30 21:00:00 |
-| 7FE895160E3314027CD3B5D37392CF088BB4345C Jacob Hen | Digital Ocean, Inc.                           | 2016-09-30 23:42:43 | 2016-10-01 01:00:00 |
-| AC6C1EBD                                           | Amazon.com, Inc.                              | 2016-10-01 00:00:00 | 2016-08-22 12:00:00 |
-| < burningshadow AT gmx net >                       | rh-tec Business GmbH                          | 2016-10-01 00:00:00 | 2014-07-30 08:00:00 |
-| hallo@d-ku.de (PGP:keybase.io/djcray) - 1LUHicjzwJ | uvensys GmbH                                  | 2016-10-01 00:00:00 | 2015-12-28 18:00:00 |
-| Xunie@Freenode :3                                  | OVH SAS                                       | 2016-10-01 00:00:00 | 2016-01-13 15:00:00 |
-| Bob 1BSy7jFHbqL5MpttVFgwvM4JKqrxQTXSmK             | NULL                                          | 2016-10-01 00:05:36 | 2016-10-01 01:00:00 |
-| 5D923CE1                                           | Comcast Cable Communications, Inc.            | 2016-10-01 01:07:16 | 2016-10-01 02:00:00 |
-| 4A96A562                                           | TELEFONICA DE ESPANA                          | 2016-10-01 01:10:46 | 2016-10-01 02:00:00 |
-| 8D9127EF                                           |                                               | 2016-10-01 01:32:54 | 2016-08-06 13:00:00 |
-| 6D62CF25                                           | YLess4U Regional Broadband                    | 2016-10-01 02:00:05 | 2012-12-16 07:00:00 |
-| 167D9FB9                                           | JSC ER-Telecom Holding                        | 2016-10-01 02:25:56 | 2016-10-01 03:00:00 |
-| Techwolf <techwolf@g33kworld.net> - 1WoLfy1evSbJYg | Amazon.com, Inc.                              | 2016-10-01 02:26:09 | 2016-10-01 03:00:00 |
-| niftybunny@googlemail.com                          | I.C.S. Trabia-Network S.R.L.                  | 2016-10-01 02:27:08 | 2016-10-01 03:00:00 |
-| Random Person <nobody AT example dot com>          | OVH SAS                                       | 2016-10-01 02:50:59 | 2016-10-01 04:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-10-01 03:05:05 | 2014-01-20 15:00:00 |
-| 7AD86666                                           | Tele Columbus AG                              | 2016-10-01 03:37:40 | 2014-02-21 15:00:00 |
-| D29890C1                                           | SkyNet Ltd.                                   | 2016-10-01 03:46:09 | 2016-09-21 06:00:00 |
-| 9689A45A                                           | Digital Ocean, Inc.                           | 2016-10-01 04:00:00 | 2016-05-13 21:00:00 |
-| 52BC82EB                                           | Digital Ocean, Inc.                           | 2016-10-01 04:00:00 | 2014-12-20 03:00:00 |
-| Jon Sims <jon@jonsims.me>                          | Comcast Cable Communications, Inc.            | 2016-10-01 04:06:29 | 2016-10-01 05:00:00 |
-| 0AABB87A                                           | VODAFONE ESPANA S.A.U.                        | 2016-10-01 04:08:18 | 2016-08-19 19:00:00 |
-| 775186A2                                           | Vodafone Kabel Deutschland GmbH               | 2016-10-01 04:15:49 | 2015-10-29 19:00:00 |
-| 4882E26C                                           | SoftLayer Technologies Inc.                   | 2016-10-01 04:44:09 | 2016-10-01 05:00:00 |
-| 2BC6B084                                           | SoftLayer Technologies Inc.                   | 2016-10-01 04:44:22 | 2016-10-01 05:00:00 |
-| 5C2AFDD7                                           | Deutsche Telekom AG                           | 2016-10-01 04:56:00 | 2016-07-24 18:00:00 |
-| 90AA704A                                           | SoftLayer Technologies Inc.                   | 2016-10-01 05:00:53 | 2016-10-01 06:00:00 |
-| 4679B425                                           | SoftLayer Technologies Inc.                   | 2016-10-01 05:01:02 | 2016-10-01 06:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-10-01 05:04:51 | 2014-01-06 17:00:00 |
-| 34124717                                           | Techtel LMDS Comunicaciones Interactivas S.A. | 2016-10-01 05:13:42 | 2016-10-01 06:00:00 |
-| 42D86F71                                           | VODAFONE ONO, S.A.                            | 2016-10-01 05:23:05 | 2016-05-14 05:00:00 |
-| human@...                                          | WISH NET PRIVATE LIMITED                      | 2016-10-01 05:27:11 | 2016-07-02 07:00:00 |
-| 5F15956C                                           | Kabel BW GmbH                                 | 2016-10-01 05:34:55 | 2016-07-05 09:00:00 |
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
++----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
+| contact or fingerprint                             | AS                                        | last_restarted      | first_seen          |
++----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
+| 476E545A                                           | STRATO AG                                 | 2016-04-13 17:03:56 | 2013-09-20 13:00:00 |
+| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                  | 2016-06-12 03:55:50 | 2014-05-29 13:00:00 |
+| 0C6634D2                                           | myLoc managed IT AG                       | 2016-07-20 19:01:50 | 2016-04-18 22:00:00 |
+| tor-exit@protonmail.ch                             | Keyweb AG                                 | 2016-09-06 23:01:38 | 2016-09-05 13:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                  | 2016-09-07 15:41:21 | 2014-06-20 07:00:00 |
+| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH | 2016-09-23 16:57:04 | 2014-02-15 10:00:00 |
+| C7E1BB1B                                           | Contabo GmbH                              | 2016-09-25 02:46:09 | 2015-02-11 21:00:00 |
+| EAB356D6                                           | Amazon.com, Inc.                          | 2016-09-27 00:54:39 | 2016-05-20 22:00:00 |
+| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                      | 2016-09-27 01:04:07 | 2015-11-27 00:00:00 |
+| sb <stefani@riseup.net>                            | SWIFT VENTURES Inc                        | 2016-09-30 21:01:56 | 2016-09-30 22:00:00 |
+| A4F5CA0D                                           | Hetzner Online GmbH                       | 2016-09-30 22:00:00 | 2016-07-26 17:00:00 |
+| Saint <griffin@cryptolab.net>                      | Leaseweb Asia Pacific pte. ltd.           | 2016-09-30 22:12:30 | 2016-09-30 23:00:00 |
+| C9661490                                           | Bouygues Telecom SA                       | 2016-09-30 22:47:42 | 2016-09-30 23:00:00 |
+| -                                                  | SoftLayer Technologies Inc.               | 2016-09-30 23:55:18 | 2016-09-29 23:00:00 |
+| < burningshadow AT gmx net >                       | rh-tec Business GmbH                      | 2016-10-01 00:00:00 | 2014-07-30 08:00:00 |
+| Bob 1BSy7jFHbqL5MpttVFgwvM4JKqrxQTXSmK             | NULL                                      | 2016-10-01 00:05:36 | 2016-10-01 01:00:00 |
+| Techwolf <techwolf@g33kworld.net> - 1WoLfy1evSbJYg | Amazon.com, Inc.                          | 2016-10-01 02:26:08 | 2016-10-01 03:00:00 |
+| niftybunny@googlemail.com                          | I.C.S. Trabia-Network S.R.L.              | 2016-10-01 02:27:09 | 2016-10-01 03:00:00 |
+| Random Person <nobody AT example dot com>          | OVH SAS                                   | 2016-10-01 02:56:11 | 2016-10-01 04:00:00 |
+| Jon Sims <jon@jonsims.me>                          | Comcast Cable Communications, Inc.        | 2016-10-01 04:06:28 | 2016-10-01 05:00:00 |
+| 4882E26C                                           | SoftLayer Technologies Inc.               | 2016-10-01 04:44:09 | 2016-10-01 05:00:00 |
+| 2BC6B084                                           | SoftLayer Technologies Inc.               | 2016-10-01 04:44:22 | 2016-10-01 05:00:00 |
+| 90AA704A                                           | SoftLayer Technologies Inc.               | 2016-10-01 05:00:53 | 2016-10-01 06:00:00 |
+| 4679B425                                           | SoftLayer Technologies Inc.               | 2016-10-01 05:01:02 | 2016-10-01 06:00:00 |
+| 167D9FB9                                           | JSC ER-Telecom Holding                    | 2016-10-01 06:21:13 | 2016-10-01 03:00:00 |
+| 2A8DAAD0                                           | Mid Plains Rural Telephone Cooperative    | 2016-10-01 08:28:25 | 2015-09-29 14:00:00 |
+| IHG EXT <ihg AT openmailbox dot org>               | LLC TRC FIORD                             | 2016-10-01 08:42:54 | 2016-09-30 03:00:00 |
+| B12C0E19                                           | IT-Lauget Parknet                         | 2016-10-01 08:47:22 | 2016-10-01 09:00:00 |
+| petani <protprot AT papuasia dot org>              | ColoCrossing                              | 2016-10-01 09:03:28 | 2016-09-30 21:00:00 |
+| 5DFC7414                                           | OVH SAS                                   | 2016-10-01 09:25:01 | 2016-04-17 01:00:00 |
+| AFBAFAB7                                           | Host Europe GmbH                          | 2016-10-01 09:52:15 | 2016-10-01 11:00:00 |
+| Arno Nym <grosser_humungus at@at freeneti.de>      | Inter.Net Germany                         | 2016-10-01 09:56:38 | 2016-10-01 11:00:00 |
+| tor@omni-fi.net                                    | Andrews & Arnold Ltd                      | 2016-10-01 10:37:00 | 2016-04-23 14:00:00 |
+| E980CA7A                                           | VODAFONE ONO, S.A.                        | 2016-10-01 11:39:57 | 2016-10-01 15:00:00 |
+| 5D923CE1                                           | Comcast Cable Communications, Inc.        | 2016-10-01 11:46:00 | 2016-10-01 02:00:00 |
+| 586B7FA2                                           | France Telecom Espana SA                  | 2016-10-01 11:53:31 | 2016-10-01 13:00:00 |
+| 370D3B33                                           | Choopa, LLC                               | 2016-10-01 13:04:09 | 2016-10-01 14:00:00 |
+| FE13466A                                           | Free SAS                                  | 2016-10-01 13:32:02 | 2016-07-30 17:00:00 |
+| BrokenPhysics <admin AT brokenphysics DOT de>      | Voxility S.R.L.                           | 2016-10-01 13:54:14 | 2016-10-01 15:00:00 |
+| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                   | 2016-10-01 14:28:08 | 2016-10-01 15:00:00 |
+| 55F7201B                                           | Amazon.com, Inc.                          | 2016-10-01 15:00:00 | 2016-04-18 21:00:00 |
+| 0CC8079A                                           | Amazon.com, Inc.                          | 2016-10-01 15:22:34 | 2016-10-01 16:00:00 |
+| CDF29D20                                           | Vodafone Kabel Deutschland GmbH           | 2016-10-01 15:29:25 | 2013-12-31 18:00:00 |
+| <zwiebeln at online de>                            | Seflow S.N.C. Di Marco Brame' & C.        | 2016-10-01 15:59:05 | 2016-10-01 17:00:00 |
+| 26B7A8B2                                           | NULL                                      | 2016-10-01 16:52:30 | 2016-09-27 15:00:00 |
+| tomkai IT Services  <tor_relay AT tomkai dot com>  | Liberty Global Operations B.V.            | 2016-10-01 18:03:39 | 2016-10-01 13:00:00 |
+| admin@outfall.net - 16fVbbjyNJcYAtNJzoi43EDQ4Jb1YD | ONLINE S.A.S.                             | 2016-10-01 18:41:54 | 2016-10-01 19:00:00 |
+| Alex K <semargl AT gmail dot com>                  | Gigatrans Ltd.                            | 2016-10-01 19:04:42 | 2016-08-08 15:00:00 |
+| Djerfy <contact@djerfy.com>                        | ONLINE S.A.S.                             | 2016-10-01 19:18:47 | 2016-10-01 20:00:00 |
+| Djerfy <contact@djerfy.com>                        | ONLINE S.A.S.                             | 2016-10-01 19:21:44 | 2016-10-01 20:00:00 |
+| fb_at_ zitlo_dot_ de - 1EgoeZNRRbzN3YQhxX1kcAny5un | Hetzner Online GmbH                       | 2016-10-01 19:50:11 | 2016-10-01 20:00:00 |
+| sc.cjhackerz@yahoo.com                             | Digital Ocean, Inc.                       | 2016-10-01 19:54:32 | 2016-10-01 14:00:00 |
+| 9E274AE8                                           | EWE TEL GmbH                              | 2016-10-01 20:11:11 | 2016-07-28 04:00:00 |
+| LittleDjango <littledjangotorrelay@airmail.cc>     | ColoCrossing                              | 2016-10-01 20:33:30 | 2016-10-01 19:00:00 |
+| D4C4DD600D66F65A8EFC511E18F3685C0022BFF3 jess jess | Google Inc.                               | 2016-10-01 20:53:43 | 2016-10-01 22:00:00 |
+| Xunie@Freenode :3                                  | OVH SAS                                   | 2016-10-01 21:47:07 | 2016-01-13 15:00:00 |
+| 8D21FA59                                           |                                           | 2016-10-01 21:53:16 | 2016-10-01 11:00:00 |
+| 6D62CF25                                           | YLess4U Regional Broadband                | 2016-10-01 23:04:43 | 2012-12-16 07:00:00 |
+| 1024D/28988BF5 Roger Dingledine <arma@mit.edu>     | Massachusetts Institute of Technology     | 2016-10-01 23:12:01 | 2009-05-29 09:00:00 |
+| 0x1f1be3be4282a8d1 Jaymz Campbell <jaymz@jaymz.eu> | Hetzner Online GmbH                       | 2016-10-01 23:21:51 | 2016-10-01 22:00:00 |
+| 12D8672B                                           | Mobile Telecommunications Company         | 2016-10-02 01:18:38 | 2015-11-30 06:00:00 |
+| Nobody <nobody AT maraj dot homeip dot net>        | Comcast Cable Communications, Inc.        | 2016-10-02 01:26:44 | 2016-10-02 02:00:00 |
+| 57ED44D6                                           | NetCologne GmbH                           | 2016-10-02 01:28:59 | 2014-11-19 20:00:00 |
+| 0x374FD7E48B4A5331DDB854593715E08D021ED4D6 John Do | Edutel B.V.                               | 2016-10-02 01:31:13 | 2016-10-02 02:00:00 |
+| Nathan <nathan.metzger@xsmail.com>                 | Shaw Communications Inc.                  | 2016-10-02 01:42:14 | 2016-10-02 02:00:00 |
+| Eggos <tor AT shirtninja DOT net>                  | Shaw Communications Inc.                  | 2016-10-02 01:46:04 | 2016-10-01 21:00:00 |
+| A138B63C                                           | Wind Telecomunicazioni SpA                | 2016-10-02 02:24:45 | 2016-10-01 16:00:00 |
+| 54F2586F                                           | NTT Communications Corporation            | 2016-10-02 02:47:04 | 2016-10-02 03:00:00 |
+| BCD28581                                           | RCN                                       | 2016-10-02 02:51:40 | 2016-10-02 04:00:00 |
+| DD479EF6                                           | Sprint                                    | 2016-10-02 02:52:17 | 2016-10-02 04:00:00 |
+| DCA1A815                                           | Choopa, LLC                               | 2016-10-02 03:00:13 | 2016-10-01 18:00:00 |
+| tormatoadmin@email.com                             | Comcast Cable Communications, Inc.        | 2016-10-02 03:41:29 | 2016-10-02 04:00:00 |
+| Technotic <support AT technotic dot CA>            | Digital Ocean, Inc.                       | 2016-10-02 03:46:13 | 2016-01-18 20:00:00 |
+| Nym <tor.20.sokrat AT spamgourmet.com> 1JH2RueDoXv | Telefonica Germany GmbH & Co.OHG          | 2016-10-02 03:53:43 | 2016-10-01 22:00:00 |
+| contact at peersm.com                              | OVH SAS                                   | 2016-10-02 04:04:52 | 2014-01-06 17:00:00 |
+| contact at peersm.com                              | OVH SAS                                   | 2016-10-02 04:05:07 | 2014-01-20 15:00:00 |
+| 4626B7DA                                           | TeliaSonera Finland Oyj                   | 2016-10-02 04:05:08 | 2016-10-01 20:00:00 |
+| C0C722E0                                           | ISP Shtorm Ltd                            | 2016-10-02 04:21:02 | 2016-09-06 20:00:00 |
+| Chris <Chrshusted@yahoo.com>                       | Choopa, LLC                               | 2016-10-02 04:37:42 | 2016-08-19 02:00:00 |
+| 35497B55                                           |                                           | 2016-10-02 04:40:56 | 2016-06-04 11:00:00 |
+| slenk <tor AT slenk dot com>                       | Linode, LLC                               | 2016-10-02 04:51:57 | 2014-11-14 00:00:00 |
+| AC1456D4                                           | Vodafone Kabel Deutschland GmbH           | 2016-10-02 04:53:15 | 2013-11-13 10:00:00 |
+| EDC93818                                           | A1 Telekom Austria AG                     | 2016-10-02 05:00:38 | 2014-12-06 18:00:00 |
+| 775186A2                                           | Vodafone Kabel Deutschland GmbH           | 2016-10-02 05:03:57 | 2015-10-29 19:00:00 |
+| flack@nardmail.sn                                  | Hetzner Online GmbH                       | 2016-10-02 05:10:48 | 2016-09-26 10:00:00 |
+| hdbras@posteo.de                                   | Deutsche Telekom AG                       | 2016-10-02 05:13:40 | 2016-10-01 16:00:00 |
+| prasket a-t protonmail d-o-t com                   | Amazon.com, Inc.                          | 2016-10-02 05:14:30 | 2016-10-01 20:00:00 |
+| prasket a-t protonmail d-o-t com                   | Amazon.com, Inc.                          | 2016-10-02 05:15:04 | 2016-10-02 00:00:00 |
+| A8D856F7                                           |                                           | 2016-10-02 05:17:50 | 2014-03-11 16:00:00 |
+| GPG Fingerprint <0x969f687aed6e68eb> 6_6 <6_6 AT e | 2267921 ONTARIO LTD                       | 2016-10-02 05:18:39 | 2016-06-02 05:00:00 |
+| 03A95EEF                                           | Vodafone GmbH                             | 2016-10-02 05:19:05 | 2016-09-30 12:00:00 |
+| 4D885A7D                                           | Amazon.com, Inc.                          | 2016-10-02 05:27:50 | 2016-10-02 06:00:00 |
+| GPG Fingerprint <0x969f687aed6e68eb> 6_6 <6_6 AT e | 2267921 ONTARIO LTD                       | 2016-10-02 05:28:57 | 2016-06-02 05:00:00 |
+| 42D86F71                                           | VODAFONE ONO, S.A.                        | 2016-10-02 05:34:08 | 2016-05-14 05:00:00 |
+| 7D8CC699                                           | Time Warner Cable Internet LLC            | 2016-10-02 05:42:15 | 2016-10-02 06:00:00 |
+| prasket a-t protonmail d-o-t com                   | Microsoft Corporation                     | 2016-10-02 05:55:31 | 2016-10-02 06:00:00 |
++----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
