@@ -1,123 +1,121 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-10-20 07:00:00 |
+| 2016-10-21 06:00:00 |
 +---------------------+
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| https://www.torservers.net/donate.html <support .AT. torserv | 1.179 |         2 |      8 |        1 |       0.00 |        0.00 |      5.06 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDFgGYjQWpDjq | 1.012 |        23 |     30 |        1 |       1.42 |        1.21 |      0.00 |
-| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8fUUAL       | 0.697 |         3 |      5 |        1 |       1.05 |        0.76 |      0.00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a              | 0.629 |         5 |     18 |        1 |       0.95 |        0.68 |      0.00 |
-| niftybunny@googlemail.com                                    | 0.548 |         7 |     21 |        1 |       0.59 |        0.46 |      0.61 |
-| Torservers.net <support .AT. torservers .DOT. net>           | 0.492 |         2 |      4 |        1 |       0.00 |        0.00 |      2.11 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>            | 0.486 |         2 |      3 |        1 |       0.73 |        0.53 |      0.00 |
-| aTorRelay@gmail.com                                          | 0.430 |         3 |      6 |        1 |       0.65 |        0.47 |      0.00 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELGRVBgKHdR3o | 0.367 |         2 |      4 |        1 |       0.09 |        0.07 |      1.29 |
-| relay <!A@T?> dipulse {D;O_T} it                             | 0.355 |         3 |     11 |        1 |       0.53 |        0.38 |      0.00 |
+| https://www.torservers.net/donate.html <support .AT. torserv | 1.178 |         2 |      8 |        1 |       0.00 |        0.00 |      5.05 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDFgGYjQWpDjq | 0.975 |        23 |     30 |        1 |       1.37 |        1.17 |      0.00 |
+| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8fUUAL       | 0.745 |         3 |      5 |        1 |       1.13 |        0.81 |      0.00 |
+| niftybunny@googlemail.com                                    | 0.579 |         7 |     21 |        1 |       0.63 |        0.49 |      0.63 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a              | 0.578 |         5 |     18 |        1 |       0.87 |        0.63 |      0.00 |
+| Torservers.net <support .AT. torservers .DOT. net>           | 0.543 |         2 |      4 |        1 |       0.00 |        0.00 |      2.32 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>            | 0.513 |         2 |      3 |        1 |       0.77 |        0.56 |      0.00 |
+| aTorRelay@gmail.com                                          | 0.443 |         3 |      6 |        1 |       0.67 |        0.48 |      0.00 |
+| relay <!A@T?> dipulse {D;O_T} it                             | 0.417 |         3 |     11 |        1 |       0.63 |        0.45 |      0.00 |
+| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELGRVBgKHdR3o | 0.358 |         2 |      4 |        1 |       0.09 |        0.06 |      1.26 |
 | <zwiebeln at online de>                                      | 0.353 |         8 |     19 |        1 |       0.00 |        0.00 |      1.51 |
-| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.329 |         2 |     13 |        1 |       0.00 |        0.33 |      0.85 |
-| relays [at] riseup.net                                       | 0.300 |         3 |      3 |        1 |       0.45 |        0.32 |      0.00 |
-| tor terjan net                                               | 0.293 |         7 |      7 |        5 |       0.44 |        0.32 |      0.00 |
-| Knight <knight AT germancraft DOT net> - 1FtUVig2YfcaVcV8Umd | 0.262 |         3 |      3 |        1 |       0.37 |        0.31 |      0.00 |
-| whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ4pTzQw6Wyp | 0.199 |         6 |      7 |        1 |       0.05 |        0.46 |      0.00 |
-| security [AT] torworld.org - 17iwdtpmgHdPt15twdT2sUcdeKgz9PT | 0.185 |         5 |      8 |        1 |       0.27 |        0.20 |      0.00 |
-| TNinja <abuse-team _at_ tor _dot_ ninja>                     | 0.184 |         4 |      4 |        3 |       0.00 |        0.00 |      0.79 |
-| dev.null@kryptonit.org - 1AjBZw8ExjkWgh7Y5s9mLX4UXHadzPfKQu  | 0.165 |         2 |      4 |        1 |       0.25 |        0.17 |      0.00 |
-| admin@outfall.net - 16fVbbjyNJcYAtNJzoi43EDQ4Jb1YDkGrH       | 0.155 |         3 |      3 |        1 |       0.00 |        0.00 |      0.66 |
-| George Shuklin <george.shuklin@gmail.com>                    | 0.148 |         2 |      2 |        1 |       0.21 |        0.15 |      0.01 |
-| tor.noisebridge.net <admin@tor.noisebridge.net>              | 0.148 |         2 |      5 |        1 |       0.01 |        0.01 |      0.59 |
-| Pascal666 at Users dot SourceForge dot Net - 1EYFAi9UUJVLPoh | 0.147 |         3 |     10 |        1 |       0.22 |        0.16 |      0.00 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL}  | 0.132 |         7 |      7 |        1 |       0.18 |        0.16 |      0.00 |
-| hiwi  <hiwi AT nurfuerspam dot de>                           | 0.124 |         4 |      4 |        1 |       0.18 |        0.13 |      0.00 |
-| Viktor <vnikolov AT vnikolov dot cz>                         | 0.115 |         3 |      3 |        1 |       0.06 |        0.04 |      0.30 |
-| info@niftybunny.de                                           | 0.092 |         3 |      3 |        1 |       0.00 |        0.00 |      0.39 |
-| 0x95827E15 19aabf5615c850dd6562 <t o r A_T titeica d_o_t ro> | 0.079 |         3 |      3 |        2 |       0.08 |        0.11 |      0.00 |
-| Info Partito Pirata <info AT partito-pirata dot it>          | 0.074 |         2 |      2 |        1 |       0.11 |        0.08 |      0.00 |
-| box@clusterfuck.space                                        | 0.070 |         2 |      2 |        1 |       0.10 |        0.07 |      0.00 |
+| relays [at] riseup.net                                       | 0.305 |         3 |      3 |        1 |       0.46 |        0.33 |      0.00 |
+| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.281 |         2 |     13 |        1 |       0.00 |        0.25 |      0.78 |
+| tor terjan net                                               | 0.229 |         6 |      6 |        5 |       0.34 |        0.25 |      0.00 |
+| whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ4pTzQw6Wyp | 0.202 |         6 |      7 |        1 |       0.05 |        0.47 |      0.00 |
+| TNinja <abuse-team _at_ tor _dot_ ninja>                     | 0.191 |         4 |      4 |        3 |       0.00 |        0.00 |      0.82 |
+| security [AT] torworld.org - 17iwdtpmgHdPt15twdT2sUcdeKgz9PT | 0.189 |         5 |      8 |        1 |       0.28 |        0.20 |      0.00 |
+| admin@outfall.net - 16fVbbjyNJcYAtNJzoi43EDQ4Jb1YDkGrH       | 0.163 |         3 |      3 |        1 |       0.00 |        0.00 |      0.70 |
+| dev.null@kryptonit.org - 1AjBZw8ExjkWgh7Y5s9mLX4UXHadzPfKQu  | 0.162 |         2 |      4 |        1 |       0.24 |        0.17 |      0.00 |
+| Pascal666 at Users dot SourceForge dot Net - 1EYFAi9UUJVLPoh | 0.153 |         3 |     10 |        1 |       0.23 |        0.16 |      0.00 |
+| tor.noisebridge.net <admin@tor.noisebridge.net>              | 0.150 |         2 |      5 |        1 |       0.01 |        0.01 |      0.60 |
+| George Shuklin <george.shuklin@gmail.com>                    | 0.147 |         2 |      2 |        1 |       0.21 |        0.15 |      0.01 |
+| hiwi  <hiwi AT nurfuerspam dot de>                           | 0.125 |         4 |      4 |        1 |       0.18 |        0.13 |      0.00 |
+| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL}  | 0.119 |         7 |      7 |        1 |       0.15 |        0.15 |      0.00 |
+| Viktor <vnikolov AT vnikolov dot cz>                         | 0.116 |         3 |      3 |        1 |       0.06 |        0.05 |      0.30 |
+| info@niftybunny.de                                           | 0.093 |         4 |      5 |        1 |       0.00 |        0.00 |      0.40 |
+| Info Partito Pirata <info AT partito-pirata dot it>          | 0.085 |         2 |      2 |        1 |       0.12 |        0.09 |      0.00 |
+| 0x95827E15 19aabf5615c850dd6562 <t o r A_T titeica d_o_t ro> | 0.084 |         3 |      3 |        2 |       0.09 |        0.12 |      0.00 |
+| 0x83288189 Casper <fantom AT fedoraproject dot org>          | 0.071 |         3 |      3 |        1 |       0.10 |        0.07 |      0.00 |
+| Vargr <vargr AT protonmail dot com>                          | 0.071 |         2 |      2 |        1 |       0.10 |        0.08 |      0.00 |
+| Alexander Faeroey <ahf@0x90.dk> (PGP: 0xF9BC2FE22B08CE8F)    | 0.070 |         2 |      2 |        1 |       0.10 |        0.07 |      0.00 |
+| 0xB9A02A3D Pavol Rusnak <stick+tor@gk2.sk>                   | 0.070 |         2 |      2 |        1 |       0.09 |        0.08 |      0.00 |
 | <hostmaster at denetron dot com>                             | 0.070 |         2 |      3 |        1 |       0.01 |        0.00 |      0.26 |
-| Vargr <vargr AT protonmail dot com>                          | 0.069 |         2 |      2 |        1 |       0.10 |        0.08 |      0.00 |
+| technik@piraten-nds.de                                       | 0.070 |         2 |      2 |        1 |       0.00 |        0.00 |      0.30 |
 | anonymous0 anonymous@mail.com                                | 0.067 |         2 |      2 |        1 |       0.09 |        0.08 |      0.00 |
-| Alexander Faeroey <ahf@0x90.dk> (PGP: 0xF9BC2FE22B08CE8F)    | 0.067 |         2 |      2 |        1 |       0.10 |        0.07 |      0.00 |
-| 0x83288189 Casper <fantom AT fedoraproject dot org>          | 0.066 |         3 |      3 |        1 |       0.10 |        0.07 |      0.00 |
-| Anonymous                                                    | 0.066 |         8 |      8 |        1 |       0.06 |        0.10 |      0.00 |
-| technik@piraten-nds.de                                       | 0.066 |         2 |      2 |        1 |       0.00 |        0.00 |      0.28 |
-| 0x88888888 Ole Tange <ole@tange.dk>                          | 0.064 |         2 |      3 |        1 |       0.09 |        0.07 |      0.00 |
-| Nocturnal Filth <NocturnalFilth AT Protonmail dot com>       | 0.063 |         2 |      2 |        1 |       0.08 |        0.07 |      0.00 |
+| Anonymous                                                    | 0.067 |         8 |      8 |        1 |       0.07 |        0.10 |      0.00 |
+| 0x88888888 Ole Tange <ole@tange.dk>                          | 0.065 |         2 |      3 |        1 |       0.09 |        0.07 |      0.00 |
 | Romain <tor AT uncornichon dot net>                          | 0.063 |         2 |      2 |        1 |       0.09 |        0.06 |      0.00 |
-| Random Person <spam AT eddie4 dot nl>                        | 0.061 |         2 |      2 |        1 |       0.09 |        0.06 |      0.00 |
-| Random Person <tor@bitcrux.com> - 15NNgZBXkWm8TBK85YkJfcz8R9 | 0.059 |         2 |      3 |        2 |       0.04 |        0.10 |      0.00 |
-| 0x1D921BF9 <tor-node-operations AT mesanova DOT com>         | 0.059 |         2 |      3 |        1 |       0.09 |        0.06 |      0.00 |
-| nahlidgeone@gmail.com                                        | 0.053 |         2 |      2 |        1 |       0.08 |        0.05 |      0.00 |
-| linuxthefish <me @ linuxthefish . net>                       | 0.052 |         2 |      2 |        1 |       0.07 |        0.05 |      0.00 |
-| toxiroxi AT gmail dot com - 1Ck5DrTBVJj2GMJzij6Hc8eiFDVWFAyG | 0.045 |         2 |      2 |        1 |       0.06 |        0.05 |      0.00 |
+| Nocturnal Filth <NocturnalFilth AT Protonmail dot com>       | 0.063 |         2 |      2 |        1 |       0.08 |        0.07 |      0.00 |
+| @kosjoli                                                     | 0.059 |         3 |      3 |        1 |       0.09 |        0.06 |      0.00 |
+| Random Person <tor@bitcrux.com> - 15NNgZBXkWm8TBK85YkJfcz8R9 | 0.059 |         2 |      3 |        2 |       0.05 |        0.10 |      0.00 |
+| ssoft A T ukrpost net                                        | 0.059 |         2 |      2 |        1 |       0.00 |        0.00 |      0.24 |
+| 0x1D921BF9 <tor-node-operations AT mesanova DOT com>         | 0.058 |         2 |      3 |        1 |       0.08 |        0.06 |      0.00 |
+| box@clusterfuck.space                                        | 0.057 |         2 |      2 |        1 |       0.08 |        0.06 |      0.00 |
+| linuxthefish <me @ linuxthefish . net>                       | 0.054 |         2 |      2 |        1 |       0.08 |        0.05 |      0.00 |
+| toxiroxi AT gmail dot com - 1Ck5DrTBVJj2GMJzij6Hc8eiFDVWFAyG | 0.051 |         2 |      2 |        1 |       0.07 |        0.05 |      0.00 |
+| julian.suschlik@gmail.com                                    | 0.049 |         2 |      2 |        1 |       0.07 |        0.05 |      0.00 |
+| nahlidgeone@gmail.com                                        | 0.048 |         2 |      2 |        1 |       0.07 |        0.05 |      0.00 |
 | guido@dis.tur.bio - 1LbmY2D6VhSvTCs3yYr3v5jsRQgHQU4Egy       | 0.045 |         2 |      3 |        1 |       0.03 |        0.08 |      0.00 |
-| ssoft A T ukrpost net                                        | 0.044 |         2 |      2 |        1 |       0.00 |        0.00 |      0.17 |
-| Bob 1BSy7jFHbqL5MpttVFgwvM4JKqrxQTXSmK                       | 0.044 |         3 |      6 |        1 |       0.06 |        0.05 |      0.00 |
-| julian.suschlik@gmail.com                                    | 0.044 |         2 |      2 |        1 |       0.06 |        0.04 |      0.00 |
-| william@william.si                                           | 0.043 |         4 |      5 |        1 |       0.05 |        0.05 |      0.00 |
 | Dave Null <dave@null.net>                                    | 0.042 |         2 |      2 |        1 |       0.06 |        0.04 |      0.00 |
-| @kosjoli                                                     | 0.040 |         3 |      3 |        1 |       0.06 |        0.04 |      0.00 |
-| <tornoc AT vorlons DOT info>                                 | 0.039 |         2 |      2 |        1 |       0.06 |        0.04 |      0.00 |
-| 1024D/1DFBA164 Bernhard M. Wiedemann <torbmw3 lsmod.de>      | 0.038 |         2 |      2 |        1 |       0.05 |        0.04 |      0.00 |
-| Riseup Networks <collective at riseup dot net> - 1nNzekuHGGz | 0.037 |         2 |      3 |        1 |       0.00 |        0.00 |      0.16 |
-| torrelays A-T cyb3rwr3ck D-O-T net                           | 0.032 |         2 |      2 |        1 |       0.04 |        0.03 |      0.00 |
-| w@william.si                                                 | 0.031 |         2 |      4 |        1 |       0.04 |        0.03 |      0.00 |
-| your name <your@email>                                       | 0.029 |         2 |      2 |        1 |       0.04 |        0.03 |      0.00 |
-| anders.io                                                    | 0.029 |         3 |      3 |        1 |       0.00 |        0.07 |      0.00 |
-| admin@hiddenservice.net - 1Cz1Atm4qotzyVShYzisrxQwVQxTEzLfye | 0.025 |         2 |      2 |        1 |       0.00 |        0.00 |      0.10 |
-| None Provided <nobody AT inter dot net>                      | 0.025 |         2 |      2 |        1 |       0.03 |        0.02 |      0.00 |
-| kbesig@socal.rr.com                                          | 0.024 |         2 |      2 |        1 |       0.03 |        0.02 |      0.00 |
-| EF201A39 <nat@makarevitch.org>                               | 0.023 |         2 |      2 |        1 |       0.03 |        0.02 |      0.00 |
+| william@william.si                                           | 0.042 |         4 |      5 |        1 |       0.06 |        0.04 |      0.00 |
+| Bob 1BSy7jFHbqL5MpttVFgwvM4JKqrxQTXSmK                       | 0.041 |         3 |      6 |        1 |       0.06 |        0.04 |      0.00 |
+| 1024D/1DFBA164 Bernhard M. Wiedemann <torbmw3 lsmod.de>      | 0.040 |         2 |      2 |        1 |       0.06 |        0.04 |      0.00 |
+| <tornoc AT vorlons DOT info>                                 | 0.037 |         2 |      2 |        1 |       0.05 |        0.04 |      0.00 |
+| EF201A39 <nat@makarevitch.org>                               | 0.037 |         2 |      2 |        1 |       0.05 |        0.04 |      0.00 |
+| Riseup Networks <collective at riseup dot net> - 1nNzekuHGGz | 0.037 |         2 |      3 |        1 |       0.00 |        0.00 |      0.15 |
+| torrelays A-T cyb3rwr3ck D-O-T net                           | 0.033 |         2 |      2 |        1 |       0.04 |        0.03 |      0.00 |
+| w@william.si                                                 | 0.032 |         2 |      4 |        1 |       0.04 |        0.03 |      0.00 |
+| anders.io                                                    | 0.030 |         3 |      3 |        1 |       0.00 |        0.07 |      0.00 |
+| kbesig@socal.rr.com                                          | 0.025 |         2 |      2 |        1 |       0.03 |        0.02 |      0.00 |
+| admin@hiddenservice.net - 1Cz1Atm4qotzyVShYzisrxQwVQxTEzLfye | 0.024 |         2 |      2 |        1 |       0.00 |        0.00 |      0.10 |
 | c.groitl AT mail DOT de                                      | 0.023 |         2 |      2 |        1 |       0.03 |        0.02 |      0.00 |
-| anonymous@ubuntu-tor-simply-setup.script.by.PeterDaveHello   | 0.023 |         5 |      8 |        1 |       0.01 |        0.04 |      0.00 |
-| NULL                                                         | 0.020 |         3 |      3 |        1 |       0.02 |        0.03 |      0.00 |
-| dd408090@gmail.com                                           | 0.020 |         2 |      5 |        1 |       0.00 |        0.00 |      0.07 |
-| 0xFFFFFFFF                                                   | 0.019 |         3 |      3 |        1 |       0.02 |        0.02 |      0.00 |
-| mr.mastie@gmx.de                                             | 0.018 |         2 |      2 |        1 |       0.02 |        0.02 |      0.00 |
-| anon                                                         | 0.017 |         2 |      2 |        1 |       0.02 |        0.01 |      0.00 |
-| Brandon Kuschel <kusch023 AT NOSPAM umn dot edu>             | 0.016 |         2 |      3 |        2 |       0.00 |        0.00 |      0.04 |
-| oyvinds@everdot.org                                          | 0.015 |         2 |      2 |        1 |       0.02 |        0.01 |      0.00 |
-| Jelle Jansen <tormail@gigawebs.net>                          | 0.015 |         2 |      2 |        1 |       0.00 |        0.03 |      0.00 |
-| Undefined                                                    | 0.014 |         3 |      3 |        1 |       0.01 |        0.02 |      0.00 |
-| 1359R1zRGXYKe7UA13wStnekTDzXVhoiMP <tor AT ionsecurity DOT e | 0.014 |         3 |      3 |        1 |       0.01 |        0.02 |      0.00 |
-| Taylor Hornby <havoc AT defuse dot ca>                       | 0.011 |         2 |      2 |        1 |       0.01 |        0.01 |      0.00 |
+| anonymous@ubuntu-tor-simply-setup.script.by.PeterDaveHello   | 0.022 |         5 |      9 |        1 |       0.01 |        0.04 |      0.00 |
+| dd408090@gmail.com                                           | 0.021 |         2 |      5 |        1 |       0.00 |        0.00 |      0.07 |
+| NULL                                                         | 0.021 |         3 |      3 |        1 |       0.02 |        0.03 |      0.00 |
+| 0xFFFFFFFF                                                   | 0.020 |         3 |      3 |        1 |       0.02 |        0.02 |      0.00 |
+| None Provided <nobody AT inter dot net>                      | 0.019 |         2 |      2 |        1 |       0.02 |        0.02 |      0.00 |
+| anon                                                         | 0.017 |         2 |      2 |        1 |       0.01 |        0.02 |      0.00 |
+| Brandon Kuschel <kusch023 AT NOSPAM umn dot edu>             | 0.017 |         2 |      3 |        2 |       0.00 |        0.00 |      0.05 |
+| Jelle Jansen <tormail@gigawebs.net>                          | 0.016 |         2 |      2 |        1 |       0.00 |        0.03 |      0.00 |
+| mr.mastie@gmx.de                                             | 0.016 |         2 |      2 |        1 |       0.02 |        0.02 |      0.00 |
+| 1359R1zRGXYKe7UA13wStnekTDzXVhoiMP <tor AT ionsecurity DOT e | 0.015 |         3 |      3 |        1 |       0.01 |        0.02 |      0.00 |
+| undefined                                                    | 0.014 |         3 |      3 |        1 |       0.01 |        0.02 |      0.00 |
+| oyvinds@everdot.org                                          | 0.013 |         2 |      2 |        1 |       0.02 |        0.01 |      0.00 |
+| Taylor Hornby <havoc AT defuse dot ca>                       | 0.012 |         2 |      2 |        1 |       0.01 |        0.01 |      0.00 |
+| Tor Admin <admin@darklord.space>                             | 0.012 |         2 |      2 |        1 |       0.00 |        0.03 |      0.00 |
+| IHG <ihg AT openmailbox dot org>                             | 0.010 |         2 |      3 |        1 |       0.00 |        0.00 |      0.01 |
+| Eugene K. <keg.85@ya.ru>                                     | 0.010 |         2 |      2 |        1 |       0.01 |        0.01 |      0.00 |
 | Cesar de Tassis Filho <ctassisf AT gmail DOT com>            | 0.010 |         4 |      4 |        1 |       0.00 |        0.02 |      0.00 |
 | Tor_at_Oxyl <tor AT oxyl DOT net> - Bitcoin 1QJMNydQ2bTpn4EB | 0.010 |         2 |      2 |        1 |       0.00 |        0.00 |      0.04 |
-| Eugene K. <keg.85@ya.ru>                                     | 0.010 |         2 |      2 |        1 |       0.01 |        0.01 |      0.00 |
-| TorNode <tornode AT parkbenchindustries dot com> - 1Pjwyggxc | 0.010 |         2 |      2 |        1 |       0.01 |        0.01 |      0.00 |
-| IHG <ihg AT openmailbox dot org>                             | 0.009 |         2 |      3 |        1 |       0.00 |        0.01 |      0.01 |
-| nikola@henezi.com                                            | 0.009 |         2 |      2 |        1 |       0.00 |        0.02 |      0.00 |
-| 0x76134723763ea32e Chris Rorvick <chris.rorvick@gmail.com>   | 0.009 |         4 |      4 |        1 |       0.00 |        0.02 |      0.00 |
-| DFRI <rpitor AT dfri dot se>                                 | 0.008 |         4 |      5 |        1 |       0.00 |        0.02 |      0.00 |
-| Random Person tor@leenux.de                                  | 0.007 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| nikola@henezi.com                                            | 0.008 |         2 |      2 |        1 |       0.00 |        0.02 |      0.00 |
+| 0x76134723763ea32e Chris Rorvick <chris.rorvick@gmail.com>   | 0.008 |         4 |      4 |        1 |       0.00 |        0.02 |      0.00 |
 | tsjk@hotmail.com                                             | 0.007 |         2 |      2 |        1 |       0.00 |        0.01 |      0.00 |
-| 0xADC40A5B Florian Ruechel <tor-relay A-T inexplicity D-O-T  | 0.007 |         2 |      2 |        1 |       0.01 |        0.00 |      0.00 |
-| cstdenis <cstdenis AT ctgameinfo dot com>                    | 0.007 |         5 |      5 |        1 |       0.00 |        0.02 |      0.00 |
-| 0xF57091DBD60FBBB8 Kyle Amon <amonk@backwatcher.com> - 1DDN7 | 0.006 |         3 |      6 |        1 |       0.00 |        0.00 |      0.01 |
+| cstdenis <cstdenis AT ctgameinfo dot com>                    | 0.007 |         5 |      5 |        1 |       0.00 |        0.01 |      0.00 |
+| DFRI <rpitor AT dfri dot se>                                 | 0.006 |         3 |      4 |        1 |       0.00 |        0.01 |      0.00 |
+| 0xADC40A5B Florian Ruechel <tor-relay A-T inexplicity D-O-T  | 0.006 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| IThinkIWasBuiltAutomatically                                 | 0.006 |         2 |      3 |        1 |       0.00 |        0.01 |      0.00 |
 | 5C76DAB2 David Zaslavsky <diazona@ellipsix.net>              | 0.006 |         3 |      3 |        1 |       0.00 |        0.01 |      0.00 |
-| Tor Admin <admin@darklord.space>                             | 0.006 |         2 |      2 |        1 |       0.00 |        0.01 |      0.00 |
+| Admin <good DOT onion AT bitmessage DOT ch>                  | 0.005 |         2 |      2 |        1 |       0.00 |        0.01 |      0.00 |
+| 0xF57091DBD60FBBB8 Kyle Amon <amonk@backwatcher.com> - 1DDN7 | 0.005 |         3 |      6 |        1 |       0.00 |        0.00 |      0.00 |
 | fb_at_ zitlo_dot_ de - 1EgoeZNRRbzN3YQhxX1kcAny5unRypWtn3    | 0.005 |         2 |      2 |        1 |       0.00 |        0.01 |      0.00 |
-| IThinkIWasBuiltAutomatically                                 | 0.005 |         2 |      3 |        1 |       0.00 |        0.01 |      0.00 |
-| volker DOT mink AT protonmail DOT ch                         | 0.004 |         2 |      2 |        1 |       0.00 |        0.00 |      0.01 |
-| Admin <good DOT onion AT bitmessage DOT ch>                  | 0.004 |         2 |      2 |        1 |       0.00 |        0.01 |      0.00 |
-| Stanislav M                                                  | 0.004 |         3 |      3 |        1 |       0.00 |        0.00 |      0.01 |
+| netbackup(dot)gs(at)gmail(dot)com                            | 0.004 |         3 |      4 |        1 |       0.00 |        0.01 |      0.00 |
+| volker DOT mink AT protonmail DOT ch                         | 0.004 |         2 |      2 |        1 |       0.00 |        0.00 |      0.02 |
+| Fabian Bakkum <fabianbakkum@hotmail.com>                     | 0.004 |         2 |      2 |        1 |       0.00 |        0.00 |      0.01 |
 | <tor@nddn.net> GPG: 0x6EA0B435BE699F8E                       | 0.004 |         3 |      3 |        1 |       0.00 |        0.01 |      0.00 |
-| netbackup(dot)gs(at)gmail(dot)com                            | 0.003 |         3 |      4 |        1 |       0.00 |        0.00 |      0.00 |
-| 2048R/FF16F895 Paul Tobias <tobias.pal@gmail.com> - 16FkTZxU | 0.003 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| Scott Maxwell tor-contact-2015 (at) scottmaxwell (dot) org   | 0.003 |         2 |      2 |        1 |       0.00 |        0.01 |      0.00 |
 | 0xF15584AC RenderMan <render@renderlab.net>                  | 0.003 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| Scott Maxwell tor-contact-2015 (at) scottmaxwell (dot) org   | 0.002 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| info@erawanarifnugroho.com - 18LxEvBNdR81P7AL7YVdisrW9xpiEwr | 0.002 |         3 |      3 |        1 |       0.00 |        0.00 |      0.00 |
+| 2048R/FF16F895 Paul Tobias <tobias.pal@gmail.com> - 16FkTZxU | 0.003 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
 | General Zod <zod@kdf.mil>                                    | 0.002 |         4 |      4 |        2 |       0.00 |        0.00 |      0.00 |
 | 8b491ce8bee663eafed1                                         | 0.002 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| bofh AT cottonio DOT no-ip DOT org                           | 0.002 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| Random Person <tor AT uums dot net>                          | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| Random Person <nobody@example.com>                           | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| punkt12 AT 5x to                                             | 0.002 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| info@erawanarifnugroho.com - 18LxEvBNdR81P7AL7YVdisrW9xpiEwr | 0.002 |         3 |      3 |        1 |       0.00 |        0.00 |      0.00 |
+| human@definitelynotadolphin.com                              | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| Captain Pugwash <simon dot detheridge thingy g mail dot com> | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| Bunnie <tor[AT]bunnix[DOT]net>                               | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| James Tatum <jtatum AT gmail dot com>                        | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| 0x437BFAE5 Joerg Morbitzer <jomo@morbitzer.de>               | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
 | David <huertanix@nycresistor.com>                            | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
 | raspitor@habmalnefrage.de                                    | 0.001 |         4 |      4 |        1 |       0.00 |        0.00 |      0.00 |
-| 0x437BFAE5 Joerg Morbitzer <jomo@morbitzer.de>               | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| human@definitelynotadolphin.com                              | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| punkt12 AT 5x to                                             | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
-| James Tatum <jtatum AT gmail dot com>                        | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| bofh AT cottonio DOT no-ip DOT org                           | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| Random Person <tor AT uums dot net>                          | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
+| Random Person <nobody@example.com>                           | 0.001 |         2 |      2 |        1 |       0.00 |        0.00 |      0.00 |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
