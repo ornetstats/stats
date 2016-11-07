@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-11-06 07:00:00 |
+| 2016-11-07 07:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
 | contact or fingerprint                             | cw-fraction | guard_p | exit_p | ASes | countries | /16blocks | relays |
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |        0.61 |   0.951 |  0.000 |    3 |         2 |         4 |      5 |
-| DFRI <tor AT dfri dot se> - 1Muz37TfXVBiJKRJkAqTNo |        0.26 |   0.000 |  1.058 |    1 |         1 |         1 |      3 |
-| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |        0.25 |   0.381 |  0.000 |    2 |         2 |         2 |      4 |
-| Felix <zwiebel ta quantentunnel tod de>            |        0.21 |   0.318 |  0.000 |    2 |         1 |         2 |      7 |
-| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |        0.20 |   0.325 |  0.000 |    1 |         1 |         1 |      3 |
-| C804BE8F                                           |        0.20 |   0.311 |  0.000 |    1 |         1 |         1 |      1 |
-| twinpokes AT protonmail.com                        |        0.19 |   0.300 |  0.000 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.18 |   0.286 |  0.000 |    1 |         1 |         1 |      1 |
-| BrassHornComms <hello@brasshorncommunications.uk>  |        0.14 |   0.000 |  0.566 |    1 |         1 |         1 |      3 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.14 |   0.232 |  0.000 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.13 |   0.209 |  0.000 |    1 |         1 |         1 |      1 |
-| starfleet --at-- trash ..dot.. net                 |        0.12 |   0.196 |  0.000 |    2 |         2 |         2 |      4 |
-| random.sh <root@random.sh>                         |        0.11 |   0.183 |  0.000 |    2 |         1 |         2 |      2 |
-| IT <tor AT informatik dot uni-bremen dot de>       |        0.11 |   0.176 |  0.000 |    1 |         1 |         1 |      1 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |        0.09 |   0.000 |  0.401 |    1 |         1 |         1 |      1 |
-| 5158B6A3                                           |        0.08 |   0.138 |  0.000 |    2 |         2 |         2 |      2 |
-| no_one_cares <interrupted81 AT gmail dot com>      |        0.08 |   0.135 |  0.000 |    1 |         1 |         1 |      1 |
-| 0xCD483B330F8A5F4F - support [AT] sigaint [DOT] or |        0.08 |   0.127 |  0.000 |    1 |         1 |         2 |      4 |
-| tor@arkel.fr                                       |        0.07 |   0.123 |  0.000 |    1 |         1 |         1 |      1 |
-| cubox at irc.freenode.org                          |        0.07 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
-| KeFF NOC <noc@keff.org>                            |        0.07 |   0.000 |  0.292 |    1 |         1 |         1 |      1 |
-| monitor0penmailbox0rg                              |        0.06 |   0.097 |  0.000 |    2 |         2 |         2 |      2 |
-| julian@0x4a42.net - GPG: ADC52C2BFEA6DA4459045D702 |        0.06 |   0.098 |  0.000 |    1 |         1 |         1 |      1 |
-| mikaelONmurfOFFse                                  |        0.06 |   0.000 |  0.263 |    1 |         1 |         1 |      1 |
-| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |        0.05 |   0.083 |  0.000 |    1 |         1 |         1 |      1 |
-| julian.suschlik@gmail.com                          |        0.05 |   0.080 |  0.000 |    1 |         1 |         1 |      1 |
-| 4096R/0349ED21 Daniel Llewellyn <daniel AT bowlhat |        0.05 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
-| FF75CBC0                                           |        0.05 |   0.088 |  0.000 |    1 |         1 |         1 |      1 |
-| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNv |        0.04 |   0.028 |  0.113 |    4 |         2 |         4 |      4 |
-| argenla <failure .AT. openmailbox .DOT. org>       |        0.04 |   0.000 |  0.171 |    1 |         1 |         1 |      1 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |        0.56 |   0.882 |  0.000 |    3 |         2 |         4 |      5 |
+| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |        0.25 |   0.402 |  0.000 |    2 |         2 |         2 |      3 |
+| Felix <zwiebel ta quantentunnel tod de>            |        0.22 |   0.346 |  0.000 |    2 |         1 |         2 |      7 |
+| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |        0.21 |   0.337 |  0.000 |    1 |         1 |         1 |      3 |
+| C804BE8F                                           |        0.20 |   0.310 |  0.000 |    1 |         1 |         1 |      1 |
+| DFRI <tor AT dfri dot se> - 1Muz37TfXVBiJKRJkAqTNo |        0.19 |   0.000 |  0.808 |    1 |         1 |         1 |      5 |
+| twinpokes AT protonmail.com                        |        0.18 |   0.286 |  0.000 |    1 |         1 |         1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.16 |   0.262 |  0.000 |    1 |         1 |         1 |      1 |
+| IT <tor AT informatik dot uni-bremen dot de>       |        0.14 |   0.221 |  0.000 |    1 |         1 |         1 |      1 |
+| random.sh <root@random.sh>                         |        0.13 |   0.203 |  0.000 |    2 |         1 |         2 |      2 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.13 |   0.201 |  0.000 |    1 |         1 |         1 |      1 |
+| BrassHornComms <hello@brasshorncommunications.uk>  |        0.12 |   0.000 |  0.538 |    1 |         1 |         1 |      3 |
+| starfleet --at-- trash ..dot.. net                 |        0.12 |   0.189 |  0.000 |    2 |         2 |         2 |      4 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.12 |   0.189 |  0.000 |    1 |         1 |         1 |      1 |
+| 5158B6A3                                           |        0.11 |   0.182 |  0.000 |    2 |         2 |         2 |      2 |
+| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |        0.11 |   0.000 |  0.473 |    1 |         1 |         1 |      1 |
+| no_one_cares <interrupted81 AT gmail dot com>      |        0.10 |   0.169 |  0.000 |    1 |         1 |         1 |      1 |
+| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |        0.10 |   0.163 |  0.000 |    1 |         1 |         1 |      1 |
+| 4096R/0349ED21 Daniel Llewellyn <daniel AT bowlhat |        0.08 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
+| tor@arkel.fr                                       |        0.07 |   0.110 |  0.000 |    1 |         1 |         1 |      1 |
+| julian@0x4a42.net - GPG: ADC52C2BFEA6DA4459045D702 |        0.07 |   0.112 |  0.000 |    1 |         1 |         1 |      1 |
+| 0xCD483B330F8A5F4F - support [AT] sigaint [DOT] or |        0.07 |   0.120 |  0.000 |    1 |         1 |         2 |      4 |
+| monitor0penmailbox0rg                              |        0.06 |   0.095 |  0.000 |    2 |         2 |         2 |      2 |
+| cubox at irc.freenode.org                          |        0.06 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
+| KeFF NOC <noc@keff.org>                            |        0.06 |   0.000 |  0.276 |    1 |         1 |         1 |      1 |
+| mikaelONmurfOFFse                                  |        0.06 |   0.000 |  0.284 |    1 |         1 |         1 |      1 |
+| Yaga <tor [SPAMfree at] yaga [spamtrap dot] eu>    |        0.05 |   0.081 |  0.000 |    1 |         1 |         1 |      1 |
+| 0xBE6B3636 walafc0 <tor AT walafc0 dot orgy minus  |        0.04 |   0.064 |  0.000 |    1 |         1 |         1 |      1 |
+| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNv |        0.04 |   0.031 |  0.108 |    4 |         2 |         4 |      4 |
+| argenla <failure .AT. openmailbox .DOT. org>       |        0.04 |   0.000 |  0.181 |    1 |         1 |         1 |      1 |
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
