@@ -1,6 +1,6 @@
 # OrNetStats
 
-OrNetStats uses [onionoo.torproject.org](https://onioo.torproject.org) data to generate statistics.
+OrNetStats uses [onionoo.torproject.org](https://onionoo.torproject.org) data to generate statistics.
 Statistics are generated on a daily basis.
 For autonomous system and country stats you can use [compass.torproject.org](https://compass.torproject.org)
 
@@ -14,7 +14,7 @@ Relays are aggregated based on effective families. Effective families are relays
 * [Main non-Linux Operators](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_non_linux_operators.txt)
 
 * [Potentially dangerous groups](https://raw.githubusercontent.com/ornetstats/stats/master/o/potentially_dangerous_relaygroups.txt)
-  * "dangerous" in the sense that a tor client might has a chance to use more than one of these relays in a single circuit
+  * "dangerous" in the sense that a tor client might has a chance to use more than one of these relays in a single circuit at the entry and exit position
   * these relays are aggregated based on contact information
   * if their groupsize is bigger than their effective family size and they are operated in more than one /16 network block they are listed
   * this list might contain false-positives (contact information is not authenticated)
