@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-11-15 18:00:00 |
+| 2016-11-16 07:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
 | contact or fingerprint                             | middle_prob | cw-fraction | exit_prob | guard_prob | ASes | countries | /16 netblocks | relaycount |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
-| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.0 |        0.90 |       0.0 |        1.3 |    1 |         1 |             1 |          3 |
-| gmail is teor2345 | http://tor-relays.net | PGP C8 |         0.9 |        0.90 |       0.2 |        1.2 |    6 |         3 |             8 |         20 |
-| 34F366F9                                           |         0.9 |        0.85 |       0.0 |        1.2 |    1 |         1 |             1 |          8 |
-| monitor0penmailbox0rg                              |         0.8 |        0.80 |       0.0 |        1.2 |    3 |         2 |             4 |         30 |
+| gmail is teor2345 | http://tor-relays.net | PGP C8 |         1.0 |        1.00 |       0.2 |        1.4 |    6 |         3 |             8 |         20 |
+| 91A32B95                                           |         0.9 |        0.85 |       0.0 |        1.3 |    1 |         1 |             1 |          8 |
+| Gijs Rijnders (tor AT ip-eend DOT nl)              |         0.9 |        0.89 |       0.0 |        1.3 |    1 |         1 |             1 |          3 |
+| monitor0penmailbox0rg                              |         0.8 |        0.78 |       0.0 |        1.1 |    3 |         2 |             4 |         30 |
 | tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |         0.8 |        0.75 |       0.0 |        1.1 |    3 |         3 |             3 |          5 |
-| GTor <contact _AT_ gtor _DOT_ org>                 |         0.7 |        0.69 |       0.0 |        1.0 |    4 |         3 |             4 |         13 |
-| Boris Nagaev 19pZzECKDDMbSpaWEy8vGvELEfXM8GrkHS <b |         0.6 |        0.54 |       0.0 |        0.8 |    2 |         2 |             2 |          3 |
-| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.6 |        0.54 |       0.0 |        0.8 |    3 |         3 |             4 |          6 |
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.6 |        0.59 |       0.0 |        0.9 |    3 |         2 |             4 |          5 |
-| 500FE4D6                                           |         0.6 |        0.23 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| abuse@to-surf-and-protect.net                      |         0.5 |        1.00 |       1.9 |        0.8 |    6 |         5 |             8 |         24 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |         0.5 |        0.34 |       0.2 |        0.1 |    1 |         1 |             1 |          3 |
-| tor terjan net                                     |         0.4 |        0.32 |       0.0 |        0.4 |    7 |         5 |             9 |          9 |
-| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |         0.4 |        0.27 |       0.0 |        0.2 |    3 |         3 |             3 |          4 |
-| tor[at]fiberoverethernet[dot]com                   |         0.4 |        0.36 |       0.0 |        0.5 |    6 |         6 |             6 |          6 |
+| GTor <contact _AT_ gtor _DOT_ org>                 |         0.7 |        0.67 |       0.0 |        1.0 |    4 |         3 |             4 |         13 |
+| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXE |         0.6 |        0.56 |       0.0 |        0.8 |    3 |         3 |             4 |          6 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.6 |        0.60 |       0.0 |        0.9 |    3 |         2 |             4 |          5 |
+| Boris Nagaev 19pZzECKDDMbSpaWEy8vGvELEfXM8GrkHS <b |         0.5 |        0.54 |       0.0 |        0.8 |    2 |         2 |             2 |          3 |
+| abuse@to-surf-and-protect.net                      |         0.5 |        0.95 |       1.9 |        0.7 |    6 |         5 |             8 |         24 |
+| 0xE13EF55641EDBC2A926AC339E3F49676DF45AAA6 Pablo B |         0.5 |        0.29 |       0.0 |        0.2 |    3 |         3 |             3 |          4 |
+| 500FE4D6                                           |         0.5 |        0.19 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| tor terjan net                                     |         0.4 |        0.31 |       0.0 |        0.3 |    7 |         5 |             9 |          9 |
+| 4A1B4433                                           |         0.4 |        0.15 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| tor[at]fiberoverethernet[dot]com                   |         0.4 |        0.39 |       0.0 |        0.5 |    6 |         6 |             6 |          6 |
 | 8C00FA73                                           |         0.4 |        0.39 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.4 |        0.18 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
 | 0x633EE147F1BB38285E4B72E8BA701DD8C2942643 Bandie  |         0.3 |        0.12 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| 0xEFB74277ECE4E222 Aeris <aeris+tor AT imirhil DOT |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             2 |          4 |
+| <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |         0.3 |        0.27 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
 | JoSch <tor4711 AT cell dot de>                     |         0.3 |        0.30 |       0.0 |        0.4 |    1 |         1 |             1 |          3 |
-| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |         0.3 |        0.23 |       0.0 |        0.3 |    2 |         2 |             2 |          4 |
-| 4A1B4433                                           |         0.3 |        0.15 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.3 |        0.14 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| 0x7E799115 Sylvain Rager <sylvain [at] regar42 [do |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
 | E29BAE27                                           |         0.3 |        0.11 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| Kevin <tor AT kberanek dot com>                    |         0.2 |        0.24 |       0.0 |        0.3 |    4 |         5 |             5 |          9 |
+| EF4550E3                                           |         0.3 |        0.11 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
+| Kevin <tor AT kberanek dot com>                    |         0.2 |        0.22 |       0.0 |        0.3 |    4 |         5 |             5 |          9 |
 | Felix <zwiebel ta quantentunnel tod de>            |         0.2 |        0.20 |       0.0 |        0.3 |    2 |         1 |             2 |          7 |
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.2 |        0.18 |       0.0 |        0.2 |    5 |         5 |             6 |          6 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDF |         0.2 |        0.19 |       0.0 |        0.2 |    5 |         5 |             6 |          6 |
 | univibe@protonmail.com                             |         0.2 |        0.21 |       0.0 |        0.3 |    2 |         2 |             2 |          2 |
+| bitcoin:1C3rd2BDprvz9ikAQBQ1Hz2HjbASZxVy8b - mail@ |         0.2 |        0.19 |       0.0 |        0.3 |    1 |         1 |             1 |          1 |
 | Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |         0.2 |        0.20 |       0.0 |        0.3 |    1 |         1 |             2 |          4 |
-| 1024D/97C8 D516 9576 DD09 7BCC  AEC1 CEED 1F9C E2B |         0.2 |        0.24 |       0.0 |        0.3 |    1 |         1 |             3 |          3 |
+| murb@OFTC - 1JE7bryhG44pd9WGasTDCjdvPGPtgZCkmM     |         0.2 |        0.24 |       0.0 |        0.3 |    1 |         1 |             3 |          3 |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
