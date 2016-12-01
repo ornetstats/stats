@@ -1,18 +1,19 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-11-30 07:00:00 |
+| 2016-12-01 07:00:00 |
 +---------------------+
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| abuse [AT] torworld.org - BTC 17iwdtpmgHdPt15twdT2sUcdeKgz9P | 0.946 |         8 |     15 |        1 |       0.35 |        0.26 |      3.12 |
-| abuse@to-surf-and-protect.net                                | 0.942 |         8 |     28 |        1 |       0.86 |        0.64 |      1.57 |
-| tor-relay-admin robgjansen com                               | 0.527 |         2 |     11 |        8 |       0.21 |        0.33 |      1.39 |
-| Nicholas Merrill <nick AT calyx dot com> 14wntQ8cBdnhUVfYmDj | 0.260 |         2 |     13 |        1 |       0.15 |        0.12 |      0.66 |
-| Viktor <vnikolov AT vnikolov dot cz>                         | 0.140 |         5 |      5 |        1 |       0.06 |        0.04 |      0.42 |
-| Digineo GmbH <tor AT digineo dot de>                         | 0.067 |         2 |      2 |        1 |       0.05 |        0.04 |      0.13 |
-| <hostmaster at denetron dot com>                             | 0.050 |         2 |      3 |        1 |       0.01 |        0.01 |      0.18 |
-| e [at] torworld.org                                          | 0.050 |         2 |      2 |        1 |       0.04 |        0.03 |      0.09 |
-| Gabriel Girouard <bungeetaco AT protonmail DOT com> 12CkF47E | 0.045 |         2 |      3 |        1 |       0.02 |        0.01 |      0.13 |
+| abuse@to-surf-and-protect.net                                | 0.948 |         8 |     27 |        1 |       0.89 |        0.65 |      1.53 |
+| abuse [AT] torworld.org - BTC 17iwdtpmgHdPt15twdT2sUcdeKgz9P | 0.712 |         7 |     11 |        1 |       0.11 |        0.08 |      2.78 |
+| tor-relay-admin robgjansen com                               | 0.532 |         2 |     11 |        7 |       0.24 |        0.34 |      1.33 |
+| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.274 |         2 |     13 |        1 |       0.17 |        0.14 |      0.66 |
+| Viktor <vnikolov AT vnikolov dot cz>                         | 0.077 |         4 |      4 |        1 |       0.06 |        0.04 |      0.14 |
+| <hostmaster at denetron dot com>                             | 0.070 |         2 |      3 |        1 |       0.01 |        0.00 |      0.27 |
+| Digineo GmbH <tor AT digineo dot de>                         | 0.066 |         2 |      2 |        1 |       0.05 |        0.03 |      0.14 |
+| GPG: 0xAC4337F6 <demfloro AT demfloro dot ru> - 1JowqcwdJXau | 0.056 |         2 |      4 |        3 |       0.04 |        0.02 |      0.12 |
+| e [at] torworld.org                                          | 0.055 |         2 |      2 |        1 |       0.04 |        0.03 |      0.11 |
+| Gabriel Girouard <bungeetaco AT protonmail DOT com> 12CkF47E | 0.048 |         2 |      3 |        1 |       0.01 |        0.01 |      0.15 |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
