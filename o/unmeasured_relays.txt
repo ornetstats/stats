@@ -1,116 +1,59 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-12-02 22:00:00 |
+| 2016-12-03 07:00:00 |
 +---------------------+
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
-| contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
-| 9FC5A11A                                           | JSC Kazakhtelecom                             | 2016-03-28 18:46:21 | 2016-03-28 19:00:00 |
-| 0C6634D2                                           | myLoc managed IT AG                           | 2016-11-02 06:06:04 | 2016-04-18 22:00:00 |
-| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-11-02 09:25:27 | 2014-02-15 10:00:00 |
-| C145C7B1                                           | ONLINE S.A.S.                                 | 2016-11-05 10:16:45 | 2016-12-02 20:00:00 |
-| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                          | 2016-11-10 20:01:10 | 2015-11-27 00:00:00 |
-| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2016-11-13 19:42:47 | 2016-11-13 21:00:00 |
-| Random Person tor-anon@mailinator.com              | Centrilogic, Inc.                             | 2016-11-23 14:16:31 | 2016-11-23 16:00:00 |
-| A75C62DE                                           | Regional Digital Telecommunication Company    | 2016-11-25 07:36:18 | 2016-02-10 17:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
-| 79C30A28                                           | Bouygues Telecom SA                           | 2016-11-29 10:26:14 | 2016-11-29 11:00:00 |
-| DFB10EAB                                           | Contabo GmbH                                  | 2016-11-29 21:37:19 | 2016-11-29 22:00:00 |
-| anonymous@ubuntu-tor-simply-setup.script.by.PeterD | 2267921 ONTARIO LTD                           | 2016-11-30 18:54:58 | 2016-04-04 12:00:00 |
-| anonymous@ubuntu-tor-simply-setup.script.by.PeterD | Digital Ocean, Inc.                           | 2016-11-30 21:09:51 | 2016-11-30 22:00:00 |
-| 82D4A032                                           | QuickPacket, LLC                              | 2016-12-01 05:42:06 | 2016-12-01 06:00:00 |
-| 2337CEB1                                           | Liberty Global Operations B.V.                | 2016-12-01 07:09:09 | 2016-09-18 14:00:00 |
-| Random Person < laurent@seghi.fr>                  | NC Numericable S.A.                           | 2016-12-01 07:42:09 | 2015-02-19 10:00:00 |
-| hugo hugo@horsefucker.org                          | OOO Fishnet Communications                    | 2016-12-01 07:54:52 | 2016-08-10 08:00:00 |
-| tor(at)midshipman.org                              | STRATO AG                                     | 2016-12-01 08:52:13 | 2016-12-01 09:00:00 |
-| FDD40AA5                                           | LLC IT Business                               | 2016-12-01 11:14:44 | 2016-12-01 12:00:00 |
-| 513C3DCB                                           | Dotsi, Unipessoal Lda.                        | 2016-12-01 11:46:41 | 2016-12-01 20:00:00 |
-| B6FE421F                                           | NULL                                          | 2016-12-01 12:17:45 | 2016-12-01 13:00:00 |
-| DB689A7E                                           | Korea Advanced Institute of Science and Techn | 2016-12-01 12:26:25 | 2016-12-01 10:00:00 |
-| 7575D638                                           | MAROSNET Telecommunication Company LLC        | 2016-12-01 13:27:28 | 2016-12-01 14:00:00 |
-| 0EF50DEA                                           | root SA                                       | 2016-12-01 13:35:37 | 2016-12-01 14:00:00 |
-| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                       | 2016-12-01 15:27:53 | 2016-12-01 16:00:00 |
-| tafurogiuseppe0123 at gmx dot fr                   | Bouygues Telecom SA                           | 2016-12-01 17:09:30 | 2016-12-01 09:00:00 |
-| 0xFFFFFFFF Marc Hanefeld <marc AT doc-hanefeld dot | 1&1 Internet SE                               | 2016-12-01 17:57:53 | 2016-12-01 19:00:00 |
-| tor-relay-admin robgjansen com                     | Hurricane Electric, Inc.                      | 2016-12-01 20:09:08 | 2016-12-01 21:00:00 |
-| C6CFA9FB                                           | Telenet N.V.                                  | 2016-12-01 20:14:13 | 2016-12-01 21:00:00 |
-| 587EC4EE                                           | NFOrce Entertainment BV                       | 2016-12-01 21:25:16 | 2014-01-16 09:00:00 |
-| 3A88542C                                           | Swisscom (Switzerland) Ltd                    | 2016-12-01 23:58:17 | 2016-12-01 16:00:00 |
-| msa at dataprom dot org                            | Svyaz-Telecom Ltd.                            | 2016-12-02 00:03:28 | 2012-02-29 21:00:00 |
-| 4D869F0A                                           | Mediacom Communications Corp                  | 2016-12-02 00:50:33 | 2015-12-12 01:00:00 |
-| dj|===AT-|aol|   dOT===|com                        | MCI Communications Services, Inc. d/b/a Veriz | 2016-12-02 00:53:50 | 2016-11-30 23:00:00 |
-| 458283A9                                           | Zen Internet Ltd                              | 2016-12-02 01:01:48 | 2016-12-02 01:00:00 |
-| swagzmania at gmail dot com                        | WANANCHI-KE                                   | 2016-12-02 01:45:41 | 2016-11-30 19:00:00 |
-| 255771B5                                           | Time Warner Cable Internet LLC                | 2016-12-02 01:50:46 | 2016-12-02 03:00:00 |
-| tor@tornodes.io || tornodes.io ||BTC: 1CcXVSE1ffiK | NULL                                          | 2016-12-02 02:45:08 | 2016-12-02 03:00:00 |
-| dolphonebubleine@live.com                          | OVH SAS                                       | 2016-12-02 03:24:07 | 2016-12-02 04:00:00 |
-| 2F5EEFA2                                           | Bouygues Telecom SA                           | 2016-12-02 04:17:57 | 2016-09-11 20:00:00 |
-| 0xFFFFFFFF Random Person <nobody AT example dot co | Bahnhof Internet AB                           | 2016-12-02 06:22:22 | 2016-07-28 20:00:00 |
-| 0xFFFFFFFF Random Person <info AT dxx dot eu>      | Accelerated IT Services GmbH                  | 2016-12-02 07:02:56 | 2016-12-02 07:00:00 |
-| 470FB317                                           | Host Europe GmbH                              | 2016-12-02 07:18:50 | 2016-12-02 08:00:00 |
-| C92402E8                                           | WholeSale Internet, Inc.                      | 2016-12-02 08:03:31 | 2016-12-02 09:00:00 |
-| Hello, I am a Tor node! My nickname: https://youtu | NULL                                          | 2016-12-02 09:17:53 | 2015-01-21 12:00:00 |
-| 9D67AFD3                                           | DNA Oy                                        | 2016-12-02 09:39:31 | 2016-11-28 15:00:00 |
-| GB <gergo@tud.at>                                  | Digicube sas                                  | 2016-12-02 10:17:36 | 2016-12-02 11:00:00 |
-| 0165A680                                           | Keyweb AG                                     | 2016-12-02 11:03:06 | 2016-12-01 20:00:00 |
-| D379E342                                           | S.A.                                          | 2016-12-02 12:03:34 | 2016-11-28 23:00:00 |
-| 0924AA3F                                           | THOR Data Center ehf                          | 2016-12-02 12:30:28 | 2016-12-02 13:00:00 |
-| carnifex(at)sigaint(dot)org [tor-relay.co]         | NULL                                          | 2016-12-02 12:38:23 | 2016-12-02 13:00:00 |
-| carnifex(at)sigaint(dot)org [tor-relay.co]         | NULL                                          | 2016-12-02 12:40:14 | 2016-12-02 13:00:00 |
-| 4B6A3C1D                                           | Bezeq International-Ltd                       | 2016-12-02 13:02:07 | 2016-02-10 11:00:00 |
-| edouard.comtet@gmail.com                           | Orange S.A.                                   | 2016-12-02 13:05:06 | 2016-12-02 13:00:00 |
-| 37519645                                           | Master Internet s.r.o                         | 2016-12-02 13:21:15 | 2016-12-02 14:00:00 |
-| 3947DA24                                           | Link Ltd.                                     | 2016-12-02 13:52:24 | 2016-01-26 23:00:00 |
-| E54CAB30                                           | Societe Francaise du Radiotelephone S.A       | 2016-12-02 14:38:19 | 2016-12-02 15:00:00 |
-| 6E6A98D3                                           | Broadnet AS                                   | 2016-12-02 14:48:15 | 2016-12-02 15:00:00 |
-| A. Schamp <schamp@gmail.com>                       | Charter Communications                        | 2016-12-02 14:57:28 | 2016-12-02 15:00:00 |
-| ajbplogin at gmail dot com                         | TELEFONICA DE ESPANA                          | 2016-12-02 16:04:30 | 2016-11-24 13:00:00 |
-| 5299725E                                           | Orange S.A.                                   | 2016-12-02 16:09:07 | 2016-12-02 17:00:00 |
-| 553EE330                                           | Liberty Global Operations B.V.                | 2016-12-02 16:26:47 | 2016-08-20 00:00:00 |
-| CE663871                                           | PJSC Rostelecom                               | 2016-12-02 16:37:39 | 2016-10-18 15:00:00 |
-| 0CAF9E24                                           | Amazon.com, Inc.                              | 2016-12-02 16:43:35 | 2016-12-02 17:00:00 |
-| TheMadKing <themadking@lostlevels.net>             | Digital Ocean, Inc.                           | 2016-12-02 16:51:38 | 2016-12-02 18:00:00 |
-| AD0962F8                                           | A1 Telekom Austria AG                         | 2016-12-02 17:10:32 | 2016-12-02 18:00:00 |
-| D0886F4F                                           | Krypt Technologies                            | 2016-12-02 17:11:56 | 2016-12-02 17:00:00 |
-| AE577FDE                                           | Taiwan Academic Network (TANet) Information C | 2016-12-02 17:28:54 | 2016-12-02 18:00:00 |
-| E2076FCA                                           | A1 Telekom Austria AG                         | 2016-12-02 17:38:55 | 2016-05-07 13:00:00 |
-| your name samarisk@muslim.com                      | Hosting Ukraine LTD                           | 2016-12-02 17:45:15 | 2016-12-02 17:00:00 |
-| C12890A9                                           | ITC Electron Ltd                              | 2016-12-02 17:58:32 | 2016-12-02 19:00:00 |
-| EF763DEB                                           | Vodafone GmbH                                 | 2016-12-02 18:27:22 | 2016-12-02 19:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-12-02 18:40:48 | 2013-07-15 11:00:00 |
-| E2B648E7                                           | Magyar Telekom Plc.                           | 2016-12-02 18:51:31 | 2016-10-17 19:00:00 |
-| 0x4C3B4C46                                         | Orange S.A.                                   | 2016-12-02 18:52:12 | 2016-12-02 20:00:00 |
-| 812CBE63                                           | Time Warner Cable Internet LLC                | 2016-12-02 18:54:24 | 2016-12-02 20:00:00 |
-| 372F1475                                           | Informacines sistemos ir technologijos, UAB   | 2016-12-02 18:55:15 | 2016-12-02 20:00:00 |
-| F23EE54A                                           | D-Vois Broadband Pvt Ltd                      | 2016-12-02 19:02:39 | 2016-12-02 17:00:00 |
-| F057C4EC                                           | KDDI CORPORATION                              | 2016-12-02 19:09:26 | 2016-04-02 20:00:00 |
-| Random Person <delfininterior@hotmail.es>          | VODAFONE ESPANA S.A.U.                        | 2016-12-02 19:11:00 | 2015-11-06 00:00:00 |
-| A9936C5F                                           | ONLINE S.A.S.                                 | 2016-12-02 19:19:02 | 2016-12-02 20:00:00 |
-| 3A5E488D                                           | Swisscom (Switzerland) Ltd                    | 2016-12-02 19:22:42 | 2016-10-02 10:00:00 |
-| niftybunny@googlemail.com                          | ONLINE S.A.S.                                 | 2016-12-02 19:27:31 | 2016-12-02 20:00:00 |
-| 0x18A4F389 Thomas Hluchnik <Thomas.Hluchnik *** ne | STRATO AG                                     | 2016-12-02 19:31:37 | 2016-12-02 20:00:00 |
-| B244E3BD                                           | Liberty Global Operations B.V.                | 2016-12-02 19:35:39 | 2016-09-10 16:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-12-02 19:41:04 | 2014-01-20 15:00:00 |
-| 710DF5BF                                           | Anvia Oyj                                     | 2016-12-02 19:52:38 | 2014-12-06 12:00:00 |
-| human@...                                          | RCS & RDS SA                                  | 2016-12-02 19:54:38 | 2015-10-16 13:00:00 |
-| E65ACF81                                           | Limited Liability Company VolgoGazTelecom     | 2016-12-02 20:02:49 | 2016-10-28 22:00:00 |
-| 719F0075                                           | University of Victoria                        | 2016-12-02 20:28:25 | 2016-11-25 02:00:00 |
-| noc@google.com                                     | ONLINE S.A.S.                                 | 2016-12-02 20:31:10 | 2016-12-02 21:00:00 |
-| 15AF668C                                           | Bouygues Telecom SA                           | 2016-12-02 20:33:10 | 2015-03-27 10:00:00 |
-| admin<___at__>gpl( DOT)host                        | Digital Ocean, Inc.                           | 2016-12-02 20:33:42 | 2016-12-02 21:00:00 |
-| 199BE080                                           | Liberty Global Operations B.V.                | 2016-12-02 20:33:53 | 2016-12-02 02:00:00 |
-| blubbera <torproject@ej-bap.de>                    | Vodafone GmbH                                 | 2016-12-02 20:54:10 | 2016-08-09 21:00:00 |
-| 0xFADEC0DE Alexander <cgi-bin@inbox.ru>            | PJSC Rostelecom                               | 2016-12-02 21:00:19 | 2015-09-26 14:00:00 |
-| 3C9EE449                                           | Kabel BW GmbH                                 | 2016-12-02 21:02:14 | 2016-08-20 09:00:00 |
-| 39D00792                                           | PJSC Rostelecom                               | 2016-12-02 21:08:53 | 2016-12-02 21:00:00 |
-| FAEDD96C                                           | Deutsche Telekom AG                           | 2016-12-02 21:12:05 | 2016-12-02 22:00:00 |
-| 6C4C2304                                           |                                               | 2016-12-02 21:17:25 | 2016-12-02 22:00:00 |
-| 20361866                                           | Liberty Global Operations B.V.                | 2016-12-02 21:18:32 | 2016-04-10 16:00:00 |
-| 736F50C6                                           | Net By Net Holding LLC                        | 2016-12-02 21:26:37 | 2016-01-10 01:00:00 |
-| 4BCAA767                                           | Tim Celular S.A.                              | 2016-12-02 21:32:17 | 2016-12-02 12:00:00 |
-| A85BB666                                           | Vodafone Kabel Deutschland GmbH               | 2016-12-02 21:33:19 | 2015-11-21 15:00:00 |
-| 0x18A4F389 Thomas Hluchnik <Thomas.Hluchnik *** ne | STRATO AG                                     | 2016-12-02 21:33:32 | 2013-08-29 21:00:00 |
-| 4C7E2DDB                                           | Telefonica Germany GmbH & Co.OHG              | 2016-12-02 21:34:16 | 2016-12-02 14:00:00 |
-| B6BE630F                                           | NTT Communications Corporation                | 2016-12-02 21:46:25 | 2016-12-02 22:00:00 |
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
++----------------------------------------------------+---------------------------------------------+---------------------+---------------------+
+| contact or fingerprint                             | AS                                          | last_restarted      | first_seen          |
++----------------------------------------------------+---------------------------------------------+---------------------+---------------------+
+| 0C6634D2                                           | myLoc managed IT AG                         | 2016-11-02 06:06:04 | 2016-04-18 22:00:00 |
+| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH   | 2016-11-02 09:25:27 | 2014-02-15 10:00:00 |
+| C145C7B1                                           | ONLINE S.A.S.                               | 2016-11-05 10:16:44 | 2016-12-02 20:00:00 |
+| Ivan Ergun <mandingadiablo@hotmail.com>            | S.A.                                        | 2016-11-10 20:01:10 | 2015-11-27 00:00:00 |
+| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                    | 2016-11-13 19:42:47 | 2016-11-13 21:00:00 |
+| Random Person tor-anon@mailinator.com              | Centrilogic, Inc.                           | 2016-11-23 14:16:31 | 2016-11-23 16:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                    | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
+| 79C30A28                                           | Bouygues Telecom SA                         | 2016-11-29 10:26:14 | 2016-11-29 11:00:00 |
+| TOR148 <tor148 AT alien-stargate DOT com>          | Liberty Global Operations B.V.              | 2016-11-30 20:21:02 | 2014-10-28 20:00:00 |
+| 52BC82EB                                           | Digital Ocean, Inc.                         | 2016-12-01 05:00:00 | 2014-12-20 03:00:00 |
+| 513C3DCB                                           | Dotsi, Unipessoal Lda.                      | 2016-12-01 11:46:41 | 2016-12-01 20:00:00 |
+| B6FE421F                                           | NULL                                        | 2016-12-01 12:17:45 | 2016-12-01 13:00:00 |
+| michal dobos <midosk AT gmail dot com>             | Orange Slovensko a.s.                       | 2016-12-01 20:59:47 | 2015-04-02 23:00:00 |
+| carnifex(at)sigaint(dot)org [tor-relay.co]         | NULL                                        | 2016-12-02 12:38:23 | 2016-12-02 13:00:00 |
+| 5299725E                                           | Orange S.A.                                 | 2016-12-02 17:31:11 | 2016-12-02 17:00:00 |
+| 372F1475                                           | Informacines sistemos ir technologijos, UAB | 2016-12-02 18:55:14 | 2016-12-02 20:00:00 |
+| 3A5E488D                                           | Swisscom (Switzerland) Ltd                  | 2016-12-02 19:22:42 | 2016-10-02 10:00:00 |
+| 0x4C3B4C46                                         | Orange S.A.                                 | 2016-12-02 19:27:04 | 2016-12-02 20:00:00 |
+| 0x18A4F389 Thomas Hluchnik <Thomas.Hluchnik *** ne | STRATO AG                                   | 2016-12-02 19:31:36 | 2016-12-02 20:00:00 |
+| noc@google.com                                     | ONLINE S.A.S.                               | 2016-12-02 20:31:10 | 2016-12-02 21:00:00 |
+| admin<___at__>gpl( DOT)host                        | Digital Ocean, Inc.                         | 2016-12-02 20:33:42 | 2016-12-02 21:00:00 |
+| 0x18A4F389 Thomas Hluchnik <Thomas.Hluchnik *** ne | STRATO AG                                   | 2016-12-02 21:33:33 | 2013-08-29 21:00:00 |
+| 1B8A7724                                           | TELEFONICA DE ESPANA                        | 2016-12-02 23:08:59 | 2016-12-03 00:00:00 |
+| tor@tornodes.io || tornodes.io ||BTC: 1CcXVSE1ffiK | ONLINE S.A.S.                               | 2016-12-02 23:10:48 | 2016-12-03 00:00:00 |
+| CE663871                                           | PJSC Rostelecom                             | 2016-12-02 23:25:03 | 2016-10-18 15:00:00 |
+| J0s3G3rard0 <p0k3ct AT gmail DOT com>              | Choopa, LLC                                 | 2016-12-02 23:43:04 | 2016-12-03 00:00:00 |
+| knuth <tor AT ethergeist dot de>                   | Hetzner Online GmbH                         | 2016-12-03 00:26:33 | 2016-12-03 00:00:00 |
+| 9D613EC4                                           | TOKAI Communications Corporation            | 2016-12-03 00:43:25 | 2016-11-30 11:00:00 |
+| tor@tornodes.io || tornodes.io ||BTC: 1CcXVSE1ffiK | ONLINE S.A.S.                               | 2016-12-03 01:12:53 | 2016-12-03 02:00:00 |
+| knuth <tor AT ethergeist dot de>                   | Host Europe GmbH                            | 2016-12-03 01:43:55 | 2016-12-03 02:00:00 |
+| your name samarisk@muslim.com                      | Hosting Ukraine LTD                         | 2016-12-03 01:55:03 | 2016-12-02 17:00:00 |
+| 1C1374F2                                           | Hosting Ukraine LTD                         | 2016-12-03 02:16:11 | 2016-12-02 03:00:00 |
+| 62DE9F2E                                           | OJSC Vimpelcom                              | 2016-12-03 02:25:52 | 2013-08-13 08:00:00 |
+| B6BE630F                                           | NTT Communications Corporation              | 2016-12-03 02:48:12 | 2016-12-02 22:00:00 |
+| 544AD2A5                                           |                                             | 2016-12-03 02:49:07 | 2014-12-06 09:00:00 |
+| 4C7E2DDB                                           | Telefonica Germany GmbH & Co.OHG            | 2016-12-03 02:57:48 | 2016-12-02 14:00:00 |
+| Tor Relays at brwyatt.net <tor@brwyatt.net> - 1DH7 | CASCADELINK INC                             | 2016-12-03 03:21:31 | 2016-12-03 04:00:00 |
+| contact at peersm.com                              | OVH SAS                                     | 2016-12-03 03:41:06 | 2014-01-20 15:00:00 |
+| 80705DAC                                           | PJSC Rostelecom                             | 2016-12-03 04:19:00 | 2016-11-17 09:00:00 |
+| F0E82F5F                                           | Comcast Cable Communications, Inc.          | 2016-12-03 04:20:11 | 2016-12-03 05:00:00 |
+| contact at peersm.com                              | OVH SAS                                     | 2016-12-03 04:40:51 | 2013-07-15 11:00:00 |
+| 507589DA                                           | NULL                                        | 2016-12-03 04:42:54 | 2016-12-03 06:00:00 |
+| 9D40F2B1                                           | Telenor Norge AS                            | 2016-12-03 04:52:17 | 2014-04-28 19:00:00 |
+| <steve AT finagle dot org>                         | Qwest Communications Company, LLC           | 2016-12-03 05:19:17 | 2014-06-08 05:00:00 |
+| 4BCAA767                                           | Tim Celular S.A.                            | 2016-12-03 05:32:27 | 2016-12-02 12:00:00 |
+| 1A85C935                                           | INSYS LLC                                   | 2016-12-03 05:54:14 | 2016-11-13 13:00:00 |
+| 2F976D1C                                           | Liberty Global Operations B.V.              | 2016-12-03 06:06:00 | 2016-04-28 20:00:00 |
+| 6CE84BAF                                           | Vodafone Kabel Deutschland GmbH             | 2016-12-03 06:12:06 | 2016-04-24 19:00:00 |
+| 5F15956C                                           | Kabel BW GmbH                               | 2016-12-03 06:22:03 | 2016-07-05 09:00:00 |
+| enjuto mojamuto <enjuto1 AT live dot com>          | TELEFONICA DE ESPANA                        | 2016-12-03 06:33:00 | 2016-12-03 06:00:00 |
++----------------------------------------------------+---------------------------------------------+---------------------+---------------------+
