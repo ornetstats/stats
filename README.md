@@ -23,7 +23,6 @@ Relays are aggregated based on effective families. Effective families are relays
 
 * [Major Version Distribution](https://github.com/ornetstats/stats/blob/master/o/major-version_share.txt)
 * [Detailed Version Distribution](https://github.com/ornetstats/stats/blob/master/o/version_share.txt)
-* [CVE-2016-8860 affected operators](https://github.com/ornetstats/stats/blob/master/o/cve-2016-8860.txt)
 
 ## OS Distribution
 
