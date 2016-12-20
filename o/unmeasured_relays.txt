@@ -1,77 +1,80 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2016-12-19 07:00:00 |
+| 2016-12-20 07:00:00 |
 +---------------------+
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
 | contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| 8192R/0xB431B67770E4AA38 Mikal Villa <meeh@sigterm | Sigterm Mikal Villa                           | 2016-08-20 21:45:29 | 2014-07-20 19:00:00 |
 | 0C6634D2                                           | myLoc managed IT AG                           | 2016-11-02 06:06:04 | 2016-04-18 22:00:00 |
 | earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-11-02 09:25:28 | 2014-02-15 10:00:00 |
 | C145C7B1                                           | Online S.a.s.                                 | 2016-11-05 10:16:45 | 2016-12-02 20:00:00 |
 | Ivan Ergun <mandingadiablo@hotmail.com>            | NSS S.A.                                      | 2016-11-10 20:01:10 | 2015-11-27 00:00:00 |
 | 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2016-11-13 19:42:47 | 2016-11-13 21:00:00 |
 | 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
-| FEF9E17B                                           | Leaseweb Deutschland GmbH                     | 2016-12-13 00:48:52 | 2016-12-13 02:00:00 |
+| FEF9E17B                                           | Leaseweb Deutschland GmbH                     | 2016-12-13 00:48:51 | 2016-12-13 02:00:00 |
 | 0xAEA339759F63B0FC drathir <drathir AT protonmail  | OVH SAS                                       | 2016-12-15 01:43:30 | 2015-07-12 16:00:00 |
-| 664D96A2                                           | University Linz                               | 2016-12-15 14:45:52 | 2016-10-17 15:00:00 |
 | C9860279                                           | Hyperoptic Ltd                                | 2016-12-17 14:07:20 | 2014-11-10 23:00:00 |
 | RedCore (TorRelay) <redcore@riseup.net> 30B9 ACCA  | Neterra Ltd.                                  | 2016-12-17 22:16:17 | 2016-10-15 00:00:00 |
-| 097503C4                                           | Telefonica De Espana                          | 2016-12-18 12:32:46 | 2016-12-18 13:00:00 |
-| 64BA1AB1                                           | FOP Dolgiy Andriy Fedorovuch                  | 2016-12-18 13:21:02 | 2016-12-18 14:00:00 |
-| xxoes <xxoes at b0red.de>                          | Hetzner Online GmbH                           | 2016-12-18 13:51:11 | 2016-12-18 15:00:00 |
-| 3B5F025C                                           | Vodafone Kabel Deutschland GmbH               | 2016-12-18 14:12:17 | 2016-12-09 18:00:00 |
-| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                       | 2016-12-18 15:28:15 | 2016-12-18 16:00:00 |
-| drwhax [@] riseup [dot[ net 0x9586D84B70DCAE8C - E | Online S.a.s.                                 | 2016-12-18 16:15:10 | 2015-09-06 16:00:00 |
-| Gerrit < panserbjoern AT kabelmail dot de>         | Strato AG                                     | 2016-12-18 17:06:07 | 2016-02-08 09:00:00 |
+| 3B5F025C                                           | Vodafone Kabel Deutschland GmbH               | 2016-12-18 14:29:42 | 2016-12-09 18:00:00 |
 | 576BBF27                                           | Telenor Norge AS                              | 2016-12-18 17:40:04 | 2015-11-15 11:00:00 |
-| <zwiebeln at online de>                            | Serverius Holding B.V.                        | 2016-12-18 17:42:44 | 2016-12-18 18:00:00 |
-| C886E12F                                           | Telefonica De Espana                          | 2016-12-18 18:47:44 | 2016-12-18 19:00:00 |
-| ECEA8144                                           | Limited Company Information and Consulting Ag | 2016-12-18 19:29:27 | 2016-12-18 12:00:00 |
-| C9BB73FD                                           | JSC ER-Telecom Holding                        | 2016-12-18 19:43:26 | 2016-12-18 20:00:00 |
-| CFB2AB7D                                           | RCS & RDS                                     | 2016-12-18 19:44:33 | 2016-12-18 23:00:00 |
-| messa-tor <bee-tor AT ip-connect dot net dot ua>   | IP-Connect LLC                                | 2016-12-18 19:45:14 | 2016-12-18 17:00:00 |
-| marie063765714618 at gmx dot fr                    | Bouygues Telecom SA                           | 2016-12-18 19:58:48 | 2016-12-18 21:00:00 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG | Bolignet A/S                                  | 2016-12-18 20:34:35 | 2016-12-18 21:00:00 |
-| J0s3G3rard0 <p0k3ct AT gmail DOT com>              | Choopa, LLC                                   | 2016-12-18 20:43:11 | 2016-12-18 21:00:00 |
-| Brandon Culpepper <BlueBikeTV@yahoo DOT com>       | Choopa, LLC                                   | 2016-12-18 20:47:15 | 2016-12-18 21:00:00 |
-| 2A86724A                                           | Altibox AS                                    | 2016-12-18 21:16:14 | 2016-12-18 22:00:00 |
-| <zwiebeln at online de>                            | OVH SAS                                       | 2016-12-18 21:26:02 | 2016-12-18 22:00:00 |
-| <zwiebeln at online de>                            | OVH SAS                                       | 2016-12-18 21:31:09 | 2016-12-18 22:00:00 |
-| dgsolve@gmail.com                                  | Hyperoptic Ltd                                | 2016-12-18 21:36:39 | 2016-12-18 22:00:00 |
-| <zwiebeln at online de>                            | OVH SAS                                       | 2016-12-18 21:36:53 | 2016-12-18 22:00:00 |
-| <zwiebeln at online de>                            | OVH SAS                                       | 2016-12-18 21:41:51 | 2016-12-18 22:00:00 |
-| 12D8672B                                           | Mobile Telecommunications Company             | 2016-12-18 21:53:39 | 2015-11-30 06:00:00 |
-| Lex <brooknet AT imap dot cc>                      | Tiscali UK Limited                            | 2016-12-18 21:54:38 | 2015-12-27 20:00:00 |
-| <zwiebeln at online de>                            | Seflow S.N.C. Di Marco Brame' & C.            | 2016-12-18 22:24:55 | 2016-12-18 23:00:00 |
-| AF90A366                                           | OVH SAS                                       | 2016-12-18 23:00:00 | 2016-09-03 12:00:00 |
-| CC92FC2B                                           | TPG Telecom Limited                           | 2016-12-19 00:40:43 | 2016-12-19 01:00:00 |
-| anonymous-12 anonymous-12@mail.com                 | Elisa Oyj                                     | 2016-12-19 00:56:28 | 2016-12-19 01:00:00 |
-| PDXCYPHERPUNKS <at> RISEUP <dot> NET               | Qwest Communications Company, LLC             | 2016-12-19 01:54:46 | 2016-10-20 05:00:00 |
-| 34133CC3                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-12-19 02:01:17 | 2016-12-19 03:00:00 |
-| 59293433                                           | SMART Comp. a.s.                              | 2016-12-19 02:36:32 | 2016-12-19 04:00:00 |
-| FB85D83D                                           | Community Network Center Inc.                 | 2016-12-19 02:37:59 | 2014-09-02 10:00:00 |
-| 29fffee1@opayq.com                                 | Linode, LLC                                   | 2016-12-19 02:51:55 | 2015-05-02 22:00:00 |
-| TT <tonitoronto@mc-free.de>                        | Deutsche Telekom AG                           | 2016-12-19 03:04:27 | 2015-11-18 17:00:00 |
-| 5C113ECE                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-12-19 03:35:04 | 2016-12-19 04:00:00 |
-| FAECC93D                                           | QSC AG                                        | 2016-12-19 03:43:16 | 2014-12-26 16:00:00 |
-| D63A6492                                           | Nextlink Broadband                            | 2016-12-19 03:44:09 | 2016-12-19 04:00:00 |
-| Support <support @ m36 dot net>                    | Comcast Cable Communications, LLC             | 2016-12-19 03:45:56 | 2016-12-19 02:00:00 |
-| DF6B4CF9                                           | Mahanagar Telephone Nigam Ltd.                | 2016-12-19 04:10:38 | 2016-12-19 05:00:00 |
-| 73B0D373                                           | Kabel BW                                      | 2016-12-19 04:10:46 | 2014-09-24 19:00:00 |
-| 4CC51477                                           | OJSC Ufanet                                   | 2016-12-19 04:22:36 | 2014-09-22 12:00:00 |
-| 5E95421F                                           | Mahanagar Telephone Nigam Ltd.                | 2016-12-19 04:23:21 | 2016-12-19 04:00:00 |
 | 77EB458D                                           | ServiHosting Networks S.L.                    | 2016-12-19 04:34:30 | 2016-12-19 02:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-12-19 04:42:40 | 2013-07-15 11:00:00 |
-| contact at peersm.com                              | OVH SAS                                       | 2016-12-19 04:42:58 | 2014-01-20 15:00:00 |
-| 2A93A2DF                                           | Time Warner Cable Internet LLC                | 2016-12-19 05:00:00 | 2016-12-18 00:00:00 |
-| 20785F15                                           | PJSC Rostelecom                               | 2016-12-19 05:12:06 | 2016-12-17 08:00:00 |
-| god AT universe.org                                | OVH SAS                                       | 2016-12-19 05:43:19 | 2016-12-18 11:00:00 |
-| 8411033E                                           | PJSC Rostelecom                               | 2016-12-19 06:01:13 | 2015-12-27 06:00:00 |
-| 640FA73F                                           | Mahanagar Telephone Nigam Ltd.                | 2016-12-19 06:03:01 | 2016-12-19 05:00:00 |
-| Meiavy <Meiavy@163.com>                            | Digital Energy Technologies Chile SpA         | 2016-12-19 06:12:28 | 2016-12-19 07:00:00 |
-| <benciv@mailfree.co.za>                            | Magyar Telekom plc.                           | 2016-12-19 06:20:42 | 2013-06-06 08:00:00 |
-| John Csuti <postmaster AT coolcomputers DOT info>  | Cox Communications Inc.                       | 2016-12-19 06:39:26 | 2016-12-19 07:00:00 |
-| Random Person <nobody AT example dot com>          | Rices Privately owned enterprise              | 2016-12-19 06:39:45 | 2016-12-19 07:00:00 |
-| 55E42C70                                           | Deutsche Telekom AG                           | 2016-12-19 06:59:57 | 2016-12-18 18:00:00 |
+| Meiavy <Meiavy@163.com>                            | Digital Energy Technologies Chile SpA         | 2016-12-19 06:12:29 | 2016-12-19 07:00:00 |
+| marie063765714618 at gmx dot fr                    | Bouygues Telecom SA                           | 2016-12-19 06:17:14 | 2016-12-18 21:00:00 |
+| Random Person <nobody AT example dot com>          | Rices Privately owned enterprise              | 2016-12-19 07:37:43 | 2016-12-19 07:00:00 |
+| xxoes <xxoes at b0red.de>                          | Hetzner Online GmbH                           | 2016-12-19 09:26:09 | 2016-12-18 15:00:00 |
+| 461025E9                                           | SMART Comp. a.s.                              | 2016-12-19 11:08:26 | 2016-12-19 12:00:00 |
+| ABC5AB9B                                           | Data Communication Business Group             | 2016-12-19 11:59:05 | 2016-12-19 13:00:00 |
+| BA50A6ED                                           | Almouroltec Servicos De Informatica E Interne | 2016-12-19 12:51:34 | 2016-12-19 14:00:00 |
+| Tony Meman <tmeman@t-online.de>                    | Telefonica Germany                            | 2016-12-19 13:07:45 | 2015-11-21 23:00:00 |
+| 0xdeadbeef.info                                    | 2267921 ONTARIO LTD                           | 2016-12-19 13:55:00 | 2016-12-19 15:00:00 |
+| 0CF9EAA6                                           | British Telecommunications PLC                | 2016-12-19 14:14:08 | 2016-12-19 16:00:00 |
+| hackerviking@gmail.com                             | Manche Telecom                                | 2016-12-19 14:24:01 | 2016-12-19 15:00:00 |
+| 22ABD199                                           | Limited Company Svyazservice                  | 2016-12-19 16:01:17 | 2016-12-19 16:00:00 |
+| dgsolve@gmail.com                                  | Hyperoptic Ltd                                | 2016-12-19 17:22:13 | 2016-12-19 12:00:00 |
+| E10D08FD                                           | RCS & RDS                                     | 2016-12-19 17:24:55 | 2016-04-06 16:00:00 |
+| zam37 at protonmail dot com                        | Dotsi, Unipessoal Lda.                        | 2016-12-19 18:13:08 | 2016-12-19 19:00:00 |
+| <cobiestorexit><AT><gmail><DOT><com>               | Afrihost                                      | 2016-12-19 18:24:52 | 2016-10-12 23:00:00 |
+| Support <support @ m36 dot net>                    | Comcast Cable Communications, LLC             | 2016-12-19 19:38:06 | 2016-12-19 20:00:00 |
+| B1225724                                           | Hetzner Online GmbH                           | 2016-12-19 19:52:24 | 2016-12-19 21:00:00 |
+| 30C0B4DE                                           | Contabo GmbH                                  | 2016-12-19 20:13:20 | 2016-12-18 18:00:00 |
+| 7FC31754                                           | SFR                                           | 2016-12-19 20:59:38 | 2016-12-19 22:00:00 |
+| tor@grepular.com                                   | Digital Ocean, Inc.                           | 2016-12-19 21:01:18 | 2016-12-19 22:00:00 |
+| tor@grepular.com                                   | Digital Ocean, Inc.                           | 2016-12-19 21:01:20 | 2016-12-19 22:00:00 |
+| tor@grepular.com                                   | Digital Ocean, Inc.                           | 2016-12-19 21:01:20 | 2016-12-19 22:00:00 |
+| tor@grepular.com                                   | Digital Ocean, Inc.                           | 2016-12-19 21:01:20 | 2016-12-19 22:00:00 |
+| tor@grepular.com                                   | Digital Ocean, Inc.                           | 2016-12-19 21:01:22 | 2016-12-19 22:00:00 |
+| pinabaszfasz@gmail.com                             | DIGI Tavkozlesi es Szolgaltato Kft.           | 2016-12-19 21:07:14 | 2016-12-19 22:00:00 |
+| BF615C7E                                           | GHOSTnet GmbH                                 | 2016-12-19 21:10:57 | 2016-12-19 18:00:00 |
+| 12D8672B                                           | Mobile Telecommunications Company             | 2016-12-19 22:06:30 | 2015-11-30 06:00:00 |
+| scott@ashcraft.com                                 | Time Warner Cable Internet LLC                | 2016-12-19 22:12:37 | 2016-12-19 17:00:00 |
+| <zwiebeln at online de>                            | Serverius Holding B.V.                        | 2016-12-19 22:16:56 | 2016-12-18 18:00:00 |
+| A5122565                                           | Microsoft Corporation                         | 2016-12-19 22:21:06 | 2016-12-19 23:00:00 |
+| <zwiebeln at online de>                            | OVH SAS                                       | 2016-12-19 22:27:32 | 2016-12-18 22:00:00 |
+| <zwiebeln at online de>                            | OVH SAS                                       | 2016-12-19 22:37:33 | 2016-12-18 22:00:00 |
+| <zwiebeln at online de>                            | Seflow S.N.C. Di Marco Brame' & C.            | 2016-12-19 22:38:41 | 2016-12-18 23:00:00 |
+| 0C2E5558                                           | OVH SAS                                       | 2016-12-20 00:24:03 | 2016-12-20 01:00:00 |
+| tor[at]fiberoverethernet[dot]com                   | Digital Ocean, Inc.                           | 2016-12-20 00:58:02 | 2016-06-08 09:00:00 |
+| D8736A84                                           | Computer information technology Ltd.          | 2016-12-20 00:59:19 | 2016-09-02 14:00:00 |
+| tor[at]fiberoverethernet[dot]com                   | Digital Ocean, Inc.                           | 2016-12-20 01:20:10 | 2016-03-15 20:00:00 |
+| 0C0E0E1E                                           | M-net Telekommunikations GmbH                 | 2016-12-20 01:39:50 | 2016-12-19 22:00:00 |
+| 98DA 149C FDD8 2891 F916  E035 DA3A BDDC 176C EF90 | Comcast Cable Communications, LLC             | 2016-12-20 02:33:56 | 2016-12-20 03:00:00 |
+| AAB84D97                                           | Bell Canada                                   | 2016-12-20 03:14:22 | 2016-12-20 04:00:00 |
+| DC8CEA5A                                           | Vodafone GmbH                                 | 2016-12-20 03:14:47 | 2016-12-19 15:00:00 |
+| soused <a AT b dot com>                            | Saitis Network, N.Desir                       | 2016-12-20 03:35:06 | 2016-12-20 04:00:00 |
+| 0x75508774EEEBABE43ADD86CB61FA1A4661A2676C Jaron K | Time Warner Cable Internet LLC                | 2016-12-20 04:33:55 | 2016-12-20 05:00:00 |
+| contact at peersm.com                              | OVH SAS                                       | 2016-12-20 04:42:48 | 2013-07-15 11:00:00 |
+| 2FCFFEB7                                           | Telefonica Germany                            | 2016-12-20 05:30:04 | 2016-12-19 23:00:00 |
+| 4096R/1218A290 Jaroslaw Filiochowski <tor@jarfil.n | Online S.a.s.                                 | 2016-12-20 05:30:53 | 2014-06-21 14:00:00 |
+| 9459595C                                           | Zappie Host LLC                               | 2016-12-20 05:31:01 | 2016-12-20 06:00:00 |
+| contact at peersm.com                              | OVH SAS                                       | 2016-12-20 05:43:05 | 2014-01-20 15:00:00 |
+| FBBA1691                                           | Vodafone Kabel Deutschland GmbH               | 2016-12-20 05:44:25 | 2015-10-08 21:00:00 |
+| 5F15956C                                           | Kabel BW                                      | 2016-12-20 05:50:46 | 2016-07-05 09:00:00 |
+| repo <tor AT reggerspaul dot be>                   | Mobistar SA                                   | 2016-12-20 06:06:33 | 2016-10-26 14:00:00 |
+| 34133CC3                                           | MCI Communications Services, Inc. d/b/a Veriz | 2016-12-20 06:12:00 | 2016-12-19 03:00:00 |
+| 126F8450                                           | Cablemas Telecomunicaciones SA de CV          | 2016-12-20 06:20:27 | 2016-12-20 07:00:00 |
+| EF1DAD3E                                           | Solar Communications GmbH                     | 2016-12-20 06:23:00 | 2016-12-20 07:00:00 |
+| 775186A2                                           | Vodafone Kabel Deutschland GmbH               | 2016-12-20 06:27:53 | 2015-10-29 19:00:00 |
+| viklund.joel@gmail.com                             | Jakobstadsnejdens Telefon Ab                  | 2016-12-20 08:14:36 | 2016-12-13 08:00:00 |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
