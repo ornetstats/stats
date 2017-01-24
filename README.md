@@ -8,10 +8,10 @@ For autonomous system and country stats you can use [compass.torproject.org](htt
 
 Relays are aggregated based on effective families. Effective families are relays with a mutually configured [MyFamily setting](https://www.torproject.org/docs/tor-manual.html.en). Single relays (without family) are also considered but not aggregated. The first column usually shows the contact information, or if no contact information was provided, the first 8 characters of the relay fingerprint.
 
-* [Main Exit Operators](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_exit_operators.txt)
-* [Main Guard Operators](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_guard_operators.txt)
-* [Main Operators based on consensus weight](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_operators_by_cw.txt)
-* [Main non-Linux Operators](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_non_linux_operators.txt)
+* [Main Exit Families](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_exit_families.txt)
+* [Main Guard Families](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_guard_families.txt)
+* [Main Families based on consensus weight](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_families_by_cw.txt)
+* [Main non-Linux Families](https://raw.githubusercontent.com/ornetstats/stats/master/o/main_non_linux_families.txt)
 
 * [Potentially dangerous groups](https://raw.githubusercontent.com/ornetstats/stats/master/o/potentially_dangerous_relaygroups.txt)
   * "dangerous" in the sense that a tor client might has a chance to use more than one of these relays in a single circuit at the entry and exit position
