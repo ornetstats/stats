@@ -1,95 +1,121 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-01-27 07:00:00 |
+| 2017-01-27 13:00:00 |
 +---------------------+
-+----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
-| contact or fingerprint                             | AS                                        | last_restarted      | first_seen          |
-+----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
-| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH | 2016-11-02 09:25:28 | 2014-02-15 10:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                  | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
-| FB802AB9                                           | UAB Rakrejus                              | 2016-12-30 16:33:09 | 2017-01-24 03:00:00 |
-| 0C6634D2                                           | myLoc managed IT AG                       | 2016-12-30 18:36:54 | 2016-04-18 22:00:00 |
-| 4011F852                                           | Joe's Datacenter, LLC                     | 2017-01-08 06:42:55 | 2016-12-30 06:00:00 |
-| FEF9E17B                                           | Leaseweb Deutschland GmbH                 | 2017-01-19 05:55:19 | 2016-12-13 02:00:00 |
-| 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                   | 2017-01-23 11:40:48 | 2014-09-09 08:00:00 |
-| Random Person <nobody AT example dot com>          | 2267921 ONTARIO LTD                       | 2017-01-23 23:53:42 | 2013-11-18 19:00:00 |
-| C7E1BB1B                                           | Contabo GmbH                              | 2017-01-24 04:00:59 | 2015-02-11 21:00:00 |
-| 80B1B69E                                           | OVH SAS                                   | 2017-01-24 10:00:47 | 2017-01-18 14:00:00 |
-| Ivan Ergun <mandingadiablo@hotmail.com>            | NSS S.A.                                  | 2017-01-24 18:16:59 | 2015-11-27 00:00:00 |
-| William Denton <wtd@pobox.com>                     | York University                           | 2017-01-24 21:37:02 | 2017-01-20 17:00:00 |
-| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                  | 2017-01-25 03:14:52 | 2016-11-13 21:00:00 |
-| Re Pet <njohndoe AT dot com>                       | 1&1 Internet SE                           | 2017-01-25 09:35:34 | 2017-01-25 01:00:00 |
-| C9860279                                           | Hyperoptic Ltd                            | 2017-01-25 21:06:51 | 2014-11-10 23:00:00 |
-| 198642FE                                           | Domashnya Merezha, LLC                    | 2017-01-25 21:37:47 | 2017-01-25 18:00:00 |
-| Random Person anonymous_frog@bitmessage.ch         | NULL                                      | 2017-01-26 00:24:41 | 2014-08-05 00:00:00 |
-| bbd98c8557904ffcf50d <contact@youmetalk.com>       | Hurricane Electric, Inc.                  | 2017-01-26 00:32:24 | 2017-01-26 01:00:00 |
-| A54E7549                                           | TM Net, Internet Service Provider         | 2017-01-26 01:26:04 | 2016-09-04 02:00:00 |
-| tor@cocktor.com                                    | FlokiNET ehf                              | 2017-01-26 01:51:51 | 2017-01-25 22:00:00 |
-| F3E30BE0                                           | Alexhost Srl                              | 2017-01-26 04:22:46 | 2017-01-26 05:00:00 |
-| AD5B33A8                                           | KPN B.V.                                  | 2017-01-26 05:43:59 | 2017-01-25 22:00:00 |
-| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                   | 2017-01-26 05:49:45 | 2017-01-26 08:00:00 |
-| 2D9AF9BD                                           | Network Presence                          | 2017-01-26 06:14:54 | 2017-01-26 07:00:00 |
-| Melissa <calymenina AT gmail dot com>              | Comcast Cable Communications, LLC         | 2017-01-26 06:57:54 | 2017-01-26 08:00:00 |
-| 302F7B6E                                           | Choopa, LLC                               | 2017-01-26 08:06:45 | 2017-01-26 09:00:00 |
-| C859A436                                           | Deutsche Telekom AG                       | 2017-01-26 10:14:16 | 2017-01-26 02:00:00 |
-| C78DD47E                                           | NForce Entertainment B.V.                 | 2017-01-26 13:00:20 | 2017-01-26 13:00:00 |
-| Nick@tor.rip , Donations: 1NickTorKsQ9NbVw1c67dXss | FlokiNET ehf                              | 2017-01-26 13:02:48 | 2017-01-26 02:00:00 |
-| B5DA19CF                                           | THC Projects SRL                          | 2017-01-26 13:25:20 | 2017-01-26 14:00:00 |
-| 907F03F4                                           | Alexhost Srl                              | 2017-01-26 13:55:38 | 2017-01-26 15:00:00 |
-| FirstName LastName <MyName AT MailServer dot com>  | Hosting Ukraine LTD                       | 2017-01-26 14:16:44 | 2017-01-26 15:00:00 |
-| B6F63058                                           | Choopa, LLC                               | 2017-01-26 14:35:29 | 2017-01-26 15:00:00 |
-| E49A6894                                           | ITL Company                               | 2017-01-26 15:11:12 | 2017-01-26 16:00:00 |
-| F2DA4AEF                                           | SoftLayer Technologies Inc.               | 2017-01-26 15:27:28 | 2017-01-26 16:00:00 |
-| 1A90EB6C                                           | Nobis Technology Group, LLC               | 2017-01-26 15:28:42 | 2017-01-26 16:00:00 |
-| D13DBF73                                           | Digital Energy Technologies Limited       | 2017-01-26 15:29:17 | 2017-01-26 16:00:00 |
-| 6C4464E9                                           | Deutsche Telekom AG                       | 2017-01-26 17:09:19 | 2017-01-26 10:00:00 |
-| DFABAE61                                           | Deutsche Telekom AG                       | 2017-01-26 17:29:33 | 2017-01-26 19:00:00 |
-| 4096R/751DB475 Morten Br??ns-Pedersen <mortenbp AT | Hiper A/S                                 | 2017-01-26 17:31:24 | 2017-01-26 18:00:00 |
-| Nun JA <admin AT hsga dot biz>                     | Strato AG                                 | 2017-01-26 17:32:33 | 2017-01-26 18:00:00 |
-| 8D13B19D                                           | LeaseWeb Netherlands B.V.                 | 2017-01-26 17:34:22 | 2017-01-26 16:00:00 |
-| 952B8010                                           | Svyaz-Telecom Ltd.                        | 2017-01-26 17:34:50 | 2016-01-10 12:00:00 |
-| Donaldo Papero                                     | 2267921 ONTARIO LTD                       | 2017-01-26 18:30:10 | 2017-01-26 19:00:00 |
-| CBAD1B29                                           | Rices Privately owned enterprise          | 2017-01-26 18:33:47 | 2017-01-26 19:00:00 |
-| CF060C53                                           | Google Inc.                               | 2017-01-26 19:02:43 | 2017-01-26 20:00:00 |
-| 260FD3C4                                           | Telefonica De Espana                      | 2017-01-26 19:21:29 | 2017-01-26 20:00:00 |
-| EF25A318                                           | ServerStack, Inc.                         | 2017-01-26 19:27:29 | 2017-01-26 06:00:00 |
-| < exittor AT tuta dot io > - BTC - 18ye1rEXFgbdoqq | Online S.a.s.                             | 2017-01-26 19:28:35 | 2017-01-26 12:00:00 |
-| E397C695                                           | OVH SAS                                   | 2017-01-26 20:02:32 | 2017-01-26 21:00:00 |
-| D731FA7B                                           | SFR                                       | 2017-01-26 20:56:57 | 2017-01-26 22:00:00 |
-| parleportentor@gmail.com                           | Com Hem AB                                | 2017-01-26 20:59:46 | 2017-01-26 21:00:00 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTA | NULL                                      | 2017-01-26 21:09:20 | 2017-01-26 22:00:00 |
-| webmaster@usueagle.com                             | Wowrack.com                               | 2017-01-26 21:47:08 | 2017-01-26 23:00:00 |
-| Bunnie <tor[AT]bunnix[DOT]net>                     | MyRepublic Ltd.                           | 2017-01-26 22:31:30 | 2016-09-12 06:00:00 |
-| 3D746F58                                           | Orange                                    | 2017-01-26 23:01:50 | 2016-06-20 14:00:00 |
-| 304E6D0E                                           | Amazon.com, Inc.                          | 2017-01-26 23:23:17 | 2017-01-27 00:00:00 |
-| 2461C4A3                                           | Online S.a.s.                             | 2017-01-27 00:00:07 | 2017-01-27 01:00:00 |
-| 0x92b73d37435d9327 -- Adrian Thayer -- < indicativ | RamNode LLC                               | 2017-01-27 00:06:36 | 2017-01-27 00:00:00 |
-| John Doe 1DpGF2dEy6VkK7EM6WNFfhbjVW2MowiDxK        | Choopa, LLC                               | 2017-01-27 00:55:45 | 2017-01-27 02:00:00 |
-| Donaldo Papero                                     | 2267921 ONTARIO LTD                       | 2017-01-27 01:00:42 | 2015-12-11 18:00:00 |
-| tor@westonreed.com                                 | Time Warner Cable Internet LLC            | 2017-01-27 01:10:26 | 2017-01-27 02:00:00 |
-| 2DE1E56E                                           | Telefonica Germany                        | 2017-01-27 02:28:11 | 2016-03-25 17:00:00 |
-| B6BE630F                                           | NTT Communications Corporation            | 2017-01-27 03:47:20 | 2016-12-02 22:00:00 |
-| 54D9759F                                           | M-net Telekommunikations GmbH             | 2017-01-27 03:50:44 | 2017-01-26 11:00:00 |
-| 31DF2EA2                                           | PJSC Rostelecom                           | 2017-01-27 04:05:36 | 2017-01-26 21:00:00 |
-| sander SDF sander_at_sdf.org                       | Digital Ocean, Inc.                       | 2017-01-27 04:09:50 | 2017-01-26 19:00:00 |
-| 20785F15                                           | PJSC Rostelecom                           | 2017-01-27 05:25:13 | 2016-12-17 08:00:00 |
-| 3318721E                                           | Strato AG                                 | 2017-01-27 05:33:06 | 2017-01-26 22:00:00 |
-| 0A43A9DB                                           | National Internet Backbone                | 2017-01-27 05:59:01 | 2016-09-24 18:00:00 |
-| 5522C373                                           | Proximus NV                               | 2017-01-27 06:12:46 | 2017-01-26 21:00:00 |
-| 808C6F06                                           | MTS PJSC                                  | 2017-01-27 06:25:16 | 2017-01-27 07:00:00 |
-| AFE2B4AE                                           | SFR                                       | 2017-01-27 06:27:31 | 2017-01-21 07:00:00 |
-| 93C33635                                           | PJSC Rostelecom                           | 2017-01-27 06:33:56 | 2016-06-22 02:00:00 |
-| Tor Penguin <torexit at denisdelsol ( dot ) com >  | LeaseWeb Netherlands B.V.                 | 2017-01-27 06:35:53 | 2017-01-27 07:00:00 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTA | OVH SAS                                   | 2017-01-27 06:45:05 | 2017-01-27 07:00:00 |
-| 0x88CB98E23CA04F3E <tor AT xemurieh DOT co DOT uk> | DataClub S.A.                             | 2017-01-27 06:53:31 | 2017-01-26 00:00:00 |
-| blubbera <torproject@ej-bap.de>                    | Vodafone GmbH                             | 2017-01-27 06:59:34 | 2016-12-30 10:00:00 |
-| khellwagner@web.de                                 | Deutsche Telekom AG                       | 2017-01-27 07:03:09 | 2017-01-24 20:00:00 |
-| F5C65ECA                                           | Liberty Global Operations B.V.            | 2017-01-27 07:03:30 | 2016-01-13 11:00:00 |
-| 0557921F                                           | Telecom Italia                            | 2017-01-27 07:22:00 | 2017-01-22 15:00:00 |
-| #tor at thedarkNet                                 | SFR                                       | 2017-01-27 07:24:47 | 2016-02-13 11:00:00 |
-| CBF34B12                                           | Bouygues Telecom SA                       | 2017-01-27 07:26:44 | 2017-01-26 14:00:00 |
-| 52A8F34C                                           | Liberty Global Operations B.V.            | 2017-01-27 07:31:12 | 2016-11-19 17:00:00 |
-| 7FCD485E                                           | Vodafone Omnitel B.V.                     | 2017-01-27 07:36:03 | 2016-04-30 23:00:00 |
-| human@rndserv.com                                  | Qhoster Ltd.                              | 2017-01-27 09:01:38 | 2017-01-27 01:00:00 |
-+----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
+| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-11-02 09:25:28 | 2014-02-15 10:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
+| FB802AB9                                           | UAB Rakrejus                                  | 2016-12-30 16:33:09 | 2017-01-24 03:00:00 |
+| 0C6634D2                                           | myLoc managed IT AG                           | 2016-12-30 18:36:54 | 2016-04-18 22:00:00 |
+| 4011F852                                           | Joe's Datacenter, LLC                         | 2017-01-08 06:42:55 | 2016-12-30 06:00:00 |
+| FEF9E17B                                           | Leaseweb Deutschland GmbH                     | 2017-01-19 05:55:19 | 2016-12-13 02:00:00 |
+| 0xdeadbeef <deadbeef AT temasek dot net>           | SingNet                                       | 2017-01-23 11:40:48 | 2014-09-09 08:00:00 |
+| Random Person <nobody AT example dot com>          | 2267921 ONTARIO LTD                           | 2017-01-23 23:53:42 | 2013-11-18 19:00:00 |
+| C7E1BB1B                                           | Contabo GmbH                                  | 2017-01-24 04:00:59 | 2015-02-11 21:00:00 |
+| 80B1B69E                                           | OVH SAS                                       | 2017-01-24 10:00:47 | 2017-01-18 14:00:00 |
+| Ivan Ergun <mandingadiablo@hotmail.com>            | NSS S.A.                                      | 2017-01-24 18:16:59 | 2015-11-27 00:00:00 |
+| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2017-01-25 03:14:52 | 2016-11-13 21:00:00 |
+| Re Pet <njohndoe AT dot com>                       | 1&1 Internet SE                               | 2017-01-25 09:35:34 | 2017-01-25 01:00:00 |
+| 1CA13889                                           | Telecom Italia                                | 2017-01-25 10:05:21 | 2012-01-29 20:00:00 |
+| C9860279                                           | Hyperoptic Ltd                                | 2017-01-25 21:06:51 | 2014-11-10 23:00:00 |
+| Random Person anonymous_frog@bitmessage.ch         | NULL                                          | 2017-01-26 00:24:41 | 2014-08-05 00:00:00 |
+| bbd98c8557904ffcf50d <contact@youmetalk.com>       | Hurricane Electric, Inc.                      | 2017-01-26 00:32:24 | 2017-01-26 01:00:00 |
+| A54E7549                                           | TM Net, Internet Service Provider             | 2017-01-26 01:26:04 | 2016-09-04 02:00:00 |
+| tor@cocktor.com                                    | FlokiNET ehf                                  | 2017-01-26 01:51:51 | 2017-01-25 22:00:00 |
+| F3E30BE0                                           | Alexhost Srl                                  | 2017-01-26 04:22:46 | 2017-01-26 05:00:00 |
+| AD5B33A8                                           | KPN B.V.                                      | 2017-01-26 05:44:00 | 2017-01-25 22:00:00 |
+| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                       | 2017-01-26 05:49:45 | 2017-01-26 08:00:00 |
+| 2D9AF9BD                                           | Network Presence                              | 2017-01-26 06:14:55 | 2017-01-26 07:00:00 |
+| Melissa <calymenina AT gmail dot com>              | Comcast Cable Communications, LLC             | 2017-01-26 06:57:54 | 2017-01-26 08:00:00 |
+| 302F7B6E                                           | Choopa, LLC                                   | 2017-01-26 08:06:45 | 2017-01-26 09:00:00 |
+| Nick@tor.rip , Donations: 1NickTorKsQ9NbVw1c67dXss | FlokiNET ehf                                  | 2017-01-26 13:02:49 | 2017-01-26 02:00:00 |
+| B5DA19CF                                           | THC Projects SRL                              | 2017-01-26 13:25:16 | 2017-01-26 14:00:00 |
+| 907F03F4                                           | Alexhost Srl                                  | 2017-01-26 13:55:38 | 2017-01-26 15:00:00 |
+| FirstName LastName <MyName AT MailServer dot com>  | Hosting Ukraine LTD                           | 2017-01-26 14:16:44 | 2017-01-26 15:00:00 |
+| B6F63058                                           | Choopa, LLC                                   | 2017-01-26 14:35:29 | 2017-01-26 15:00:00 |
+| E49A6894                                           | ITL Company                                   | 2017-01-26 15:11:12 | 2017-01-26 16:00:00 |
+| F2DA4AEF                                           | SoftLayer Technologies Inc.                   | 2017-01-26 15:27:28 | 2017-01-26 16:00:00 |
+| D13DBF73                                           | Digital Energy Technologies Limited           | 2017-01-26 15:29:17 | 2017-01-26 16:00:00 |
+| 6C4464E9                                           | Deutsche Telekom AG                           | 2017-01-26 17:09:19 | 2017-01-26 10:00:00 |
+| DFABAE61                                           | Deutsche Telekom AG                           | 2017-01-26 17:29:33 | 2017-01-26 19:00:00 |
+| 4096R/751DB475 Morten Br?ns-Pedersen <mortenbp AT  | Hiper A/S                                     | 2017-01-26 17:31:24 | 2017-01-26 18:00:00 |
+| Nun JA <admin AT hsga dot biz>                     | Strato AG                                     | 2017-01-26 17:32:33 | 2017-01-26 18:00:00 |
+| 8D13B19D                                           | LeaseWeb Netherlands B.V.                     | 2017-01-26 17:34:22 | 2017-01-26 16:00:00 |
+| 952B8010                                           | Svyaz-Telecom Ltd.                            | 2017-01-26 17:34:50 | 2016-01-10 12:00:00 |
+| Donaldo Papero                                     | 2267921 ONTARIO LTD                           | 2017-01-26 18:30:10 | 2017-01-26 19:00:00 |
+| CBAD1B29                                           | Rices Privately owned enterprise              | 2017-01-26 18:33:47 | 2017-01-26 19:00:00 |
+| CF060C53                                           | Google Inc.                                   | 2017-01-26 19:02:43 | 2017-01-26 20:00:00 |
+| 260FD3C4                                           | Telefonica De Espana                          | 2017-01-26 19:21:28 | 2017-01-26 20:00:00 |
+| EF25A318                                           | ServerStack, Inc.                             | 2017-01-26 19:27:29 | 2017-01-26 06:00:00 |
+| < exittor AT tuta dot io > - BTC - 18ye1rEXFgbdoqq | Online S.a.s.                                 | 2017-01-26 19:28:35 | 2017-01-26 12:00:00 |
+| 77AAC7E9                                           | Free SAS                                      | 2017-01-26 19:33:12 | 2016-11-01 08:00:00 |
+| E397C695                                           | OVH SAS                                       | 2017-01-26 20:02:32 | 2017-01-26 21:00:00 |
+| D731FA7B                                           | SFR                                           | 2017-01-26 20:56:57 | 2017-01-26 22:00:00 |
+| parleportentor@gmail.com                           | Com Hem AB                                    | 2017-01-26 20:59:46 | 2017-01-26 21:00:00 |
+| webmaster@usueagle.com                             | Wowrack.com                                   | 2017-01-26 21:47:08 | 2017-01-26 23:00:00 |
+| 3D746F58                                           | Orange                                        | 2017-01-26 23:01:50 | 2016-06-20 14:00:00 |
+| 304E6D0E                                           | Amazon.com, Inc.                              | 2017-01-26 23:23:17 | 2017-01-27 00:00:00 |
+| 2461C4A3                                           | Online S.a.s.                                 | 2017-01-27 00:00:07 | 2017-01-27 01:00:00 |
+| 0x92b73d37435d9327 -- Adrian Thayer -- < indicativ | RamNode LLC                                   | 2017-01-27 00:06:36 | 2017-01-27 00:00:00 |
+| John Doe 1DpGF2dEy6VkK7EM6WNFfhbjVW2MowiDxK        | Choopa, LLC                                   | 2017-01-27 00:55:45 | 2017-01-27 02:00:00 |
+| Donaldo Papero                                     | 2267921 ONTARIO LTD                           | 2017-01-27 01:00:42 | 2015-12-11 18:00:00 |
+| tor@westonreed.com                                 | Time Warner Cable Internet LLC                | 2017-01-27 01:10:26 | 2017-01-27 02:00:00 |
+| 4E05571F                                           | LIWEST Kabelfernsehen Errichtungs- und Betrie | 2017-01-27 02:24:21 | 2016-11-04 11:00:00 |
+| 54D9759F                                           | M-net Telekommunikations GmbH                 | 2017-01-27 03:50:44 | 2017-01-26 11:00:00 |
+| 31DF2EA2                                           | PJSC Rostelecom                               | 2017-01-27 04:05:36 | 2017-01-26 21:00:00 |
+| sander SDF sander_at_sdf.org                       | Digital Ocean, Inc.                           | 2017-01-27 04:09:50 | 2017-01-26 19:00:00 |
+| 3318721E                                           | Strato AG                                     | 2017-01-27 05:33:06 | 2017-01-26 22:00:00 |
+| AFE2B4AE                                           | SFR                                           | 2017-01-27 06:27:31 | 2017-01-21 07:00:00 |
+| 0x88CB98E23CA04F3E <tor AT xemurieh DOT co DOT uk> | DataClub S.A.                                 | 2017-01-27 06:53:31 | 2017-01-26 00:00:00 |
+| 3489EADB                                           | TE Data                                       | 2017-01-27 07:16:23 | 2017-01-27 08:00:00 |
+| #tor at thedarkNet                                 | SFR                                           | 2017-01-27 07:24:47 | 2016-02-13 11:00:00 |
+| C78DD47E                                           | NForce Entertainment B.V.                     | 2017-01-27 08:07:00 | 2017-01-26 13:00:00 |
+| thys 1CrcVzNQqeBoZwtPyYfqq8uW1teX8pbUEa            | Online S.a.s.                                 | 2017-01-27 08:11:09 | 2015-11-01 12:00:00 |
+| marc@haareimwind.de                                | Liberty Global Operations B.V.                | 2017-01-27 08:13:55 | 2017-01-27 09:00:00 |
+| D009BAF3                                           | Online S.a.s.                                 | 2017-01-27 08:24:37 | 2017-01-27 09:00:00 |
+| FBDB4F49                                           | Digital Ocean, Inc.                           | 2017-01-27 08:42:16 | 2017-01-27 09:00:00 |
+| FEF1FD96                                           | Wind Telecomunicazioni SpA                    | 2017-01-27 09:27:49 | 2015-09-24 18:00:00 |
+| klickmich.org <tor AT klickmich dot org>           | myLoc managed IT AG                           | 2017-01-27 09:31:28 | 2017-01-27 09:00:00 |
+| A17E16E4                                           | Portunity GmbH                                | 2017-01-27 09:33:30 | 2017-01-27 10:00:00 |
+| 65F26AAB                                           | Telecom Algeria                               | 2017-01-27 09:35:39 | 2016-10-25 21:00:00 |
+| 5C52E526                                           | The Corporation for Financing & Promoting Tec | 2017-01-27 09:42:13 | 2017-01-21 02:00:00 |
+| Bunnie <tor[AT]bunnix[DOT]net>                     | MyRepublic Ltd.                               | 2017-01-27 09:48:35 | 2016-09-12 06:00:00 |
+| 3062E26D                                           | TELEFÔNICA BRASIL S.A                         | 2017-01-27 09:54:56 | 2017-01-27 09:00:00 |
+| Random Person <nobody AT example dot com>          | UKfastnet Ltd                                 | 2017-01-27 09:58:11 | 2017-01-27 11:00:00 |
+| monique dot flageol74 at gmx dot fr                | Bouygues Telecom SA                           | 2017-01-27 10:06:20 | 2016-11-04 08:00:00 |
+| 36C0E0C4                                           | TELEFÔNICA BRASIL S.A                         | 2017-01-27 10:09:19 | 2017-01-23 18:00:00 |
+| Tor Penguin <torexit at denisdelsol ( dot ) com >  | LeaseWeb Netherlands B.V.                     | 2017-01-27 10:19:28 | 2017-01-27 07:00:00 |
+| tippi2007@freenet.de                               | Deutsche Telekom AG                           | 2017-01-27 10:20:25 | 2017-01-27 11:00:00 |
+| lars789852 at yahoo dot de                         | myLoc managed IT AG                           | 2017-01-27 10:24:08 | 2015-09-03 10:00:00 |
+| E2868E9F                                           | Viettel Corporation                           | 2017-01-27 10:24:41 | 2017-01-27 09:00:00 |
+| 331BE3A2                                           | netcup GmbH                                   | 2017-01-27 10:28:03 | 2017-01-27 11:00:00 |
+| DarthVaderJ@earth.galaxy                           | Telecom Italia                                | 2017-01-27 10:43:27 | 2017-01-27 11:00:00 |
+| E1D70883                                           | OJSC Ufanet                                   | 2017-01-27 10:57:51 | 2016-02-04 06:00:00 |
+| Admin <admin AT bettyroot DOT ovh>                 | NULL                                          | 2017-01-27 11:03:17 | 2017-01-27 12:00:00 |
+| Admin <admin AT bettyroot DOT ovh>                 | OVH SAS                                       | 2017-01-27 11:08:16 | 2017-01-27 12:00:00 |
+| 4B2BE219                                           | Consortium GARR                               | 2017-01-27 11:14:38 | 2017-01-08 13:00:00 |
+| 9D34D706                                           | Telia Stofa A/S                               | 2017-01-27 11:38:49 | 2017-01-18 20:00:00 |
+| F20E21CE                                           | Deutsche Telekom AG                           | 2017-01-27 11:52:02 | 2016-06-29 10:00:00 |
+| 0xFFFFFFFF Random Person <abuse .AT. uk .DOT. aql  | (aq) networks limited                         | 2017-01-27 11:53:39 | 2017-01-27 11:00:00 |
+| 8B4311DE                                           | PJSC Rostelecom                               | 2017-01-27 11:56:43 | 2017-01-10 13:00:00 |
+| 4A2B5761                                           | Tiscali UK Limited                            | 2017-01-27 12:01:46 | 2016-09-28 23:00:00 |
+| DDDA31F7                                           | SkyNet Ltd.                                   | 2017-01-27 12:01:59 | 2017-01-27 13:00:00 |
+| 5522C373                                           | Proximus NV                                   | 2017-01-27 12:06:11 | 2017-01-26 21:00:00 |
+| 9B0DFD54                                           | Tim Celular S.A.                              | 2017-01-27 12:07:24 | 2017-01-26 16:00:00 |
+| 293915DF                                           | SecureNet Information Services                | 2017-01-27 12:24:39 | 2017-01-26 21:00:00 |
+| 902106A0                                           | Deutsche Telekom AG                           | 2017-01-27 12:26:33 | 2016-10-18 16:00:00 |
+| 36F4D0B5                                           | Vodafone Kabel Deutschland GmbH               | 2017-01-27 12:30:42 | 2017-01-24 17:00:00 |
+| 46325FA4                                           | Wind Telecomunicazioni SpA                    | 2017-01-27 12:31:38 | 2016-12-07 14:00:00 |
+| A47998C1                                           | ITL Company                                   | 2017-01-27 12:34:00 | 2017-01-27 13:00:00 |
+| 0xF57091DBD60FBBB8 Kyle Amon <amonk@backwatcher.co | 2267921 ONTARIO LTD                           | 2017-01-27 12:40:19 | 2017-01-27 13:00:00 |
+| 198642FE                                           | Domashnya Merezha, LLC                        | 2017-01-27 12:57:34 | 2017-01-25 18:00:00 |
+| 015ED427                                           | Telefonica Germany                            | 2017-01-27 15:14:38 | 2014-04-09 10:00:00 |
+| 0F1BB738                                           | PJSC Rostelecom                               | 2017-01-27 16:34:45 | 2017-01-22 04:00:00 |
+| 040D25E6                                           | senseLAN GmbH                                 | 2017-01-27 17:49:38 | 2017-01-24 20:00:00 |
+| human@rndserv.com                                  | Qhoster Ltd.                                  | 2017-01-27 18:24:41 | 2017-01-27 12:00:00 |
+| 194F1DA6                                           | Deutsche Telekom AG                           | 2017-01-27 19:35:17 | 2014-04-09 23:00:00 |
+| 17D5A422                                           | Bahnhof Internet AB                           | 2017-01-27 21:28:48 | 2016-12-25 09:00:00 |
++----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
