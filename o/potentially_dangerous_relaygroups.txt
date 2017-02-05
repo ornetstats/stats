@@ -1,7 +1,7 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-02-02 07:00:00 |
+| 2017-02-05 18:00:00 |
 +---------------------+
 
 Groups in GUARD and EXIT position (worst case)
@@ -9,46 +9,45 @@ Groups in GUARD and EXIT position (worst case)
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.243 |         2 |     13 |        4 |       0.17 |        0.12 |      0.56 |
-| blazingvpn+tor(at)protonmail(dot)ch                          | 0.129 |         3 |      3 |        1 |       0.04 |        0.02 |      0.44 |
-| George Shuklin <george.shuklin@gmail.com>                    | 0.033 |         2 |      2 |        1 |       0.02 |        0.01 |      0.06 |
-| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNvxdcXydDUNr | 0.030 |         5 |      5 |        4 |       0.01 |        0.01 |      0.07 |
+| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.252 |         2 |     13 |        4 |       0.17 |        0.12 |      0.59 |
+| blazingvpn+tor(at)protonmail(dot)ch [tor-relay.co]           | 0.110 |         2 |      2 |        1 |       0.01 |        0.00 |      0.44 |
+| wambo@cock.li                                                | 0.027 |         3 |      3 |        1 |       0.03 |        0.02 |      0.01 |
+| George Shuklin <george.shuklin@gmail.com>                    | 0.019 |         2 |      2 |        1 |       0.02 |        0.01 |      0.01 |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 
 MIDDLE + EXIT position
 ======================
-+--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
-+--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| Brandon Kuschel <kusch023 AT NOSPAM umn dot edu>             | 0.018 |         2 |      3 |        1 |       0.00 |        0.02 |      0.04 |
-| 0xF57091DBD60FBBB8 Kyle Amon <amonk@backwatcher.com> - 1DDN7 | 0.011 |         5 |      7 |        1 |       0.00 |        0.01 |      0.02 |
-+--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
++--------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
+| contact                                          | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
++--------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
+| tor.noisebridge.net <admin@tor.noisebridge.net>  | 0.196 |         2 |      5 |        1 |       0.00 |        0.05 |      0.76 |
+| pwcrack@pwcrack.com                              | 0.024 |         2 |      5 |        1 |       0.00 |        0.05 |      0.02 |
+| Brandon Kuschel <kusch023 AT NOSPAM umn dot edu> | 0.016 |         2 |      3 |        1 |       0.00 |        0.01 |      0.04 |
++--------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 
 ENTRY + MIDDLE position
 =======================
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDFgGYjQWpDjq | 1.080 |        25 |     33 |        1 |       1.46 |        1.33 |      0.00 |
-| relay <!A@T?> dipulse {D;O_T} it                             | 0.425 |         2 |      9 |        1 |       0.66 |        0.44 |      0.00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a              | 0.424 |         4 |     14 |        1 |       0.65 |        0.44 |      0.00 |
-| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXETqVu8ctEKK | 0.398 |         5 |      7 |        1 |       0.61 |        0.41 |      0.00 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>            | 0.317 |         2 |      3 |        1 |       0.49 |        0.32 |      0.00 |
-| <Mr. Cha Cha> DoTheChaCha@protonmail.com                     | 0.283 |         3 |      3 |        1 |       0.23 |        0.49 |      0.00 |
-| freeasinbeer@techie.com                                      | 0.264 |         3 |      3 |        1 |       0.41 |        0.27 |      0.00 |
-| <roger fillipo> rodger.fillipo@mail.com                      | 0.263 |         3 |      3 |        1 |       0.40 |        0.27 |      0.00 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL}  | 0.233 |         7 |      7 |        1 |       0.35 |        0.25 |      0.00 |
-| dev.null@kryptonit.org - 1AjBZw8ExjkWgh7Y5s9mLX4UXHadzPfKQu  | 0.228 |         2 |      4 |        1 |       0.35 |        0.23 |      0.00 |
-| relays [at] riseup.net                                       | 0.194 |         3 |      3 |        1 |       0.30 |        0.20 |      0.00 |
-| Knight <knight AT germancraft DOT net> - 1FtUVig2YfcaVcV8Umd | 0.181 |         3 |      3 |        1 |       0.26 |        0.20 |      0.00 |
-| Pascal666 at Users dot SourceForge dot Net - 1EYFAi9UUJVLPoh | 0.175 |         3 |     10 |        1 |       0.27 |        0.18 |      0.00 |
-| <Jannis> jannisde85@eclipso.eu                               | 0.172 |         3 |      3 |        1 |       0.18 |        0.26 |      0.00 |
-| mandalorian.outpost.222@yandex DOT com                       | 0.160 |         2 |      2 |        1 |       0.24 |        0.16 |      0.00 |
-| donate  361RD3k2ARs1iBpLMDKSKF3gRNMoSc22KT                   | 0.138 |         2 |      2 |        1 |       0.21 |        0.14 |      0.00 |
-| sparky2749@gmail.com                                         | 0.137 |         2 |      2 |        1 |       0.21 |        0.14 |      0.00 |
-| Servbr Admin <servbr [AT] mail [DOT] md>                     | 0.136 |         2 |      4 |        1 |       0.19 |        0.15 |      0.00 |
-| Kevin <tor AT kberanek dot com>                              | 0.133 |         5 |      9 |        1 |       0.18 |        0.16 |      0.00 |
-| 0xBABECAF8F00591A5768E188DE051115600AF1A59 <x at y.z where x | 0.124 |         2 |      2 |        1 |       0.19 |        0.13 |      0.00 |
-| Random Person <bavariantorproject@gmail.com>                 | 0.116 |         2 |      3 |        1 |       0.18 |        0.12 |      0.00 |
-| 0x4D80BF88 Philipp 'TamCore' Born <tor AT tamcore DOT eu>    | 0.100 |         2 |      2 |        1 |       0.15 |        0.10 |      0.00 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDFgGYjQWpDjq | 1.152 |        25 |     33 |        1 |       1.55 |        1.43 |      0.00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a              | 0.609 |         5 |     18 |        1 |       0.71 |        0.87 |      0.00 |
+| relay <!A@T?> dipulse {D;O_T} it                             | 0.390 |         2 |     10 |        1 |       0.59 |        0.41 |      0.00 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>            | 0.366 |         2 |      3 |        1 |       0.56 |        0.38 |      0.00 |
+| <roger fillipo> rodger.fillipo@mail.com                      | 0.321 |         3 |      3 |        1 |       0.49 |        0.33 |      0.00 |
+| Bauruine <torcontact aatt tuxli.ch> - 1CVkdZfRGWXETqVu8ctEKK | 0.303 |         5 |      7 |        1 |       0.46 |        0.32 |      0.00 |
+| BPM / Squalala <contact42bpm [AT] gmail [dot] com>           | 0.227 |         4 |      5 |        1 |       0.34 |        0.24 |      0.00 |
+| relays [at] riseup.net                                       | 0.218 |         3 |      3 |        1 |       0.33 |        0.22 |      0.00 |
+| dev.null@kryptonit.org - 1AjBZw8ExjkWgh7Y5s9mLX4UXHadzPfKQu  | 0.212 |         2 |      4 |        1 |       0.32 |        0.22 |      0.00 |
+| sparky2749@gmail.com                                         | 0.210 |         2 |      2 |        1 |       0.32 |        0.22 |      0.00 |
+| mandalorian.outpost.222@yandex DOT com                       | 0.207 |         2 |      2 |        1 |       0.31 |        0.21 |      0.00 |
+| <Jannis> jannisde85@eclipso.eu                               | 0.185 |         3 |      3 |        1 |       0.20 |        0.28 |      0.00 |
+| freeasinbeer@techie.com                                      | 0.182 |         3 |      3 |        1 |       0.28 |        0.19 |      0.00 |
+| <Mr. Cha Cha> DoTheChaCha@protonmail.com                     | 0.167 |         3 |      3 |        1 |       0.25 |        0.17 |      0.00 |
+| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL}  | 0.161 |         6 |      6 |        1 |       0.24 |        0.17 |      0.00 |
+| donate  361RD3k2ARs1iBpLMDKSKF3gRNMoSc22KT                   | 0.161 |         2 |      2 |        1 |       0.24 |        0.17 |      0.00 |
+| Pascal666 at Users dot SourceForge dot Net - 1EYFAi9UUJVLPoh | 0.143 |         3 |     10 |        1 |       0.22 |        0.15 |      0.00 |
+| 0xBABECAF8F00591A5768E188DE051115600AF1A59 <x at y.z where x | 0.123 |         2 |      2 |        1 |       0.19 |        0.13 |      0.00 |
+| Servbr Admin <servbr [AT] mail [DOT] md>                     | 0.112 |         3 |      5 |        1 |       0.16 |        0.12 |      0.00 |
+| Random Person <bavariantorproject@gmail.com>                 | 0.111 |         2 |      3 |        1 |       0.17 |        0.11 |      0.00 |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
