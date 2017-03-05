@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-03-04 07:00:00 |
+| 2017-03-05 12:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
 | contact or fingerprint                             | middle_prob | cw-fraction | exit_prob | guard_prob | ASes | countries | /16 netblocks | relaycount |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
-| monitor0penmailbox0rg                              |         1.1 |        0.71 |       0.0 |        0.6 |    4 |         3 |             5 |         37 |
-| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.1 |        1.06 |       0.0 |        1.6 |    1 |         1 |             1 |          3 |
-| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |         0.9 |        0.92 |       0.0 |        1.4 |    3 |         3 |             3 |          5 |
-| gmail is teor2345 | http://tor-relays.net | PGP C8 |         0.8 |        0.92 |       0.3 |        1.2 |    3 |         3 |             4 |         12 |
-| GTor <contact _AT_ gtor _DOT_ org>                 |         0.7 |        0.61 |       0.0 |        0.8 |    2 |         2 |             2 |         10 |
-| BrassHornComms <hello@brasshorncommunications.uk>  |         0.6 |        0.47 |       0.4 |        0.3 |    9 |         8 |            13 |         16 |
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.6 |        0.60 |       0.0 |        0.9 |    3 |         2 |             4 |          5 |
-| tor[a]rofl.cat - 17bD7EWsSXrqrqk2ibbprPxhegMqecsaC |         0.5 |        0.26 |       0.0 |        0.1 |    6 |         5 |             7 |          7 |
-| Felix <zwiebel ta quantentunnel tod de>            |         0.5 |        0.49 |       0.0 |        0.7 |    4 |         1 |             5 |         14 |
+| Gijs Rijnders (tor AT ip-eend DOT nl)              |         1.1 |        1.07 |       0.0 |        1.6 |    1 |         1 |             1 |          3 |
+| monitor0penmailbox0rg                              |         0.9 |        0.68 |       0.0 |        0.8 |    4 |         3 |             5 |         38 |
+| gmail is teor2345 | http://tor-relays.net | PGP C8 |         0.9 |        0.96 |       0.3 |        1.3 |    3 |         3 |             4 |         12 |
+| tor at 0x3d dot lu - 1x3dG3utS7FDrTtJutnR3zuCo4Z8f |         0.9 |        0.90 |       0.0 |        1.3 |    3 |         3 |             3 |          5 |
+| GTor <contact _AT_ gtor _DOT_ org>                 |         0.7 |        0.56 |       0.0 |        0.7 |    2 |         2 |             2 |         10 |
+| BrassHornComms <hello@brasshorncommunications.uk>  |         0.6 |        0.45 |       0.4 |        0.3 |    7 |         6 |            10 |         15 |
+| 45A00F0A                                           |         0.6 |        0.57 |       0.0 |        0.8 |    1 |         1 |             1 |          8 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |         0.6 |        0.62 |       0.0 |        0.9 |    3 |         2 |             4 |          5 |
+| Felix <zwiebel ta quantentunnel tod de>            |         0.5 |        0.48 |       0.0 |        0.7 |    4 |         1 |             5 |         14 |
 | aTorRelay@gmail.com                                |         0.5 |        0.51 |       0.1 |        0.7 |    3 |         3 |             4 |          7 |
-| 45A00F0A                                           |         0.5 |        0.54 |       0.0 |        0.8 |    1 |         1 |             1 |          8 |
 | <Jannis> jannisde85@eclipso.eu                     |         0.5 |        0.20 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| Hello, I am a Tor node! My nickname: https://youtu |         0.4 |        0.39 |       0.0 |        0.5 |    3 |         3 |             7 |         13 |
-| see https://www.artikel5ev.de/torcontact/          |         0.4 |        0.45 |       0.3 |        0.4 |    8 |         6 |            13 |         17 |
-| tor terjan net                                     |         0.4 |        0.45 |       0.0 |        0.6 |    7 |         6 |             9 |         10 |
-| 76BC99B9                                           |         0.4 |        0.17 |       0.0 |        0.0 |    1 |         1 |             1 |          6 |
-| tor[at]fiberoverethernet[dot]com                   |         0.4 |        0.40 |       0.0 |        0.6 |    8 |         7 |             7 |          8 |
-| 4096R/0x73538126032AD297 Christian Krbusek <abuse  |         0.4 |        0.28 |       0.0 |        0.2 |    1 |         1 |             1 |          2 |
-| Boris Nagaev 1MZH41vEeaRaJo2WnifnGswBwM4YXoeNDb <b |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
-| sirmatt ksu edu 0x94FBBB0A                         |         0.3 |        0.48 |       1.0 |        0.3 |    3 |         3 |             3 |          7 |
+| tor[a]rofl.cat - 17bD7EWsSXrqrqk2ibbprPxhegMqecsaC |         0.4 |        0.26 |       0.0 |        0.1 |    5 |         4 |             6 |          6 |
+| Hello, I am a Tor node! My nickname: https://youtu |         0.4 |        0.40 |       0.0 |        0.5 |    3 |         3 |             6 |         13 |
+| see https://www.artikel5ev.de/torcontact/          |         0.4 |        0.43 |       0.3 |        0.4 |    7 |         5 |            11 |         15 |
+| tor terjan net                                     |         0.4 |        0.41 |       0.0 |        0.6 |    7 |         6 |             9 |         10 |
+| tor[at]fiberoverethernet[dot]com                   |         0.4 |        0.40 |       0.0 |        0.5 |    8 |         7 |             7 |          8 |
+| Boris Nagaev 1MZH41vEeaRaJo2WnifnGswBwM4YXoeNDb <b |         0.3 |        0.28 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
 | 0xa59c937109d37225 Patrick Oberdorf <patrick+tor@o |         0.3 |        0.15 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| JoSch <tor4711 AT cell dot de>                     |         0.3 |        0.33 |       0.0 |        0.5 |    1 |         1 |             1 |          3 |
+| JoSch <tor4711 AT cell dot de>                     |         0.3 |        0.32 |       0.0 |        0.4 |    1 |         1 |             1 |          3 |
+| 76BC99B9                                           |         0.3 |        0.14 |       0.0 |        0.0 |    1 |         1 |             1 |          6 |
 | whycantiholdallthesebits@gmail.com - 1K2v9of2nmHtQ |         0.3 |        0.12 |       0.0 |        0.0 |    7 |         6 |             7 |          7 |
 | 9A2014BE                                           |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          2 |
-| D1E706B9                                           |         0.3 |        0.13 |       0.0 |        0.0 |    1 |         1 |             1 |          1 |
-| mandalorian.outpost.222@yandex DOT com             |         0.3 |        0.34 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
-| poiuty@protonmail.com - 1YWqF3SGnQMkwgfGasrNmYv1XG |         0.3 |        0.32 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| 4096R/0x73538126032AD297 Christian Krbusek <abuse  |         0.3 |        0.29 |       0.0 |        0.4 |    1 |         1 |             1 |          2 |
+| mandalorian.outpost.222@yandex DOT com             |         0.3 |        0.33 |       0.0 |        0.5 |    1 |         1 |             1 |          1 |
+| poiuty@protonmail.com - 1YWqF3SGnQMkwgfGasrNmYv1XG |         0.3 |        0.31 |       0.0 |        0.4 |    1 |         1 |             1 |          1 |
+| 1CsfihQGy5kg3nnTJLzfmNDiPGqiQgdeMz <bnagaev@gmail. |         0.2 |        0.20 |       0.0 |        0.3 |    2 |         2 |             2 |          2 |
 | 0x43C4819E Chip Marshall <chip@2bithacker.net>     |         0.2 |        0.22 |       0.0 |        0.3 |   11 |         7 |            10 |         12 |
-| BPM / Squalala <contact42bpm [AT] gmail [dot] com> |         0.2 |        0.28 |       0.2 |        0.3 |    3 |         3 |             4 |          5 |
-| Kevin <tor AT kberanek dot com>                    |         0.2 |        0.16 |       0.0 |        0.1 |    4 |         5 |             5 |          9 |
+| BPM / Squalala <contact42bpm [AT] gmail [dot] com> |         0.2 |        0.27 |       0.2 |        0.3 |    3 |         3 |             4 |          5 |
+| Kevin <tor AT kberanek dot com>                    |         0.2 |        0.15 |       0.0 |        0.1 |    4 |         5 |             5 |          9 |
+| sirmatt ksu edu 0x94FBBB0A                         |         0.2 |        0.49 |       1.1 |        0.3 |    3 |         3 |             3 |          7 |
 +----------------------------------------------------+-------------+-------------+-----------+------------+------+-----------+---------------+------------+
