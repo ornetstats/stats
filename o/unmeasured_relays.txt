@@ -1,72 +1,56 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-03-13 07:00:00 |
+| 2017-03-14 07:00:00 |
 +---------------------+
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
 | contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
 | lol@hat - 1o1hatMRch5hU6bshSo4sX7wu5ajUgan5        | Linode, LLC                                   | 2016-10-02 18:04:16 | 2015-12-28 06:00:00 |
-| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-11-02 09:25:28 | 2014-02-15 10:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-11-29 06:38:03 | 2014-06-20 07:00:00 |
+| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2016-11-02 09:25:27 | 2014-02-15 10:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
 | 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2017-02-01 03:46:52 | 2014-05-29 13:00:00 |
 | Ivan Ergun <mandingadiablo@hotmail.com>            | NSS S.A.                                      | 2017-02-08 18:54:54 | 2015-11-27 00:00:00 |
 | 4011F852                                           | Joe's Datacenter, LLC                         | 2017-02-11 03:56:15 | 2016-12-30 06:00:00 |
 | 0C6634D2                                           | myLoc managed IT AG                           | 2017-02-11 09:11:38 | 2016-04-18 22:00:00 |
-| Random Person <nobody AT example dot com>          | Prometeus di Daniela Agro                     | 2017-02-24 19:25:00 | 2017-02-15 18:00:00 |
 | Random Person <nobody AT example dot com>          | 2267921 ONTARIO LTD                           | 2017-03-03 20:00:00 | 2013-11-18 19:00:00 |
-| 219FF9E7                                           | FastBit AB                                    | 2017-03-04 13:28:07 | 2016-12-24 18:00:00 |
 | 28DAB81A                                           | Psychz Networks                               | 2017-03-06 18:57:29 | 2017-02-09 22:00:00 |
 | 3C90DCD2                                           | Inter Net Bilgisayar Turizm Tic Ltd Sti       | 2017-03-09 13:43:02 | 2017-03-06 13:00:00 |
-| 5C4A0C39                                           | ITL Company                                   | 2017-03-12 11:06:32 | 2017-03-12 12:00:00 |
-| 89E80B60                                           | netcup GmbH                                   | 2017-03-12 15:04:04 | 2017-03-12 16:00:00 |
-| F1A1A644                                           | SFR                                           | 2017-03-12 15:36:25 | 2016-12-31 11:00:00 |
-| 9A5052D4                                           | Orange                                        | 2017-03-12 17:00:33 | 2017-03-12 18:00:00 |
-| 5A60BDB2                                           | NULL                                          | 2017-03-12 17:40:40 | 2017-03-12 18:00:00 |
-| CF275F64                                           | Choopa, LLC                                   | 2017-03-12 19:27:16 | 2017-03-12 20:00:00 |
-| 658C9ED0                                           | Choopa, LLC                                   | 2017-03-12 19:27:51 | 2017-03-12 20:00:00 |
-| D0BE31DC                                           | Choopa, LLC                                   | 2017-03-12 19:28:28 | 2017-03-12 20:00:00 |
-| B90877B4                                           | Choopa, LLC                                   | 2017-03-12 19:29:12 | 2017-03-12 20:00:00 |
-| 41A42A55                                           | Choopa, LLC                                   | 2017-03-12 19:29:44 | 2017-03-12 20:00:00 |
-| 4C0129BA                                           | PJSC Rostelecom                               | 2017-03-12 20:19:42 | 2016-05-20 16:00:00 |
-| Random Person <info AT dxx dot eu>                 | Accelerated IT Services GmbH                  | 2017-03-12 20:30:57 | 2017-03-12 19:00:00 |
-| <0x1337f AT protonmail dot ch>                     | Online S.a.s.                                 | 2017-03-12 21:08:22 | 2017-03-12 06:00:00 |
-| snaptorg(at)gmail(,)com >> bitcoin:1DmvqGnoexBSzSF | OVH SAS                                       | 2017-03-12 21:16:08 | 2017-03-12 22:00:00 |
-| 4230480D                                           | WorldStream B.V.                              | 2017-03-12 21:19:33 | 2017-03-12 19:00:00 |
-| kwss at protonmail dot com                         | Obenetwork AB                                 | 2017-03-12 21:24:29 | 2016-04-05 20:00:00 |
-| snaptorg(at)gmail(,)com >> bitcoin:1DmvqGnoexBSzSF | OVH SAS                                       | 2017-03-12 21:37:06 | 2017-03-12 22:00:00 |
-| Anonymous                                          | Digital Ocean, Inc.                           | 2017-03-12 22:02:20 | 2017-03-12 20:00:00 |
-| Andreas  <tor@scenics.se>                          | Telia Company AB                              | 2017-03-12 22:06:37 | 2016-02-13 14:00:00 |
-| Juergen Friedrichs <juergen.friedrichs@mailbox.org | Vodafone Kabel Deutschland GmbH               | 2017-03-12 22:17:10 | 2017-03-12 23:00:00 |
-| Juergen Friedrichs <juergen.friedrichs@mailbox.org | netcup GmbH                                   | 2017-03-12 22:17:19 | 2017-03-12 23:00:00 |
-| Gerco Dries <tor at gdries dot nl>                 | Comcast Cable Communications, LLC             | 2017-03-12 22:32:59 | 2017-03-12 23:00:00 |
-| tor(-at)chrmtz(==DoT)de                            | Online S.a.s.                                 | 2017-03-12 22:33:49 | 2017-03-12 23:00:00 |
-| AFC63737                                           | Online S.a.s.                                 | 2017-03-12 23:09:09 | 2017-03-13 00:00:00 |
-| Charles (secretsecret1234secretsecret AT gmail dot | Time Warner Cable Internet LLC                | 2017-03-12 23:22:47 | 2017-03-12 09:00:00 |
-| 4CBFB1D4                                           | MCI Communications Services, Inc. d/b/a Veriz | 2017-03-12 23:45:58 | 2017-03-13 00:00:00 |
-| logaldeveloper@protonmail.com                      | Digital Ocean, Inc.                           | 2017-03-12 23:58:55 | 2017-03-12 22:00:00 |
-| logaldeveloper@protonmail.com                      | Digital Ocean, Inc.                           | 2017-03-12 23:58:56 | 2017-03-12 21:00:00 |
-| 831D0DF3                                           | Elisa Oyj                                     | 2017-03-13 00:01:43 | 2017-03-13 00:00:00 |
-| 34135E15                                           | SecureNet Information Services                | 2017-03-13 00:02:10 | 2017-03-13 01:00:00 |
-| 4A0FA771                                           | Bezeq International                           | 2017-03-13 00:04:23 | 2016-07-03 10:00:00 |
-| GTor <nobody AT example dot com>                   | AbeloHost B.V.                                | 2017-03-13 00:40:47 | 2017-03-13 00:00:00 |
-| 457F166C                                           | Deutsche Telekom AG                           | 2017-03-13 00:41:16 | 2017-03-12 20:00:00 |
-| C4940420                                           | Wind Telecomunicazioni SpA                    | 2017-03-13 00:42:36 | 2017-03-12 18:00:00 |
-| tor-relay-admin robgjansen com                     | Hurricane Electric, Inc.                      | 2017-03-13 01:02:47 | 2016-11-17 18:00:00 |
-| tor-relay-admin robgjansen com                     | Hurricane Electric, Inc.                      | 2017-03-13 01:05:25 | 2016-11-23 23:00:00 |
-| tor-relay-admin robgjansen com                     | Hurricane Electric, Inc.                      | 2017-03-13 01:06:09 | 2016-11-16 23:00:00 |
-| tor-relay-admin robgjansen com                     | Hurricane Electric, Inc.                      | 2017-03-13 01:06:33 | 2016-11-23 23:00:00 |
-| 2FF1976C                                           | EPM Telecomunicaciones S.A. E.S.P.            | 2017-03-13 01:42:27 | 2017-03-10 18:00:00 |
-| 5577FDC0                                           | Qwest Communications Company, LLC             | 2017-03-13 03:13:43 | 2017-03-11 19:00:00 |
-| 27DEDF30                                           | NTT Communications Corporation                | 2017-03-13 04:15:02 | 2016-09-10 13:00:00 |
-| secamail@protonmail.com                            | Digital Ocean, Inc.                           | 2017-03-13 04:42:00 | 2017-03-13 04:00:00 |
-| D8557200                                           | Microplex PTY LTD                             | 2017-03-13 04:52:00 | 2017-03-13 06:00:00 |
-| 2D9AF9BD                                           | Network Presence                              | 2017-03-13 05:18:47 | 2017-01-26 07:00:00 |
-| E6A95D49                                           | K Telecom                                     | 2017-03-13 05:20:14 | 2017-03-13 06:00:00 |
-| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                       | 2017-03-13 06:04:12 | 2017-03-13 07:00:00 |
-| 8DA18D0F                                           | Sepanta Communication Development Co. Ltd     | 2017-03-13 06:08:58 | 2017-03-13 07:00:00 |
-| 0C1B0BDC                                           | SAIX-NET                                      | 2017-03-13 06:10:02 | 2017-03-13 07:00:00 |
-| 6D94121F                                           | Telecommunications Company of Golestan provin | 2017-03-13 06:27:55 | 2017-01-17 06:00:00 |
-| C0F62DB8                                           | NTT Communications Corporation                | 2017-03-13 06:37:18 | 2016-12-13 07:00:00 |
-| 35376B18                                           | DIGI Tavkozlesi es Szolgaltato Kft.           | 2017-03-13 06:46:09 | 2017-03-07 08:00:00 |
+| Admin <freecandle AT sigaint dot org>              | Choopa, LLC                                   | 2017-03-13 10:30:44 | 2017-03-13 11:00:00 |
+| 2A6BA7D4                                           | GMO Internet,Inc                              | 2017-03-13 16:11:24 | 2017-03-13 17:00:00 |
+| 0F4B5033                                           | GMO-Z.COM PTE. LTD.                           | 2017-03-13 16:26:48 | 2017-03-13 17:00:00 |
+| ecram <ecram@mail2tor.com>                         | UNIVERSIDADE ESTADUAL DE CAMPINAS             | 2017-03-13 19:15:28 | 2017-03-13 20:00:00 |
+| toto at farci dot org (replace toto by admin)      | SFR                                           | 2017-03-13 19:54:05 | 2017-03-11 00:00:00 |
+| F8919D53                                           | Quickline AG                                  | 2017-03-13 20:00:15 | 2017-03-13 18:00:00 |
+| F57FB7B2                                           | Quickline AG                                  | 2017-03-13 20:00:45 | 2017-03-13 17:00:00 |
+| 000p at protonmail dot com                         | Elisa Oyj                                     | 2017-03-13 20:09:27 | 2017-03-14 06:00:00 |
+| 4C0129BA                                           | PJSC Rostelecom                               | 2017-03-13 20:19:19 | 2016-05-20 16:00:00 |
+| 30AF73B7                                           | Digital Ocean, Inc.                           | 2017-03-13 20:32:51 | 2017-03-13 21:00:00 |
+| Antisocial Party <weirdo at antisocial dot party>  | Amazon.com, Inc.                              | 2017-03-13 20:52:08 | 2017-03-13 18:00:00 |
+| EE67F481                                           | Wayport, Inc.                                 | 2017-03-13 21:03:13 | 2017-03-06 23:00:00 |
+| 27BF98D6                                           | Kabel BW                                      | 2017-03-13 23:08:09 | 2017-03-12 19:00:00 |
+| <hi at users dot org>                              | WorldStream B.V.                              | 2017-03-13 23:12:06 | 2017-03-13 23:00:00 |
+| root {at} example {dot} org                        | Amazon.com, Inc.                              | 2017-03-13 23:22:39 | 2017-03-14 00:00:00 |
+| b                                                  | Online S.a.s.                                 | 2017-03-13 23:27:13 | 2017-03-14 00:00:00 |
+| C4940420                                           | Wind Telecomunicazioni SpA                    | 2017-03-13 23:56:40 | 2017-03-12 18:00:00 |
+| 4862505A                                           | WideOpenWest Finance LLC                      | 2017-03-14 00:06:27 | 2017-03-14 01:00:00 |
+| 7F59EA9A                                           | Grupo Panaglobal 15 S.A                       | 2017-03-14 00:16:07 | 2017-03-14 01:00:00 |
+| tor-relay-admin robgjansen com                     | Hurricane Electric, Inc.                      | 2017-03-14 00:51:03 | 2017-03-14 02:00:00 |
+| DD068B27                                           | TRICOM                                        | 2017-03-14 00:51:27 | 2017-03-14 02:00:00 |
+| 3FC9EC62                                           | MCI Communications Services, Inc. d/b/a Veriz | 2017-03-14 02:01:08 | 2017-02-02 22:00:00 |
+| F3F69AA7                                           | JSC ER-Telecom Holding                        | 2017-03-14 02:18:51 | 2016-04-16 05:00:00 |
+| 6469CD30                                           | Comcast Cable Communications, LLC             | 2017-03-14 02:28:57 | 2017-03-07 06:00:00 |
+| Random Person torexit@hmamail.com                  | Digital Ocean, Inc.                           | 2017-03-14 02:39:49 | 2017-03-13 22:00:00 |
+| 42F07331                                           | MCI Communications Services, Inc. d/b/a Veriz | 2017-03-14 03:40:31 | 2017-03-13 21:00:00 |
+| AC6D77D6                                           | Comcast Cable Communications, LLC             | 2017-03-14 03:47:16 | 2017-03-08 04:00:00 |
+| Gibberfish, Inc  <info@gibberfish.org>             | Online S.a.s.                                 | 2017-03-14 03:56:20 | 2017-03-14 04:00:00 |
+| 27DEDF30                                           | NTT Communications Corporation                | 2017-03-14 04:11:20 | 2016-09-10 13:00:00 |
+| EDDE80CA                                           | Charter Communications                        | 2017-03-14 04:22:42 | 2017-03-14 05:00:00 |
+| meinleergut@gmail.com                              | Kabel BW                                      | 2017-03-14 04:47:31 | 2017-03-13 23:00:00 |
+| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                       | 2017-03-14 04:52:04 | 2017-03-14 06:00:00 |
+| 8B4311DE                                           | PJSC Rostelecom                               | 2017-03-14 05:13:05 | 2017-01-10 13:00:00 |
+| 2A6BA778                                           | Choopa, LLC                                   | 2017-03-14 06:17:51 | 2017-03-14 07:00:00 |
+| 888ADF94                                           | Host Europe GmbH                              | 2017-03-14 06:23:29 | 2017-03-14 07:00:00 |
+| 6D94121F                                           | Information Technology Company (ITC)          | 2017-03-14 06:23:52 | 2017-01-17 06:00:00 |
+| AA14B528                                           | Orange                                        | 2017-03-14 06:24:44 | 2017-03-06 21:00:00 |
 +----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
