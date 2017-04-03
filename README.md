@@ -35,3 +35,9 @@ Relays are aggregated based on effective families. Effective families are relays
 * [What portion of the network runs not a recommended version?](https://github.com/ornetstats/stats/blob/master/o/recommended_version_share.txt)
 * [What portion of the network is not measured?](https://github.com/ornetstats/stats/blob/master/o/measured_share.txt)
 * [Unmeasured relays](https://raw.githubusercontent.com/ornetstats/stats/master/o/unmeasured_relays.txt) (new or re-appearing relays are expected to be unmeasured)
+
+## IPv6 Relay Stats
+
+* [What portion of relays has an IPv6 ORPort?](https://github.com/ornetstats/stats/blob/master/o/IPv6_ORPorts_relays.txt)
+* [What portion of exits allows IPv6 exiting?](https://github.com/ornetstats/stats/blob/master/o/IPv6_Exit_relays.txt)
+* [Which exits with IPv6 ORPort do not allow IPv6 exiting?](https://github.com/ornetstats/stats/blob/master/o/non-IPv6_Exits_with_IPv6_ORPort.txt)
