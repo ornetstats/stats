@@ -1,31 +1,30 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-04-04 13:00:00 |
+| 2017-04-04 20:00:00 |
 +---------------------+
-+--------------------------------------------------------------+------------------+--------------------+-------------+
-| contact                                                      | exit_probability | nickname           | tor_version |
-+--------------------------------------------------------------+------------------+--------------------+-------------+
-| Admin <admin AT xshells DOT net>                             |             1.59 | xshells            | 0.2.7.6     |
-| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oignons.net> -  |             0.91 | marylou2           | 0.2.9.10    |
-| 0x21DBEFD4 Rejo Zenger <rejo@zenger.nl>                      |             0.78 | rejozenger         | 0.2.9.9     |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELGRVBgKHdR3o |             0.71 | kramse2            | 0.2.8.9     |
-| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oignons.net> -  |             0.66 | marylou1           | 0.2.9.10    |
-| Mathis <contact@matou19.me>                                  |             0.65 | Matou19            | 0.2.9.10    |
-| Abuse <abuse .AT. uk .DOT. aql . DOT . com >                 |             0.50 | thisisatorexitnode | 0.2.9.9     |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELGRVBgKHdR3o |             0.48 | kramse             | 0.2.8.9     |
-| see https://www.artikel5ev.de/torcontact/                    |             0.25 | artikel5ev1        | 0.2.9.9     |
-| 0xBA61EB09 Michael Armbruster <tor@armbrust.me>              |             0.16 | armbrust           | 0.2.8.9     |
-| admin@hiddenservice.net - 1Cz1Atm4qotzyVShYzisrxQwVQxTEzLfye |             0.10 | yukon              | 0.3.0.4-rc  |
-| see https://www.artikel5ev.de/torcontact/                    |             0.08 | artikel5ev2        | 0.2.9.9     |
-| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oignons.net> -  |             0.07 | ekumen             | 0.2.9.10    |
-| see https://www.artikel5ev.de/torcontact/                    |             0.06 | artikel5ev3        | 0.2.9.9     |
-| tor@die.net                                                  |             0.06 | tordienet          | 0.2.9.9     |
-| tor@lite.litedsl.nl                                          |             0.05 | PrivacyExit1       | 0.2.8.9     |
-| 0x3C68C8DBCBA783EF Joel R. Voss <jvoss at altsci dot com>    |             0.05 | Unnamed            | 0.2.8.12    |
-| <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.05 | dredis             | 0.2.9.9     |
-| <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.03 | thirdexit          | 0.2.9.9     |
-| Fabian Bakkum <fabianbakkum@hotmail.com>                     |             0.01 | TastyStrawberry    | 0.2.9.9     |
-| 0xFDB8716D Gerald Turner <gturner@unzane.com> - 1FRMLK42AvHN |             0.00 | Unzane             | 0.2.5.12    |
-| 0x60C0742D1F357D42 Sergey Popov <admin+tor AT pinkbyte dot r |             0.00 | torpinkbyte        | 0.2.8.12    |
-+--------------------------------------------------------------+------------------+--------------------+-------------+
++--------------------------------------------------------------+------------------+--------------------+---------------+
+| contact                                                      | exit_probability | nickname           | tor_version   |
++--------------------------------------------------------------+------------------+--------------------+---------------+
+| Admin <admin AT xshells DOT net>                             |             1.39 | xshells            | 0.2.7.6       |
+| 0x21DBEFD4 Rejo Zenger <rejo@zenger.nl>                      |             0.68 | rejozenger         | 0.2.9.9       |
+| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oignons.net> -  |             0.65 | marylou2           | 0.2.9.10      |
+| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oignons.net> -  |             0.57 | marylou1           | 0.2.9.10      |
+| Abuse <abuse .AT. uk .DOT. aql . DOT . com >                 |             0.34 | thisisatorexitnode | 0.2.9.9       |
+| Nick Thomas <tor@ur.gs>                                      |             0.31 | lupine             | 0.2.9.10      |
+| see https://www.artikel5ev.de/torcontact/                    |             0.18 | artikel5ev1        | 0.2.9.9       |
+| 0xBA61EB09 Michael Armbruster <tor@armbrust.me>              |             0.13 | armbrust           | 0.2.8.9       |
+| admin@hiddenservice.net - 1Cz1Atm4qotzyVShYzisrxQwVQxTEzLfye |             0.09 | yukon              | 0.3.0.4-rc    |
+| 0x9F29C15D42A8B6F3 Nos oignons <adminsys@nos-oignons.net> -  |             0.06 | ekumen             | 0.2.9.10      |
+| see https://www.artikel5ev.de/torcontact/                    |             0.06 | artikel5ev2        | 0.2.9.9       |
+| see https://www.artikel5ev.de/torcontact/                    |             0.05 | artikel5ev3        | 0.2.9.9       |
+| tor@die.net                                                  |             0.05 | tordienet          | 0.2.9.9       |
+| tor@lite.litedsl.nl                                          |             0.04 | PrivacyExit1       | 0.2.8.9       |
+| 0x3C68C8DBCBA783EF Joel R. Voss <jvoss at altsci dot com>    |             0.04 | Unnamed            | 0.2.8.12      |
+| <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.04 | thirdexit          | 0.2.9.9       |
+| <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.04 | dredis             | 0.2.9.9       |
+| Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNvxdcXydDUNr |             0.02 | NeelTorExitCZ      | 0.3.0.1-alpha |
+| Fabian Bakkum <fabianbakkum@hotmail.com>                     |             0.01 | TastyStrawberry    | 0.2.9.9       |
+| 0xFDB8716D Gerald Turner <gturner@unzane.com> - 1FRMLK42AvHN |             0.00 | Unzane             | 0.2.5.12      |
+| 0x60C0742D1F357D42 Sergey Popov <admin+tor AT pinkbyte dot r |             0.00 | torpinkbyte        | 0.2.8.12      |
++--------------------------------------------------------------+------------------+--------------------+---------------+
