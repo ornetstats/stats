@@ -41,3 +41,9 @@ Relays are aggregated based on effective families. Effective families are relays
 * [What portion of relays has an IPv6 ORPort?](https://github.com/ornetstats/stats/blob/master/o/IPv6_ORPorts_relays.txt)
 * [What portion of exits allows IPv6 exiting?](https://github.com/ornetstats/stats/blob/master/o/IPv6_Exit_relays.txt)
 * [Which exits with IPv6 ORPort do not allow IPv6 exiting?](https://github.com/ornetstats/stats/blob/master/o/non-IPv6_Exits_with_IPv6_ORPort.txt)
+
+## Bridge Stats
+
+* [OS Distribution](https://github.com/ornetstats/stats/blob/master/o/bridge_os_share.txt)
+* [Tor Versions](https://github.com/ornetstats/stats/blob/master/o/bridge_torversion_share.txt)
+* [Transports](https://github.com/ornetstats/stats/blob/master/o/bridge_transport_share.txt)
