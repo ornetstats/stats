@@ -1,18 +1,18 @@
 +---------------------+
 | bridges_published   |
 +---------------------+
-| 2017-04-07 06:57:31 |
+| 2017-04-08 06:57:31 |
 +---------------------+
 +--------------------------------------------+---------+
 | supported transports                       | bridges |
 +--------------------------------------------+---------+
-| obfs4                                      |    1705 |
-| NULL                                       |     649 |
+| obfs4                                      |    1729 |
+| NULL                                       |     651 |
 | obfs3, obfs4, scramblesuit                 |     429 |
 | fte, obfs3, obfs4, scramblesuit            |     297 |
-| obfs3, obfs4                               |     142 |
+| obfs3, obfs4                               |     147 |
 | scramblesuit                               |      35 |
-| obfs3                                      |      30 |
+| obfs3                                      |      31 |
 | fte, obfs3, obfs4, scramblesuit, websocket |      22 |
 | obfs2, obfs3                               |      13 |
 | obfs3, scramblesuit                        |      13 |
