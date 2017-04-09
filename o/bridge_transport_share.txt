@@ -1,29 +1,29 @@
 +---------------------+
 | bridges_published   |
 +---------------------+
-| 2017-04-08 06:57:31 |
+| 2017-04-09 10:57:31 |
 +---------------------+
 +--------------------------------------------+---------+
 | supported transports                       | bridges |
 +--------------------------------------------+---------+
-| obfs4                                      |    1729 |
-| NULL                                       |     651 |
+| obfs4                                      |    1760 |
+| NULL                                       |     645 |
 | obfs3, obfs4, scramblesuit                 |     429 |
 | fte, obfs3, obfs4, scramblesuit            |     297 |
-| obfs3, obfs4                               |     147 |
+| obfs3, obfs4                               |     138 |
 | scramblesuit                               |      35 |
-| obfs3                                      |      31 |
+| obfs3                                      |      30 |
 | fte, obfs3, obfs4, scramblesuit, websocket |      22 |
-| obfs2, obfs3                               |      13 |
-| obfs3, scramblesuit                        |      13 |
+| obfs2, obfs3                               |      12 |
+| obfs3, scramblesuit                        |      12 |
 | obfs2, obfs3, obfs4                        |       8 |
 | meek                                       |       4 |
 | obfs4, scramblesuit                        |       2 |
 | obfs2, obfs3, obfs4, scramblesuit          |       2 |
 | fte, scramblesuit                          |       2 |
-| obfs3_websocket, websocket                 |       1 |
-| fte, meek, meek, obfs3, scramblesuit       |       1 |
 | snowflake                                  |       1 |
 | fte, obfs2, obfs3, obfs4, scramblesuit     |       1 |
 | fte, obfs3                                 |       1 |
+| obfs3_websocket, websocket                 |       1 |
+| fte, meek, meek, obfs3, scramblesuit       |       1 |
 +--------------------------------------------+---------+
