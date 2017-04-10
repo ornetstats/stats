@@ -1,20 +1,21 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-04-09 12:00:00 |
+| 2017-04-10 09:00:00 |
 +---------------------+
 +--------------------------------------------------------------+------------------+--------------------+---------------+
 | contact                                                      | exit_probability | nickname           | tor_version   |
 +--------------------------------------------------------------+------------------+--------------------+---------------+
-| Abuse <abuse .AT. uk .DOT. aql . DOT . com >                 |             0.45 | thisisatorexitnode | 0.2.9.9       |
+| Admin <admin AT xshells DOT net>                             |             1.06 | xshells            | 0.2.7.6       |
+| Abuse <abuse .AT. uk .DOT. aql . DOT . com >                 |             0.29 | thisisatorexitnode | 0.2.9.9       |
 | tor@die.net                                                  |             0.06 | tordienet          | 0.2.9.10      |
 | 0x3C68C8DBCBA783EF Joel R. Voss <jvoss at altsci dot com>    |             0.05 | Unnamed            | 0.2.8.12      |
+| <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.05 | dredis             | 0.2.9.9       |
 | tor@lite.litedsl.nl                                          |             0.04 | PrivacyExit1       | 0.2.8.9       |
-| <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.04 | dredis             | 0.2.9.9       |
 | <demfloro AT demfloro dot ru> - 1JowqcwdJXauYdS6Wbr7ZqmbDtTD |             0.03 | thirdexit          | 0.2.9.9       |
 | Neel Chauhan <neel AT neelc DOT org> | BTC: 1KogNvxdcXydDUNr |             0.02 | NeelTorExitCZ      | 0.3.0.1-alpha |
 | Fabian Bakkum <fabianbakkum@hotmail.com>                     |             0.01 | TastyStrawberry    | 0.2.9.9       |
-| 0xFDB8716D Gerald Turner <gturner@unzane.com> - 1FRMLK42AvHN |             0.01 | Unzane             | 0.2.5.12      |
 | NULL                                                         |             0.01 | ee0mIxDtYGoS       | 0.2.9.9       |
+| 0xFDB8716D Gerald Turner <gturner@unzane.com> - 1FRMLK42AvHN |             0.00 | Unzane             | 0.2.5.12      |
 | 0x60C0742D1F357D42 Sergey Popov <admin+tor AT pinkbyte dot r |             0.00 | torpinkbyte        | 0.2.8.12      |
 +--------------------------------------------------------------+------------------+--------------------+---------------+
