@@ -1,39 +1,39 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-04-22 20:00:00 |
+| 2017-04-23 08:00:00 |
 +---------------------+
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
 | contact or fingerprint                             | cw-fraction | guard_p | exit_p | ASes | countries | /16blocks | relays |
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
-| Felix <zwiebel ta quantentunnel tod de>            |        0.67 |   1.000 |  0.000 |    5 |         1 |         6 |     18 |
-| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |        0.66 |   0.989 |  0.000 |    3 |         2 |         4 |      5 |
-| 0x43C4819E Chip Marshall <chip@2bithacker.net>     |        0.32 |   0.485 |  0.000 |    4 |         7 |        10 |     12 |
-| 4096R/1E8BF34923291265 Linus Nordberg <linus@nordb |        0.22 |   0.000 |  0.975 |    1 |         1 |         1 |      7 |
-| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |        0.20 |   0.309 |  0.000 |    1 |         1 |         1 |      3 |
+| Felix <zwiebel ta quantentunnel tod de>            |        0.67 |   1.031 |  0.000 |    5 |         1 |         6 |     18 |
+| Thomas Steen Rasmussen / Tykling <thomas@gibfest.d |        0.63 |   0.966 |  0.000 |    3 |         2 |         4 |      5 |
+| 0x43C4819E Chip Marshall <chip@2bithacker.net>     |        0.30 |   0.454 |  0.000 |    4 |         7 |        10 |     12 |
+| 4096R/1E8BF34923291265 Linus Nordberg <linus@nordb |        0.26 |   0.000 |  1.102 |    1 |         1 |         1 |      7 |
+| Zwiebel <zwiebel@kawo2.rwth-aachen.de>             |        0.20 |   0.315 |  0.000 |    1 |         1 |         1 |      3 |
 | <root+tor00@splitdna.com> - 1LLnvMu2s4BaF2LmsqV8Ru |        0.20 |   0.309 |  0.000 |    1 |         1 |         1 |      1 |
-| C804BE8F                                           |        0.20 |   0.303 |  0.000 |    1 |         1 |         1 |      1 |
-| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |        0.19 |   0.000 |  0.830 |    1 |         1 |         1 |      2 |
-| tor@ipredator.se - 1Q3mjKbZwZFEigC8edUZ8ywX4QD7kxF |        0.17 |   0.000 |  0.757 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.16 |   0.240 |  0.000 |    1 |         1 |         1 |      1 |
-| twinpokes AT protonmail.com                        |        0.15 |   0.228 |  0.000 |    1 |         1 |         1 |      1 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.15 |   0.236 |  0.000 |    1 |         1 |         1 |      1 |
+| C804BE8F                                           |        0.19 |   0.293 |  0.000 |    1 |         1 |         1 |      1 |
+| Henrik Kramshoej <hlk AT zencurity dot dk> - 13ELG |        0.18 |   0.000 |  0.782 |    1 |         1 |         1 |      2 |
+| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |        0.16 |   0.246 |  0.000 |    2 |         2 |         2 |      4 |
 | 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.15 |   0.233 |  0.000 |    1 |         1 |         1 |      1 |
-| Fabian Keil <fk@fabiankeil.de> 8BA2371C            |        0.14 |   0.222 |  0.000 |    2 |         2 |         2 |      4 |
-| 0x37C6224D225BCD7D Jon Proulx <jon AT jonproulx do |        0.13 |   0.000 |  0.570 |    1 |         1 |         1 |      1 |
-| starfleet --at-- trash ..dot.. net                 |        0.12 |   0.185 |  0.000 |    2 |         2 |         2 |      4 |
-| 0CDCFB0B                                           |        0.10 |   0.156 |  0.000 |    2 |         2 |         2 |      2 |
-| BrassHornComms <hello@brasshorncommunications.uk>  |        0.10 |   0.000 |  0.417 |    1 |         1 |         1 |      3 |
-| 6B88E20F                                           |        0.09 |   0.141 |  0.000 |    1 |         1 |         1 |      1 |
-| grok-nospam@csc.warwick.ac.uk                      |        0.09 |   0.140 |  0.000 |    1 |         1 |         1 |      1 |
-| <zwiebeln at online de> please donate BTC 1K38x9xq |        0.08 |   0.000 |  0.376 |    3 |         2 |         3 |     12 |
-| cubox at irc.freenode.org                          |        0.08 |   0.129 |  0.000 |    1 |         1 |         1 |      1 |
-| IT <tor AT informatik dot uni-bremen dot de>       |        0.08 |   0.127 |  0.000 |    1 |         1 |         1 |      1 |
-| BTC 1B4WqNJvbaZJUYBg8nVxe8wWVxDKaJoxGo  <nimda AT  |        0.07 |   0.118 |  0.000 |    1 |         1 |         1 |      1 |
-| 0xCD483B330F8A5F4F - support [AT] sigaint [DOT] or |        0.06 |   0.089 |  0.000 |    2 |         2 |         3 |      5 |
-| Reimu Hakurei <reimu@aaathats3as.com>              |        0.06 |   0.093 |  0.000 |    1 |         1 |         1 |      1 |
-| random.sh <root@random.sh>                         |        0.05 |   0.082 |  0.000 |    1 |         1 |         1 |      1 |
-| argenla <failure .AT. openmailbox .DOT. org>       |        0.05 |   0.000 |  0.257 |    1 |         1 |         2 |      2 |
-| Hans Wurscht [tor???x2a???ch]                      |        0.05 |   0.078 |  0.000 |    1 |         1 |         1 |      1 |
-| flat14 <flat14 AT cock dot li>                     |        0.05 |   0.079 |  0.000 |    1 |         1 |         1 |      1 |
+| tor@ipredator.se - 1Q3mjKbZwZFEigC8edUZ8ywX4QD7kxF |        0.15 |   0.000 |  0.667 |    1 |         1 |         1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.15 |   0.229 |  0.000 |    1 |         1 |         1 |      1 |
+| twinpokes AT protonmail.com                        |        0.14 |   0.221 |  0.000 |    1 |         1 |         1 |      1 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>  |        0.14 |   0.226 |  0.000 |    1 |         1 |         1 |      1 |
+| 0x37C6224D225BCD7D Jon Proulx <jon AT jonproulx do |        0.12 |   0.000 |  0.522 |    1 |         1 |         1 |      1 |
+| 0CDCFB0B                                           |        0.10 |   0.153 |  0.000 |    2 |         2 |         2 |      2 |
+| <zwiebeln at online de> please donate BTC 1K38x9xq |        0.09 |   0.000 |  0.391 |    3 |         2 |         3 |     12 |
+| BrassHornComms <hello@brasshorncommunications.uk>  |        0.09 |   0.000 |  0.397 |    1 |         1 |         1 |      3 |
+| starfleet --at-- trash ..dot.. net                 |        0.09 |   0.148 |  0.000 |    2 |         2 |         2 |      4 |
+| otenfreedom@protonmail.com - otenfreedom.com       |        0.09 |   0.000 |  0.407 |    1 |         1 |         1 |      1 |
+| 6B88E20F                                           |        0.09 |   0.144 |  0.000 |    1 |         1 |         1 |      1 |
+| cubox at irc.freenode.org                          |        0.08 |   0.125 |  0.000 |    1 |         1 |         1 |      1 |
+| grok-nospam@csc.warwick.ac.uk                      |        0.08 |   0.135 |  0.000 |    1 |         1 |         1 |      1 |
+| 0xCD483B330F8A5F4F - support [AT] sigaint [DOT] or |        0.07 |   0.108 |  0.000 |    2 |         2 |         3 |      5 |
+| BTC 1B4WqNJvbaZJUYBg8nVxe8wWVxDKaJoxGo  <nimda AT  |        0.07 |   0.115 |  0.000 |    1 |         1 |         1 |      1 |
+| IT <tor AT informatik dot uni-bremen dot de>       |        0.07 |   0.112 |  0.000 |    1 |         1 |         1 |      1 |
+| argenla <failure .AT. openmailbox .DOT. org>       |        0.06 |   0.000 |  0.256 |    1 |         1 |         2 |      2 |
+| B671B60F                                           |        0.06 |   0.000 |  0.000 |    1 |         1 |         1 |      1 |
+| Reimu Hakurei <reimu@aaathats3as.com>              |        0.06 |   0.092 |  0.000 |    1 |         1 |         1 |      1 |
+| Hans Wurscht [tor???x2a???ch]                      |        0.05 |   0.091 |  0.000 |    1 |         1 |         1 |      1 |
 +----------------------------------------------------+-------------+---------+--------+------+-----------+-----------+--------+
