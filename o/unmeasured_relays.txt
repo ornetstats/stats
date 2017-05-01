@@ -1,63 +1,78 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-04-29 08:00:00 |
+| 2017-05-01 21:00:00 |
 +---------------------+
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
-| contact or fingerprint                             | AS                                            | last_restarted      | first_seen          |
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
-| 9FC5A11A                                           | JSC Kazakhtelecom                             | 2016-03-28 18:46:21 | 2016-03-28 19:00:00 |
-| lol@hat - 1o1hatMRch5hU6bshSo4sX7wu5ajUgan5        | Linode, LLC                                   | 2016-10-02 18:04:16 | 2015-12-28 06:00:00 |
-| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                      | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
-| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                      | 2017-02-01 03:46:51 | 2014-05-29 13:00:00 |
-| 0C6634D2                                           | myLoc managed IT AG                           | 2017-02-11 09:11:38 | 2016-04-18 22:00:00 |
-| BrassHornComms <hello@brasshorncommunications.uk>  | WEDOS Internet, a.s.                          | 2017-03-05 07:46:09 | 2014-07-16 18:00:00 |
-| 28DAB81A                                           | Psychz Networks                               | 2017-03-06 18:47:08 | 2017-02-09 22:00:00 |
-| Chris <tor AT chrisada DOT co DOT uk>              | ANGANI-AS                                     | 2017-03-16 23:13:11 | 2017-03-17 01:00:00 |
-| C9860279                                           | Hyperoptic Ltd                                | 2017-03-18 19:32:44 | 2014-11-10 23:00:00 |
-| Ivan Ergun <mandingadiablo@hotmail.com>            | NSS S.A.                                      | 2017-03-29 11:41:20 | 2015-11-27 00:00:00 |
-| 0472AC2E                                           | Hetzner Online GmbH                           | 2017-04-19 10:09:19 | 2017-03-11 16:00:00 |
-| B99AC176                                           | Alibaba (China) Technology Co., Ltd.          | 2017-04-21 03:37:02 | 2016-07-13 04:00:00 |
-| D422A6E7                                           | Cenac Towing Co.                              | 2017-04-27 18:10:11 | 2017-04-27 19:00:00 |
-| 3C4BD86C                                           | Contabo GmbH                                  | 2017-04-27 21:10:04 | 2017-04-27 21:00:00 |
-| tor at midgard org                                 | Comcast Cable Communications, LLC             | 2017-04-27 23:40:25 | 2017-04-28 00:00:00 |
-| 755DAFC8                                           | Digital Ocean, Inc.                           | 2017-04-28 00:47:27 | 2017-04-28 01:00:00 |
-| 04A89C72                                           | Vodafone GmbH                                 | 2017-04-28 05:39:22 | 2017-04-28 06:00:00 |
-| 0B4C3761                                           | Online S.a.s.                                 | 2017-04-28 11:39:46 | 2017-04-28 12:00:00 |
-| 3994E734                                           | Maxnet Telecom, Ltd                           | 2017-04-28 12:18:12 | 2017-04-28 13:00:00 |
-| CB81A7C4                                           | Kabel BW                                      | 2017-04-28 12:39:41 | 2017-04-28 13:00:00 |
-| 0x8C5534E1 Alexander Orlov <alexander.orlov@loxal. | Hetzner Online GmbH                           | 2017-04-28 14:15:04 | 2017-04-28 15:00:00 |
-| JJtheTorPlane                                      | Seflow S.N.C. Di Marco Brame' & C.            | 2017-04-28 15:58:18 | 2017-04-28 17:00:00 |
-| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH     | 2017-04-28 16:09:39 | 2014-02-15 10:00:00 |
-| BED27F71                                           | Private Layer INC                             | 2017-04-28 16:54:12 | 2017-04-28 18:00:00 |
-| 322B68F2                                           | Telenor Norge AS                              | 2017-04-28 17:09:13 | 2017-04-28 17:00:00 |
-| 49C8EDA6                                           | OVH SAS                                       | 2017-04-28 18:28:12 | 2017-04-28 19:00:00 |
-| Saint <griffin@cryptolab.net>                      | Leaseweb Asia Pacific pte. ltd.               | 2017-04-28 18:46:48 | 2017-04-28 19:00:00 |
-| redskindrag at gmail dot com                       | Orange Espagne SA                             | 2017-04-28 18:52:09 | 2017-04-28 15:00:00 |
-| 68F0FA82                                           | Digital Ocean, Inc.                           | 2017-04-28 19:30:09 | 2017-04-28 20:00:00 |
-| noaheg222@gmail.com                                | Charter Communications                        | 2017-04-28 20:27:09 | 2017-04-28 21:00:00 |
-| F8E8BA18                                           | Liberty Global Operations B.V.                | 2017-04-28 21:03:00 | 2017-04-28 22:00:00 |
-| Peter Kowalsky <acheloos AT butterna dot se>       | Hetzner Online GmbH                           | 2017-04-28 21:07:20 | 2017-04-28 22:00:00 |
-| pants-at-third-dot-bike                            | Online S.a.s.                                 | 2017-04-28 22:25:51 | 2017-04-28 23:00:00 |
-| mathematics3141592@gmail.com                       | OVH SAS                                       | 2017-04-28 22:30:49 | 2017-04-28 23:00:00 |
-| AD8640FD                                           | Telefonica De Espana                          | 2017-04-28 23:32:26 | 2017-04-28 22:00:00 |
-| 29D378AC                                           | TELEFÔNICA BRASIL S.A                         | 2017-04-29 00:08:58 | 2017-04-27 13:00:00 |
-| run120895 at gmx dot net                           | Deutsche Telekom AG                           | 2017-04-29 00:38:01 | 2017-04-28 22:00:00 |
-| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                       | 2017-04-29 01:08:12 | 2017-04-29 02:00:00 |
-| 382FCCCF                                           | 1&1 Versatel Deutschland GmbH                 | 2017-04-29 01:18:27 | 2016-01-25 18:00:00 |
-| 8B6AF1A0                                           | Magyar Telekom plc.                           | 2017-04-29 04:08:12 | 2015-10-16 22:00:00 |
-| 35BB1273                                           | MCI Communications Services, Inc. d/b/a Veriz | 2017-04-29 04:08:39 | 2015-02-25 01:00:00 |
-| D63AC544                                           | Comcast Cable Communications, LLC             | 2017-04-29 04:34:04 | 2016-02-14 09:00:00 |
-| 507FE156                                           | wilhelm.tel GmbH                              | 2017-04-29 04:58:25 | 2017-04-29 08:00:00 |
-| t dot monk at gmx dot net                          | Telefonica Germany                            | 2017-04-29 05:11:35 | 2014-01-07 04:00:00 |
-| nickname at hotmail dot com                        | Internet Initiative Japan Inc.                | 2017-04-29 05:33:02 | 2017-04-29 06:00:00 |
-| B9E44DCA                                           | Korea Telecom                                 | 2017-04-29 06:14:08 | 2017-04-29 07:00:00 |
-| 28FB2C49                                           | Free SAS                                      | 2017-04-29 06:59:13 | 2014-03-16 16:00:00 |
-| F882B9A6                                           | Closed Joint Stock Company TransTeleCom       | 2017-04-29 07:04:16 | 2016-12-25 07:00:00 |
-| tor at stardoom dot se                             | Bahnhof Internet AB                           | 2017-04-29 07:06:38 | 2017-01-20 16:00:00 |
-| E969D69D                                           | PJSC Rostelecom                               | 2017-04-29 07:09:08 | 2017-04-29 08:00:00 |
-| E9BCCC6A                                           | Liberty Global Operations B.V.                | 2017-04-29 07:23:43 | 2017-04-29 08:00:00 |
-| 9CEFB37F                                           | Nuclearfallout Enterprises, Inc.              | 2017-04-29 07:25:13 | 2017-04-29 08:00:00 |
-| 2DCBD1DB                                           | SkyNet Ltd.                                   | 2017-04-29 07:33:53 | 2015-11-27 19:00:00 |
-| FA2CF4F4                                           | JSC ER-Telecom Holding                        | 2017-04-29 07:37:18 | 2017-04-15 19:00:00 |
-+----------------------------------------------------+-----------------------------------------------+---------------------+---------------------+
++----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
+| contact or fingerprint                             | AS                                        | last_restarted      | first_seen          |
++----------------------------------------------------+-------------------------------------------+---------------------+---------------------+
+| lol@hat - 1o1hatMRch5hU6bshSo4sX7wu5ajUgan5        | Linode, LLC                               | 2016-10-02 18:04:16 | 2015-12-28 06:00:00 |
+| 0x973D3537 Setec Administrator <admin AT nuclear D | Limestone Networks, Inc.                  | 2016-11-29 06:38:02 | 2014-06-20 07:00:00 |
+| 0x2789F1E6 Scott <scott AT spacepirates dot com>   | Hurricane Electric, Inc.                  | 2017-02-01 03:46:52 | 2014-05-29 13:00:00 |
+| 0C6634D2                                           | myLoc managed IT AG                       | 2017-02-11 09:11:38 | 2016-04-18 22:00:00 |
+| BrassHornComms <hello@brasshorncommunications.uk>  | WEDOS Internet, a.s.                      | 2017-03-05 07:46:09 | 2014-07-16 18:00:00 |
+| 28DAB81A                                           | Psychz Networks                           | 2017-03-06 18:47:09 | 2017-02-09 22:00:00 |
+| Chris <tor AT chrisada DOT co DOT uk>              | ANGANI-AS                                 | 2017-03-16 23:13:12 | 2017-03-17 01:00:00 |
+| 5D587593                                           | Orange Polska Spolka Akcyjna              | 2017-03-28 07:17:22 | 2016-11-03 20:00:00 |
+| Ivan Ergun <mandingadiablo@hotmail.com>            | NSS S.A.                                  | 2017-03-29 11:41:20 | 2015-11-27 00:00:00 |
+| B99AC176                                           | Alibaba (China) Technology Co., Ltd.      | 2017-04-21 03:37:02 | 2016-07-13 04:00:00 |
+| earthling@aon.at                                   | CYBERSERVICE Internetdienstleistungs GmbH | 2017-04-28 16:09:40 | 2014-02-15 10:00:00 |
+| 3C6ADE22                                           | MTS PJSC                                  | 2017-04-30 23:36:53 | 2017-04-30 16:00:00 |
+| 90945438                                           | Comcast Cable Communications, LLC         | 2017-04-30 23:57:32 | 2017-05-01 01:00:00 |
+| randay+tor(at)gmail(dot)com [tor-relay.co]         | Digital Ocean, Inc.                       | 2017-05-01 00:00:01 | 2016-12-28 03:00:00 |
+| DE2C7F86                                           | Comcast Cable Communications, LLC         | 2017-05-01 00:59:44 | 2017-05-01 00:00:00 |
+| info@boyshigh.com                                  | Digital Ocean, Inc.                       | 2017-05-01 02:57:47 | 2017-04-01 20:00:00 |
+| AA8741E6                                           | Comcast Cable Communications, LLC         | 2017-05-01 03:03:45 | 2017-05-01 03:00:00 |
+| Bat Shit    services+torelay AT doemail.org        | Frontier Communications of America, Inc.  | 2017-05-01 03:41:16 | 2017-05-01 17:00:00 |
+| Scott Maxwell tor-contact-2017-beratna (at) scottm | Online S.a.s.                             | 2017-05-01 04:21:51 | 2017-05-01 05:00:00 |
+| F6E158BE                                           | Hostkey B.v.                              | 2017-05-01 06:56:36 | 2017-05-01 08:00:00 |
+| nms@prepa.de                                       | Vodafone GmbH                             | 2017-05-01 07:11:51 | 2017-04-28 15:00:00 |
+| 1EF2DA40                                           | NC Numericable S.A.                       | 2017-05-01 09:39:27 | 2013-09-26 16:00:00 |
+| AD3516C7                                           | British Telecommunications PLC            | 2017-05-01 10:32:26 | 2017-05-01 01:00:00 |
+| 446203A2                                           | Vodafone Kabel Deutschland GmbH           | 2017-05-01 10:56:38 | 2017-04-30 10:00:00 |
+| Servbr Admin <servbr [AT] mail [DOT] md>           | OVH SAS                                   | 2017-05-01 11:44:00 | 2017-05-01 12:00:00 |
+| F8523879                                           | Telefonica Germany                        | 2017-05-01 11:57:16 | 2017-05-01 13:00:00 |
+| 27CF85EE                                           | 2DAY Telecom LLP                          | 2017-05-01 12:17:49 | 2017-03-31 19:00:00 |
+| 08D0F80C                                           | Swisscom (Switzerland) Ltd                | 2017-05-01 12:57:04 | 2016-06-13 22:00:00 |
+| 2B51C002                                           | Linode, LLC                               | 2017-05-01 13:00:00 | 2017-03-16 22:00:00 |
+| 20EB33EB                                           | Vodafone Kabel Deutschland GmbH           | 2017-05-01 13:56:51 | 2016-07-17 09:00:00 |
+| 13E5 D917 C8E3 EFC6 88CB  44D0 E8B4 9925 ECED 86F0 | Linode, LLC                               | 2017-05-01 14:01:41 | 2017-05-01 15:00:00 |
+| 3844B68A                                           | Lanet Network Ltd                         | 2017-05-01 14:05:26 | 2012-11-16 23:00:00 |
+| 80B05274                                           | Arrowhead A/S                             | 2017-05-01 14:10:50 | 2017-05-01 15:00:00 |
+| michagogo on freenode - 19Ye99iLBvSuStC1b7FCUySMtg | Bezeq International                       | 2017-05-01 14:57:57 | 2013-08-13 13:00:00 |
+| 961791E2                                           | Ziggo                                     | 2017-05-01 14:58:23 | 2017-05-01 16:00:00 |
+| 422AF29A                                           | Amazon.com, Inc.                          | 2017-05-01 15:00:00 | 2016-03-25 23:00:00 |
+| 843D50DC                                           | Swisscom (Switzerland) Ltd                | 2017-05-01 15:01:11 | 2017-05-01 16:00:00 |
+| AE629889                                           | PJSC Rostelecom                           | 2017-05-01 15:22:07 | 2016-06-12 07:00:00 |
+| karancem <karancem AT hmamail dot com>             | Orange Polska Spolka Akcyjna              | 2017-05-01 15:30:52 | 2016-09-04 19:00:00 |
+| 33F211E9                                           | Telefonica De Espana                      | 2017-05-01 16:09:47 | 2017-05-01 17:00:00 |
+| Peter Kowalsky <acheloos AT butterna dot SE>       | Online S.a.s.                             | 2017-05-01 16:12:18 | 2017-05-01 17:00:00 |
+| 1A7B9DBA                                           | Kabel BW                                  | 2017-05-01 16:29:55 | 2017-04-17 19:00:00 |
+| Person sergey-ya1@ya.ru                            | Amazon.com, Inc.                          | 2017-05-01 16:53:58 | 2017-05-01 17:00:00 |
+| 85AA98A5                                           | AT&T Services, Inc.                       | 2017-05-01 16:55:52 | 2017-05-01 19:00:00 |
+| D50812F2                                           | Orange Polska Spolka Akcyjna              | 2017-05-01 17:07:36 | 2016-07-20 01:00:00 |
+| F0347908                                           | Grupo Panaglobal 15 S.A                   | 2017-05-01 17:11:51 | 2017-05-01 18:00:00 |
+| 38ac6f3eecac53eafc00f99f7bedea3ba70acbd8 ironchamp | OVH SAS                                   | 2017-05-01 17:13:34 | 2017-05-01 18:00:00 |
+| 13D927F7                                           | Orange Polska Spolka Akcyjna              | 2017-05-01 17:28:54 | 2016-08-15 11:00:00 |
+| 19A1A566                                           | Kabel BW                                  | 2017-05-01 17:34:34 | 2016-09-02 08:00:00 |
+| 03C21ACE                                           | Liberty Global Operations B.V.            | 2017-05-01 17:43:13 | 2017-04-23 19:00:00 |
+| 3947DA24                                           | Link Ltd.                                 | 2017-05-01 17:44:03 | 2016-01-26 23:00:00 |
+| EA345899                                           | Liberty Global Operations B.V.            | 2017-05-01 18:19:17 | 2017-05-01 18:00:00 |
+| 015ED427                                           | Telefonica Germany                        | 2017-05-01 18:25:26 | 2014-04-09 10:00:00 |
+| 2439808D                                           | National Chiao Tung University            | 2017-05-01 18:26:03 | 2017-05-01 19:00:00 |
+| Anonymous                                          | Harvard University                        | 2017-05-01 19:09:57 | 2017-05-01 02:00:00 |
+| 04816E3D                                           | Free SAS                                  | 2017-05-01 19:21:28 | 2016-09-02 11:00:00 |
+| EC565BCF                                           | SkyNet Ltd.                               | 2017-05-01 19:55:50 | 2017-05-01 20:00:00 |
+| 0xFFFFFFFF Random Person <nobody AT example dot co | Cox Communications Inc.                   | 2017-05-01 20:11:53 | 2017-05-01 21:00:00 |
+| Random Person <torrelay-hyacinthinus at wsuf dot c | OVH SAS                                   | 2017-05-01 20:13:36 | 2017-05-01 16:00:00 |
+| Technotic <support@technotic.ca>                   | Atlantic.Net, INC.                        | 2017-05-01 20:32:59 | 2017-01-11 06:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:22 | 2017-02-25 15:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:22 | 2017-02-25 15:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:23 | 2017-02-23 09:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:24 | 2017-03-11 20:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:24 | 2017-02-25 15:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:25 | 2017-02-23 08:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:25 | 2017-02-25 08:00:00 |
+| John L. Ricketts, PhD <john AT quintex dot com>    | Quintex Alliance Consulting               | 2017-05-01 20:33:27 | 2017-02-25 15:00:00 |
+| FAC49147                                           | Digital Ocean, Inc.                       | 2017-05-01 20:48:27 | 2017-05-01 21:00:00 |
++----------------------------------------------------+-------------------------------------------+---------------------+---------------------+

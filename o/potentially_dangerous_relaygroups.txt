@@ -1,7 +1,7 @@
 +---------------------+
 | relays_published    |
 +---------------------+
-| 2017-04-29 08:00:00 |
+| 2017-05-01 21:00:00 |
 +---------------------+
 
 Groups in GUARD and EXIT position (worst case)
@@ -9,15 +9,15 @@ Groups in GUARD and EXIT position (worst case)
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| abuse@to-surf-and-protect.net                                | 1.054 |        10 |     25 |        1 |       0.30 |        0.23 |      3.44 |
-| see https://www.artikel5ev.de/torcontact/                    | 0.460 |        17 |     21 |        1 |       0.52 |        0.53 |      0.24 |
-| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.258 |         2 |     13 |        4 |       0.16 |        0.13 |      0.59 |
-| tor.noisebridge.net <admin@tor.noisebridge.net>              | 0.240 |         2 |      5 |        1 |       0.01 |        0.01 |      0.92 |
-| aTorRelay@gmail.com                                          | 0.121 |         6 |      9 |        1 |       0.13 |        0.10 |      0.12 |
-| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL}  | 0.114 |         6 |      7 |        1 |       0.12 |        0.12 |      0.08 |
-| Digineo GmbH <tor AT digineo dot de>                         | 0.085 |         2 |      2 |        1 |       0.04 |        0.03 |      0.22 |
-| visualbasic033@gmail.com                                     | 0.068 |         3 |      3 |        1 |       0.02 |        0.01 |      0.20 |
-| George Shuklin <george.shuklin@gmail.com>                    | 0.037 |         2 |      2 |        1 |       0.03 |        0.02 |      0.05 |
+| abuse@to-surf-and-protect.net                                | 1.112 |        10 |     25 |        1 |       0.35 |        0.25 |      3.68 |
+| see https://www.artikel5ev.de/torcontact/                    | 0.472 |        17 |     21 |        1 |       0.53 |        0.51 |      0.30 |
+| tor.noisebridge.net <admin@tor.noisebridge.net>              | 0.219 |         2 |      5 |        1 |       0.01 |        0.01 |      0.86 |
+| Nicholas Merrill <nick AT calyx dot com> BTC - 14wntQ8cBdnhU | 0.214 |         2 |     13 |        4 |       0.12 |        0.09 |      0.54 |
+| visualbasic033@gmail.com                                     | 0.146 |         3 |      3 |        1 |       0.02 |        0.01 |      0.54 |
+| ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL}  | 0.142 |         6 |      7 |        1 |       0.13 |        0.17 |      0.10 |
+| aTorRelay@gmail.com                                          | 0.111 |         6 |      9 |        1 |       0.11 |        0.08 |      0.13 |
+| Digineo GmbH <tor AT digineo dot de>                         | 0.102 |         2 |      2 |        1 |       0.05 |        0.04 |      0.27 |
+| George Shuklin <george.shuklin@gmail.com>                    | 0.038 |         2 |      2 |        1 |       0.03 |        0.02 |      0.04 |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 
 MIDDLE + EXIT position
@@ -25,7 +25,7 @@ MIDDLE + EXIT position
 +---------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact             | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +---------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| pwcrack@pwcrack.com | 0.020 |         2 |      6 |        1 |       0.00 |        0.03 |      0.01 |
+| pwcrack@pwcrack.com | 0.018 |         2 |      6 |        1 |       0.00 |        0.02 |      0.02 |
 +---------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 
 ENTRY + MIDDLE position
@@ -33,20 +33,23 @@ ENTRY + MIDDLE position
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
 | contact                                                      | cwfr  | netblocks | relays | efamsize | guard_prob | middle_prob | exit_prob |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
-| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDFgGYjQWpDjq | 0.967 |        23 |     30 |        1 |       1.36 |        1.20 |      0.00 |
-| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a              | 0.545 |         6 |     19 |        1 |       0.82 |        0.62 |      0.00 |
-| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>            | 0.404 |         2 |      3 |        1 |       0.61 |        0.46 |      0.00 |
-| <roger fillipo> rodger.fillipo@mail.com                      | 0.373 |         3 |      3 |        1 |       0.56 |        0.42 |      0.00 |
-| dev.null@kryptonit.org - 1AjBZw8ExjkWgh7Y5s9mLX4UXHadzPfKQu  | 0.298 |         2 |      4 |        1 |       0.45 |        0.34 |      0.00 |
-| <Jannis> jannisde85@eclipso.eu                               | 0.273 |         4 |      4 |        1 |       0.41 |        0.31 |      0.00 |
-| sparky2749@gmail.com                                         | 0.215 |         2 |      2 |        1 |       0.32 |        0.24 |      0.00 |
-| relays [at] riseup.net                                       | 0.206 |         2 |      2 |        1 |       0.31 |        0.23 |      0.00 |
-| Servbr Admin <servbr [AT] mail [DOT] md>                     | 0.193 |         2 |      3 |        1 |       0.29 |        0.22 |      0.00 |
-| freeasinbeer@techie.com                                      | 0.182 |         3 |      3 |        1 |       0.27 |        0.20 |      0.00 |
-| Marcel Straub <marcel AT straub-nv.de>                       | 0.179 |         3 |      3 |        1 |       0.26 |        0.20 |      0.00 |
-| Knight <knight AT germancraft DOT net> - 1FtUVig2YfcaVcV8Umd | 0.169 |         3 |      3 |        1 |       0.23 |        0.21 |      0.00 |
-| torfun1251918616 AT unseen.is                                | 0.124 |         2 |      2 |        1 |       0.18 |        0.14 |      0.00 |
-| torproject@godau.org                                         | 0.112 |         3 |      3 |        1 |       0.16 |        0.13 |      0.00 |
-| Pascal666 at Users dot SourceForge dot Net - 1EYFAi9UUJVLPoh | 0.110 |         3 |     10 |        1 |       0.16 |        0.12 |      0.00 |
-| 0x8C5534E1 Alexander Orlov <alexander.orlov@loxal.net> | Sup | 0.107 |         3 |      3 |        2 |       0.14 |        0.14 |      0.00 |
+| torpids AT yahoo dot com - 1JYHfzVFVD7n2Sezz3DEHDFgGYjQWpDjq | 0.943 |        22 |     29 |        1 |       1.36 |        1.11 |      0.00 |
+| Hello, I am a Tor node! My nickname: https://youtu.be/_56MqH | 0.516 |         8 |     20 |        3 |       0.61 |        0.73 |      0.00 |
+| 1024D/BE2F8A87 Wim Biemolt <wimbie AT sec dot nl>            | 0.390 |         2 |      3 |        1 |       0.59 |        0.43 |      0.00 |
+| <roger fillipo> rodger.fillipo@mail.com                      | 0.354 |         3 |      3 |        1 |       0.53 |        0.39 |      0.00 |
+| dev.null@kryptonit.org - 1AjBZw8ExjkWgh7Y5s9mLX4UXHadzPfKQu  | 0.349 |         2 |      4 |        1 |       0.52 |        0.38 |      0.00 |
+| <Jannis> jannisde85@eclipso.eu                               | 0.293 |         4 |      4 |        1 |       0.44 |        0.32 |      0.00 |
+| t@or-no.de - 1L3NkCq7GPctWknh5sTEczdmeCafn7a68a              | 0.252 |         4 |     10 |        1 |       0.38 |        0.28 |      0.00 |
+| relays [at] riseup.net                                       | 0.244 |         2 |      2 |        1 |       0.36 |        0.27 |      0.00 |
+| sparky2749@gmail.com                                         | 0.230 |         2 |      2 |        1 |       0.34 |        0.25 |      0.00 |
+| Knight <knight AT germancraft DOT net> - 1FtUVig2YfcaVcV8Umd | 0.202 |         3 |      3 |        1 |       0.28 |        0.25 |      0.00 |
+| Servbr Admin <servbr [AT] mail [DOT] md>                     | 0.198 |         4 |      6 |        1 |       0.27 |        0.24 |      0.00 |
+| freeasinbeer@techie.com                                      | 0.190 |         3 |      3 |        1 |       0.28 |        0.21 |      0.00 |
+| Marcel Straub <marcel AT straub-nv.de>                       | 0.183 |         3 |      3 |        1 |       0.27 |        0.20 |      0.00 |
+| <SAM> 7duckbrothers4life@gmail.com                           | 0.133 |         2 |      2 |        1 |       0.20 |        0.14 |      0.00 |
+| torfun1251918616 AT unseen.is                                | 0.127 |         2 |      2 |        1 |       0.19 |        0.14 |      0.00 |
+| 0x88888888 Ole Tange <ole@tange.dk>                          | 0.126 |         2 |      3 |        1 |       0.11 |        0.21 |      0.00 |
+| mandalorian.outpost.222@yandex DOT com                       | 0.115 |         2 |      2 |        1 |       0.17 |        0.12 |      0.00 |
+| Pascal666 at Users dot SourceForge dot Net - 1EYFAi9UUJVLPoh | 0.113 |         3 |     10 |        1 |       0.17 |        0.12 |      0.00 |
+| torproject@godau.org                                         | 0.105 |         3 |      3 |        1 |       0.14 |        0.12 |      0.00 |
 +--------------------------------------------------------------+-------+-----------+--------+----------+------------+-------------+-----------+
